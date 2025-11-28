@@ -1,0 +1,2045 @@
+{
+  "metadata": {
+    "source": "pertor_2023.json",
+    "model": "gemini-2.5-flash",
+    "total_qa_pairs": 407,
+    "generated_at": "2025-11-28T11:00:52.643060"
+  },
+  "qa_pairs": [
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa peran Rektor di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Rektor adalah organ UPN \"Veteran\" Jawa Timur yang memimpin penyelenggaraan dan pengelolaan UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa saja fungsi Senat UPN \"Veteran\" Jawa Timur di bidang akademik?",
+      "answer": "Senat UPN \"Veteran\" Jawa Timur berfungsi menetapkan kebijakan, memberikan pertimbangan, dan melakukan pengawasan di bidang akademik."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Siapakah Dekan dan apa kewenangan serta tanggung jawabnya?",
+      "answer": "Dekan adalah pimpinan fakultas yang berwenang dan bertanggung jawab terhadap penyelenggaraan pendidikan di masing-masing fakultas."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Berdasarkan ketentuan umum, bagaimana Fakultas didefinisikan?",
+      "answer": "Fakultas adalah himpunan sumber daya pendukung yang menyelenggarakan dan mengelola pendidikan akademik dalam satu rumpun disiplin ilmu pengetahuan-teknologi, humaniora, dan seni."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana pengertian Jurusan dijelaskan dalam ketentuan ini?",
+      "answer": "Jurusan adalah himpunan sumber daya pendukung yang menyelenggarakan dan mengelola pendidikan akademik dalam satu bidang ilmu pengetahuan, teknologi, humaniora, dan seni."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Siapakah yang dimaksud dengan Dosen menurut ketentuan ini?",
+      "answer": "Dosen adalah tenaga pendidik yang mengajar mahasiswa UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Siapa yang dimaksud dengan dosen dalam lingkup UPN \"Veteran\" Jawa Timur?",
+      "answer": "Dosen adalah tenaga pendidik yang mengajar mahasiswa UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa peran dan tanggung jawab seorang Pembimbing Akademik (PA) di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Pembimbing Akademik (PA) adalah dosen yang ditunjuk oleh fakultas untuk membimbing dan mengarahkan mahasiswa dalam menyusun rencana studi sesuai dengan aturan yang berlaku, serta mengikuti perkembangan studi mahasiswa yang menjadi tanggung jawab bimbingannya."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Siapa yang berwenang menunjuk Pembimbing skripsi/prototype/tugas akhir dan apa tugas utamanya?",
+      "answer": "Pembimbing skripsi/prototype/tugas akhir ditunjuk oleh Dekan untuk membimbing penyusunan karya tulis tugas akhir mahasiswa."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Siapakah yang dikategorikan sebagai mahasiswa asing di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Mahasiswa asing adalah peserta didik pada jenjang pendidikan tinggi di UPN \"Veteran\" Jawa Timur yang berasal dari Warga Negara Asing (WNA)."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimanakah karakteristik program sarjana sebagai pendidikan akademik?",
+      "answer": "Program sarjana merupakan pendidikan akademik yang diperuntukkan bagi lulusan pendidikan menengah atau sederajat sehingga mampu mengamalkan ilmu pengetahuan dan teknologi melalui penalaran ilmiah."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan Kerangka Kualifikasi Nasional Indonesia (KKNI)?",
+      "answer": "Kerangka Kualifikasi Nasional Indonesia yang selanjutnya disingkat KKNI adalah kerangka penjenjangan kualifikasi kompetensi yang dapat menyandingkan, menyetarakan dan mengintegrasikan antara bidang pendidikan dan bidang pelatihan kerja serta pengalaman kerja dalam rangka pemberian pengakuan kompetensi kerja sesuai dengan struktur pekerjaan di berbagai sektor."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Komponen-komponen apa saja yang membentuk kurikulum sebagai pedoman penyelenggaraan program studi?",
+      "answer": "Kurikulum terbentuk dari seperangkat rencana dan pengaturan yang mencakup capaian pembelajaran lulusan, bahan kajian, proses, dan penilaian."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana peran mahasiswa dan dosen dalam sistem pembelajaran Student Centered Learning (SCL)?",
+      "answer": "Dalam sistem Student Centered Learning (SCL), mahasiswa berperan sebagai pelaku utama dalam proses pembelajaran, sementara dosen berfungsi sebagai fasilitator dan motivator."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Kegiatan akademik apa saja yang tidak dibebankan kepada peserta didik yang berstatus 'Sit in' di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Peserta didik yang berstatus 'Sit in' tidak dibebani kegiatan akademik berupa ujian, penelitian, dan tugas-tugas lainnya."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apakah yang dimaksud dengan Transfer kredit (Credit Transfer)?",
+      "answer": "Transfer kredit (Credit Transfer) adalah transfer atau konversi SKS mata kuliah yang diperoleh dari luar program studinya, yang direncanakan dan secara sistematis tercantum dalam kurikulum program studi tersebut, serta dapat diambil baik di dalam maupun di luar UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana definisi Pertukaran mahasiswa (Student Exchange) sesuai ketentuan umum?",
+      "answer": "Pertukaran mahasiswa (Student Exchange) adalah kegiatan pertukaran mahasiswa UPN \"Veteran\" Jawa Timur dengan perguruan tinggi lain, baik di dalam maupun di luar negeri, yang meliputi kegiatan akademik dan/atau seni serta didasarkan pada kesepakatan kedua belah pihak."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Jelaskan pengertian Twinning Program.",
+      "answer": "Twinning Program adalah pengembangan program studi yang sama antara UPN \"Veteran\" Jawa Timur dengan perguruan tinggi dari dalam maupun luar negeri dengan cara melakukan sinkronisasi kurikulum kedua program studi dalam rangka menyelenggarakan proses pembelajaran bersama."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan Program Bersama (Joint Program) dalam penyelenggaraan pendidikan tinggi?",
+      "answer": "Program Bersama (Joint Program) adalah suatu program penyelenggaraan pendidikan tinggi yang dilaksanakan berdasarkan kerjasama antar fakultas atau dengan perguruan tinggi lain di dalam atau luar negeri dengan tujuan untuk penyetaraan atau pengakuan program."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Hasil apa yang dapat diperoleh dari pelaksanaan Joint Program?",
+      "answer": "Joint Program dapat menghasilkan gelar dari dual program, yang merupakan hasil dari program double degree atau joint degree."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana perbedaan antara Double Degree dan Joint Degree berdasarkan ketentuan ini?",
+      "answer": "Double Degree adalah gelar ganda yang diperoleh dari UPN \"Veteran\" Jawa Timur dan dari perguruan tinggi lain, yang menghasilkan 2 (dua) ijazah. Sementara itu, Joint Degree adalah gelar yang diperoleh dari UPN \"Veteran\" Jawa Timur bersama perguruan tinggi lain, yang menghasilkan 1 (satu) ijazah."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apakah yang dimaksud dengan PSDKU UPN \"Veteran\" Jawa Timur?",
+      "answer": "PSDKU UPN \"Veteran\" Jawa Timur adalah program studi yang diselenggarakan di kabupaten, kota, atau kota administratif yang tidak berbatasan langsung dengan kampus utama UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa definisi status ganda bagi seorang mahasiswa?",
+      "answer": "Status ganda adalah kedudukan seorang mahasiswa dalam suatu kurun waktu tertentu yang memiliki status terdaftar sebagai mahasiswa pada dua atau lebih program studi reguler di Perguruan Tinggi Negeri (PTN)."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Untuk tujuan apa mahasiswa melakukan registrasi administratif?",
+      "answer": "Registrasi administratif adalah suatu kegiatan yang dilakukan oleh mahasiswa untuk memperoleh status terdaftar di universitas."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan Kartu Rencana Studi (KRS) bagi seorang mahasiswa?",
+      "answer": "Kartu Rencana Studi (KRS) adalah rencana kegiatan akademik yang akan dilakukan oleh seorang mahasiswa selama semester tertentu."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Berapa lama durasi minimal sebuah semester dalam proses pembelajaran efektif?",
+      "answer": "Semester adalah satuan proses pembelajaran efektif selama paling sedikit 16 (enam belas) minggu termasuk evaluasi Tengah Semester dan evaluasi Akhir Semester."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana definisi Satuan Kredit Semester (SKS) terkait beban belajar mahasiswa?",
+      "answer": "Satuan Kredit Semester (SKS) adalah takaran waktu kegiatan belajar yang dibebankan pada mahasiswa per minggu, per semester dalam proses pembelajaran melalui berbagai bentuk pembelajaran atau besarnya pengakuan atas keberhasilan usaha mahasiswa dalam mengikuti kegiatan kurikuler di suatu program studi."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan masa studi?",
+      "answer": "Masa studi adalah batas untuk menyelesaikan beban studi dalam mengikuti proses pendidikan pada program studinya."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Jelaskan definisi dari Indeks Prestasi Semester (IPS).",
+      "answer": "Indeks Prestasi Semester (IPS) adalah ukuran prestasi akademik mahasiswa yang merupakan nilai rata-rata tertimbang dari nilai yang diperoleh mahasiswa tiap semester."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Informasi apa saja yang tercantum dalam Kartu Hasil Studi (KHS)?",
+      "answer": "Kartu Hasil Studi (KHS) adalah kartu yang memuat nilai-nilai mata kuliah, indeks prestasi pada semester berjalan dan perolehan seluruh SKS yang telah dikumpulkan serta IPK."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Informasi apa saja yang termuat dalam Kartu Hasil Studi (KHS)?",
+      "answer": "Kartu Hasil Studi (KHS) memuat nilai-nilai mata kuliah, indeks prestasi pada semester berjalan, perolehan seluruh SKS yang telah dikumpulkan, serta Indeks Prestasi Kumulatif (IPK)."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa tujuan utama dari pelaksanaan Kuliah Kerja Nyata (KKN)?",
+      "answer": "Tujuan utama dari Kuliah Kerja Nyata (KKN) adalah untuk mengidentifikasi dan membantu memecahkan permasalahan masyarakat dengan mengutamakan pemberdayaan masyarakat."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Dalam konteks kelulusan mahasiswa, apa peran dari tugas akhir?",
+      "answer": "Tugas akhir menjadi salah satu syarat kelulusan seorang mahasiswa yang ditetapkan berdasarkan kurikulum program studi."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa definisi prototipe?",
+      "answer": "Prototipe adalah tahapan untuk mentransformasi dari sebuah ide menjadi bentuk yang lebih berwujud."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan yudisium?",
+      "answer": "Yudisium adalah penetapan kelulusan seorang mahasiswa yang telah memenuhi persyaratan kurikulum program studi di tingkat fakultas."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Pengakuan apa yang diberikan melalui sertifikat kompetensi?",
+      "answer": "Sertifikat kompetensi adalah dokumen pengakuan kompetensi atas prestasi lulusan yang sesuai dengan keahlian dalam cabang ilmunya dan/atau memiliki prestasi di luar program studinya."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan sertifikat kompetensi berdasarkan ketentuan umum ini?",
+      "answer": "Sertifikat kompetensi adalah dokumen pengakuan kompetensi atas prestasi lulusan yang sesuai dengan keahlian dalam cabang ilmunya dan/atau memiliki prestasi di luar program studinya."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana Surat Keterangan Pendamping Ijazah (SKPI) didefinisikan dalam ketentuan ini?",
+      "answer": "Surat Keterangan Pendamping Ijazah yang selanjutnya disingkat SKPI adalah dokumen yang memuat informasi tentang pencapaian akademik atau kualifikasi dari lulusan pendidikan tinggi bergelar."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Kriteria apa yang menentukan status mahasiswa sebagai \"aktif\"?",
+      "answer": "Status mahasiswa sebagai \"aktif\" ditentukan oleh kegiatan registrasi administratif dan registrasi akademik serta keaktifan dalam melakukan kegiatan perkuliahan."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang menjadi indikator status mahasiswa tidak aktif?",
+      "answer": "Status mahasiswa tidak aktif diindikasikan oleh mahasiswa yang tidak melakukan registrasi administratif dan/atau registrasi akademik."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Berapa lama durasi maksimal cuti akademik yang dapat diambil mahasiswa dan siapa yang memberikan persetujuan?",
+      "answer": "Cuti akademik dapat diambil selama-lamanya 2 (dua) semester yang tidak berturut-turut dengan persetujuan Dekan."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana proses penetapan sanksi akademik bagi mahasiswa di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Penetapan sanksi akademik dilakukan berdasarkan rekomendasi dari tim penyelesaian pelanggaran akademik dan ditetapkan dengan Keputusan Rektor UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan undur diri bagi mahasiswa UPN \"Veteran\" Jawa Timur dan bagaimana penetapannya?",
+      "answer": "Undur diri adalah hak setiap mahasiswa untuk melepaskan statusnya sebagai mahasiswa UPN \"Veteran\" Jawa Timur yang ditetapkan dengan Keputusan Rektor UPN \"Veteran\" Jawa Timur setelah yang bersangkutan mengajukan permohonan secara tertulis kepada Dekan."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Jelaskan pengertian putus studi atau Drop Out (DO) serta penyebabnya?",
+      "answer": "Putus studi atau Drop Out (DO) adalah suatu kondisi seorang peserta didik dimana yang bersangkutan tidak mampu memenuhi persyaratan minimal untuk melanjutkan studi, baik karena alasan akademik dan/atau non-akademik."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Berdasarkan apa status tidak melanjutkan studi karena meninggal dunia diakui?",
+      "answer": "Status tidak melanjutkan studi karena meninggal dunia diakui berdasarkan surat keterangan atau pemberitahuan dari Dekan."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Berdasarkan ketentuan umum, apa yang dimaksud dengan \"lulus\"?",
+      "answer": "\"Lulus\" adalah telah memenuhi semua persyaratan akademik dan administratif untuk ditetapkan sebagai sarjana."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Jelaskan definisi dari \"penyontekan dan/atau perbuatan curang\" menurut ketentuan ini.",
+      "answer": "\"Penyontekan dan/ atau perbuatan curang\" adalah perbuatan dengan sengaja tidak menggunakan atau mencoba menggunakan bahan-bahan informasi atau alat bantu studi lainnya tanpa izin dari dosen yang bersangkutan dalam kegiatan akademik."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan \"penyertaan dalam pelanggaran akademik ringan\"?",
+      "answer": "\"Penyertaan dalam pelanggaran akademik ringan\" adalah perbuatan dengan sengaja atau tidak, bekerja sama atau ikut serta melakukan atau menyuruh melakukan perbuatan-perbuatan yang menyebabkan terjadinya pelanggaran akademik ringan."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana suatu perbuatan dapat dikategorikan sebagai perjokian dalam konteks kegiatan akademik?",
+      "answer": "Suatu perbuatan dapat dikategorikan sebagai perjokian dalam kegiatan akademik apabila seseorang dengan sengaja atau tidak sengaja menggantikan kedudukan, melakukan tugas, atau melakukan kegiatan untuk kepentingan orang lain, baik atas permintaan orang lain maupun kehendak sendiri."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa kriteria yang mendefinisikan perbantuan atau percobaan perbantuan pelanggaran akademik sedang?",
+      "answer": "Perbantuan atau percobaan perbantuan pelanggaran akademik sedang didefinisikan sebagai perbuatan yang dilakukan dengan sengaja atau tidak sengaja, berupa membantu atau mencoba membantu menyediakan sarana atau prasarana yang berpotensi menyebabkan terjadinya pelanggaran akademik sedang."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Tindakan apa saja yang termasuk dalam kategori penyertaan dalam pelanggaran akademik sedang?",
+      "answer": "Penyertaan dalam pelanggaran akademik sedang mencakup perbuatan yang dilakukan dengan sengaja atau tidak sengaja, yaitu bekerjasama, ikut serta melakukan, atau menyuruh melakukan perbuatan-perbuatan yang berakibat pada terjadinya pelanggaran akademik sedang."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa definisi plagiat berdasarkan ketentuan ini?",
+      "answer": "Plagiat adalah perbuatan secara sengaja atau tidak sengaja dalam memperoleh atau mencoba memperoleh kredit atau nilai untuk suatu karya ilmiah, dengan mengutip sebagian atau seluruh karya dan/atau karya ilmiah pihak lain yang diakui sebagai karya ilmiahnya, tanpa menyatakan sumber secara tepat dan memadai."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Jelaskan apa yang dimaksud dengan pemalsuan dalam lingkup kegiatan akademik menurut ketentuan ini.",
+      "answer": "Pemalsuan adalah perbuatan secara sengaja atau tidak sengaja, tanpa izin yang berwenang mengganti atau mengubah/memalsukan simbol (cap), kop surat dan/atau instrumen pada surat menyurat dalam administrasi akademik, nama, tanda tangan, nilai atau transkrip akademik, ijazah, kartu tanda mahasiswa, tugas-tugas, laporan praktikum, keterangan, atau laporan dalam lingkup kegiatan akademik."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana suatu perbuatan dapat dikategorikan sebagai gratifikasi dan penyuapan?",
+      "answer": "Suatu perbuatan dapat dikategorikan sebagai gratifikasi dan penyuapan apabila dilakukan secara sengaja atau tidak sengaja, dengan tujuan mempengaruhi atau mencoba mempengaruhi orang lain melalui bujukan, pemberian hadiah, atau janji, agar dosen atau tenaga kependidikan melakukan atau tidak melakukan sesuatu dalam jabatannya yang bertentangan dengan kewajibannya."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Perbuatan seperti apa yang dikategorikan sebagai penghinaan menurut ketentuan ini?",
+      "answer": "Penghinaan dikategorikan sebagai perbuatan yang secara sengaja atau tidak sengaja menyampaikan perkataan, tulisan, atau dalam bentuk apapun yang pada pokoknya merendahkan martabat kedudukan sesama mahasiswa, dosen, staf administrasi, maupun pejabat di lingkungan UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa yang dimaksud dengan pelanggaran administrasi dan tata tertib berat?",
+      "answer": "Pelanggaran administrasi dan tata tertib berat adalah perbuatan secara sengaja atau tidak sengaja, baik sendiri maupun kerjasama melakukan perbuatan yang bertentangan dengan ketentuan tata tertib dan administrasi yang dikeluarkan Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Republik Indonesia."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Bagaimana perbantuan atau percobaan perbantuan pelanggaran akademik berat didefinisikan?",
+      "answer": "Perbantuan atau percobaan perbantuan pelanggaran akademik berat didefinisikan sebagai perbuatan secara sengaja atau tidak sengaja, membantu atau mencoba membantu menyediakan sarana atau prasarana yang dapat menyebabkan terjadinya pelanggaran akademik berat."
+    },
+    {
+      "context": "KETENTUAN UMUM",
+      "question": "Apa pengertian penyertaan dalam pelanggaran akademik berat?",
+      "answer": "Penyertaan dalam pelanggaran akademik berat adalah perbuatan secara sengaja atau tidak sengaja, bekerjasama atau ikut serta melakukan atau menyuruh melakukan perbuatan-perbuatan yang menyebabkan terjadinya pelanggaran akademik berat."
+    },
+    {
+      "context": "TUJUAN PENDIDIKAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Mahasiswa program sarjana dan sarjana terapan dipersiapkan untuk menjadi apa?",
+      "answer": "Mahasiswa program sarjana dan sarjana terapan dipersiapkan untuk menjadi intelektual, ilmuwan yang beretika, berbudaya, berkarakter bela negara, kompeten, berdaya saing global, mampu memasuki dan/atau menciptakan lapangan kerja, serta mampu mengembangkan diri menjadi profesional."
+    },
+    {
+      "context": "TUJUAN PENDIDIKAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Kompetensi utama apa yang diarahkan untuk dihasilkan oleh program sarjana dan sarjana terapan bagi lulusannya?",
+      "answer": "Program sarjana dan sarjana terapan diarahkan untuk menghasilkan lulusan dengan kompetensi utama sesuai dengan profil program studi masing-masing yang disetujui oleh senat fakultas."
+    },
+    {
+      "context": "TUJUAN PENDIDIKAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Jenjang kompetensi berapa dalam KKNI yang menjadi tujuan dari program sarjana dan sarjana terapan?",
+      "answer": "Program sarjana dan sarjana terapan diarahkan untuk menghasilkan lulusan dengan kompetensi sesuai dengan jenjang 6 (enam) dalam KKNI."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa saja persyaratan yang harus dipenuhi dalam penyelenggaraan program studi sarjana dan sarjana terapan?",
+      "answer": "Penyelenggaraan program studi sarjana dan sarjana terapan harus memiliki izin penyelenggaraan atau akreditasi yang masih berlaku, memenuhi baku mutu menurut sistem penjaminan mutu akademik, serta mempunyai paling sedikit 5 (lima) dosen tetap dengan kualifikasi sesuai peraturan yang berlaku."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana ketentuan akreditasi bagi program studi baru dalam penyelenggaraan program sarjana dan sarjana terapan?",
+      "answer": "Program studi baru dalam penyelenggaraan program sarjana dan sarjana terapan harus terakreditasi sesuai dengan ketentuan yang berlaku."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Status akreditasi apa saja yang diakui untuk program studi sesuai dengan ketentuan yang berlaku?",
+      "answer": "Status akreditasi yang diakui adalah Terakreditasi BAN-PT dengan status A, B, atau C; Terakreditasi BAN-PT dengan status Unggul, Baik Sekali, Baik; Terakreditasi BAN-PT dengan status terakreditasi sementara, terakreditasi dan unggul; atau Terakreditasi Internasional oleh lembaga akreditasi internasional yang diakui Kemendikbud Ristek."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Dalam bentuk apa saja program sarjana dan sarjana terapan dapat diselenggarakan?",
+      "answer": "Program sarjana dan sarjana terapan dapat diselenggarakan dalam bentuk kelas reguler, kelas internasional, kelas kerjasama, dan PSDKU."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa syarat bagi program studi untuk dapat menyelenggarakan program sarjana dan sarjana terapan kelas internasional?",
+      "answer": "Program sarjana dan sarjana terapan kelas internasional hanya dapat diselenggarakan pada program studi yang menyelenggarakan program sarjana kelas reguler terakreditasi/unggul/terakreditasi internasional."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa persyaratan kurikulum dan hasil lulusan yang harus dipenuhi oleh kelas reguler?",
+      "answer": "Kelas reguler harus menggunakan kurikulum dan menghasilkan lulusan dengan kompetensi utama yang sama."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana ketentuan kurikulum dan kompetensi lulusan pada kelas reguler?",
+      "answer": "Kelas reguler harus menggunakan kurikulum dan menghasilkan lulusan dengan kompetensi utama yang sama."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa tujuan program studi wajib menyelenggarakan minimal satu kelas mata kuliah dengan pengantar bahasa Inggris setiap semester?",
+      "answer": "Program studi wajib menyelenggarakan minimal 1 kelas mata kuliah pada setiap semester dengan pengantar bahasa Inggris untuk meningkatkan kemampuan berbahasa asing sebagai kompetensi pendukung."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa yang dimaksud dengan kelas kerjasama dan atas dasar apa program ini diselenggarakan?",
+      "answer": "Kelas kerjasama merupakan program pendidikan yang diselenggarakan atas dasar Memorandum of Understanding (MoU) atau perjanjian kerjasama antara UPN \"Veteran\" Jawa Timur dengan instansi atau perusahaan lain guna memenuhi kebutuhan Sumber Daya Manusia (SDM) sesuai dengan spesifikasi instansi terkait."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apakah definisi dari kelas internasional berdasarkan bahasa pengantar yang digunakan?",
+      "answer": "Kelas internasional adalah program pendidikan yang diselenggarakan dengan menggunakan Bahasa Inggris sebagai bahasa pengantar."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana model penyelenggaraan kelas internasional dapat dilakukan oleh universitas?",
+      "answer": "Kelas internasional dapat diselenggarakan sepenuhnya oleh universitas dan/atau bekerjasama dengan universitas mitra di luar negeri yang memiliki reputasi internasional minimal setara dengan UPN \"Veteran\" Jawa Timur dan terakreditasi di negaranya."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimanakah perbedaan pemberian gelar pada kelas internasional yang diselenggarakan sepenuhnya oleh UPN \"Veteran\" Jawa Timur dengan yang diselenggarakan melalui kerjasama?",
+      "answer": "Kelas internasional yang diselenggarakan sepenuhnya oleh UPN \"Veteran\" Jawa Timur akan memberikan gelar tunggal dari universitas, sementara kelas internasional yang diselenggarakan berdasarkan kerjasama dengan universitas mitra di luar negeri dapat memberikan gelar ganda dari UPN \"Veteran\" Jawa Timur dan dari universitas mitra di luar negeri."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Berapa persentase kesamaan kurikulum yang harus dipenuhi oleh kelas internasional dibandingkan dengan kelas reguler, dan apa capaian yang harus dihasilkan?",
+      "answer": "Kelas internasional, baik yang memberikan gelar tunggal maupun gelar ganda, harus menggunakan kurikulum paling sedikit 50 persen yang sama dengan kelas reguler dan menghasilkan lulusan dengan capaian pembelajaran yang sama."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana ketentuan mengenai jumlah peserta dalam kelas internasional?",
+      "answer": "Jumlah peserta kelas internasional tidak boleh lebih besar dari jumlah peserta program sarjana kelas reguler."
+    },
+    {
+      "context": "PENYELENGGARAAN PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa syarat peringkat akreditasi bagi program studi yang akan membuka kelas PSDKU?",
+      "answer": "Program studi yang akan membuka kelas PSDKU harus telah menyelenggarakan program studi yang sama di Kampus Utama UPN \"Veteran\" Jawa Timur dengan peringkat terakreditasi/unggul/terakreditasi internasional."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Melalui jalur seleksi apa saja penerimaan calon mahasiswa baru program sarjana dan sarjana terapan dilaksanakan?",
+      "answer": "Penerimaan calon mahasiswa baru program sarjana dan sarjana terapan dilaksanakan melalui jalur seleksi tingkat nasional (SNBP & SNBT) dan jalur mandiri UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Pola-pola apa saja yang digunakan dalam pelaksanaan jalur mandiri UPN \"Veteran\" Jawa Timur?",
+      "answer": "Jalur mandiri UPN \"Veteran\" Jawa Timur dilaksanakan melalui tiga pola, yaitu Pola Reguler, Pola Prestasi, dan Pola Kemitraan & Kerjasama."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bentuk ujian apa saja yang dapat diterapkan dalam sistem seleksi mahasiswa baru?",
+      "answer": "Sistem seleksi mahasiswa baru dapat berbentuk ujian tulis berbasis kertas (PBT), ujian tulis berbasis komputer (UTBK/CBT), atau cara seleksi lain yang ditetapkan oleh universitas."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana tata cara penerimaan mahasiswa Program Sarjana dan Sarjana Terapan diatur?",
+      "answer": "Tata cara penerimaan mahasiswa Program Sarjana dan Sarjana Terapan diatur dalam Peraturan Rektor tersendiri."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa saja persyaratan yang harus dipenuhi oleh calon mahasiswa program sarjana yang akan mendaftar?",
+      "answer": "Calon mahasiswa program sarjana harus memenuhi persyaratan sebagai berikut: Warga Negara Indonesia (WNI) atau Warga Negara Asing (WNA) yang memperoleh izin belajar dari Kementerian Pendidikan dan Kebudayaan dan menguasai bahasa pengantar; lulus SMA atau sederajat, atau program paket C yang ijazahnya diakui UPN \"Veteran\" Jawa Timur; lulusan SMA pada T0 sampai T-2 atau usia ijazahnya tidak lebih dari 3 (tiga) tahun; sehat jasmani dan rohani; serta memenuhi syarat khusus yang ditentukan oleh prodi yang memberikan syarat khusus."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa dasar penetapan syarat bagi calon mahasiswa kelas kerjasama?",
+      "answer": "Syarat bagi calon mahasiswa kelas kerjasama ditetapkan berdasarkan Memorandum of Understanding (MoU) dan Perjanjian Kerja Sama (PKS)."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa dasar penetapan syarat bagi calon mahasiswa kelas kerjasama?",
+      "answer": "Syarat bagi calon mahasiswa kelas kerjasama ditetapkan berdasarkan Memorandum of Understanding (MoU) dan Perjanjian Kerja Sama (PKS)."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana daya tampung pada setiap program studi di UPN \"Veteran\" Jawa Timur ditetapkan?",
+      "answer": "Daya tampung pada setiap program studi ditetapkan dalam Keputusan Rektor UPN \"Veteran\" Jawa Timur dengan memperhatikan kemampuan sarana, prasarana, dan sumber daya manusia yang dimiliki."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Kapan seorang calon mahasiswa dinyatakan lolos seleksi?",
+      "answer": "Calon mahasiswa dinyatakan lolos seleksi apabila memenuhi ketentuan yang dipersyaratkan, baik dalam seleksi nasional dan/atau seleksi mandiri."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana kriteria kelulusan bagi calon mahasiswa dalam proses seleksi?",
+      "answer": "Calon mahasiswa dinyatakan lolos seleksi apabila memenuhi ketentuan yang dipersyaratkan, baik dalam seleksi nasional dan/atau seleksi mandiri."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Setelah dinyatakan lulus seleksi, apa kewajiban yang harus dipenuhi oleh calon mahasiswa dan apa konsekuensinya jika tidak melakukan registrasi administratif?",
+      "answer": "Calon mahasiswa yang dinyatakan lulus seleksi harus melakukan registrasi administratif dan registrasi akademik sesuai dengan jadwal yang telah ditetapkan oleh universitas. Apabila calon mahasiswa tidak melakukan registrasi administratif sesuai dengan jadwal yang ditetapkan, maka ia dianggap mengundurkan diri."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Kapan seorang calon mahasiswa secara resmi memperoleh status sebagai mahasiswa UPN \"Veteran\" Jawa Timur?",
+      "answer": "Seorang calon mahasiswa mempunyai status resmi sebagai mahasiswa UPN \"Veteran\" Jawa Timur setelah dilantik pada upacara Penerimaan Mahasiswa Baru (PMB) dalam sidang Senat Terbuka."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Kapan seorang calon mahasiswa memperoleh status resmi sebagai mahasiswa UPN \"Veteran\" Jawa Timur?",
+      "answer": "Seorang calon mahasiswa mempunyai status resmi sebagai mahasiswa UPN \"Veteran\" Jawa Timur setelah dilantik pada upacara Penerimaan Mahasiswa Baru (PMB) dalam sidang Senat Terbuka."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Bagaimana tata cara penerimaan mahasiswa untuk program sarjana dan sarjana terapan di UPN \"Veteran\" Jawa Timur diatur?",
+      "answer": "Tata cara penerimaan program sarjana dan sarjana terapan diatur dalam Keputusan Rektor tentang Pedoman Penerimaan Mahasiswa Baru UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apakah mahasiswa diperkenankan terdaftar pada lebih dari satu program studi di Perguruan Tinggi Negeri?",
+      "answer": "Mahasiswa tidak diperkenankan terdaftar pada 2 (dua) program studi atau lebih pada Perguruan Tinggi Negeri (PTN), kecuali yang bersangkutan mengikuti program yang diselenggarakan oleh Pemerintah Indonesia melalui Kementerian Pendidikan dan Kebudayaan."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa tindakan yang akan dilakukan oleh Wakil Rektor Bidang Akademik (WR I) jika seorang mahasiswa terdaftar pada lebih dari satu program studi?",
+      "answer": "Wakil Rektor Bidang Akademik (WR I) akan mengirimkan surat teguran kepada mahasiswa yang bersangkutan untuk segera menentukan program studi pilihannya, dengan tembusan kepada Dekan."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Berapa lama waktu yang diberikan kepada mahasiswa untuk menyampaikan pilihan program studinya setelah menerima surat teguran tertulis?",
+      "answer": "Mahasiswa harus menyampaikan pemberitahuan tertulis tentang pilihan program studinya kepada Wakil Rektor Bidang Akademik (WR I) selambat-lambatnya 20 (dua puluh) hari kerja terhitung sejak surat teguran tertulis diterbitkan."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Keputusan apa yang akan diterbitkan oleh Universitas terkait status mahasiswa setelah mereka menentukan pilihan program studi?",
+      "answer": "Universitas akan menerbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang pengunduran diri mahasiswa dari salah satu program studi."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Apa konsekuensi yang akan diterbitkan oleh Universitas jika mahasiswa mengundurkan diri dari salah satu program studi?",
+      "answer": "Universitas akan menerbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang pengunduran diri mahasiswa dari salah satu program studi."
+    },
+    {
+      "context": "PENERIMAAN MAHASISWA PROGRAM SARJANA DAN SARJANA TERAPAN",
+      "question": "Tindakan apa yang akan diambil oleh universitas apabila pilihan program studi tidak disampaikan dalam batas waktu yang ditentukan?",
+      "answer": "Apabila pilihan program studi tidak disampaikan dalam batas waktu yang ditentukan, pihak universitas akan menerbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang pemutusan hubungan studi."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Apa tujuan perancangan kurikulum program sarjana dan sarjana terapan?",
+      "answer": "Kurikulum dirancang untuk mencetak lulusan dengan kompetensi yang sesuai dengan rumusan capaian pembelajaran minimal, yaitu setara dengan jenjang 6 (enam) kualifikasi pada KKNI."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Berbasis apakah kurikulum program sarjana dan sarjana terapan dilaksanakan?",
+      "answer": "Kurikulum program sarjana dan sarjana terapan dilaksanakan berbasis capaian pembelajaran lulusan yang memuat kompetensi utama."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Kompetensi utama apa saja yang harus termuat dalam capaian pembelajaran lulusan program sarjana dan sarjana terapan?",
+      "answer": "Kompetensi utama yang harus termuat adalah menguasai konsep teoritis bidang pengetahuan dan keterampilan tertentu secara umum dan khusus untuk menyelesaikan masalah secara prosedural sesuai dengan lingkup pekerjaannya; dan mampu beradaptasi terhadap situasi perubahan yang dihadapi."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Apa dasar pelaksanaan kurikulum program sarjana dan sarjana terapan, serta kompetensi utama minimal apa yang harus dimuat?",
+      "answer": "Kurikulum program sarjana dan sarjana terapan dilaksanakan berbasis capaian pembelajaran lulusan yang memuat kompetensi utama minimal: Mampu menerapkan konsep teoritis bidang pengetahuan dan keterampilan tertentu secara umum dan khusus untuk menyelesaikan masalah secara prosedural sesuai dengan Lingkup pekerjaannya; dan Mampu beradaptasi terhadap situasi perubahan yang dihadapi."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Kapan peninjauan kurikulum dapat dilaksanakan, dan oleh pihak mana peninjauan tersebut harus disetujui?",
+      "answer": "Peninjauan kurikulum dapat dilakukan sesuai dengan perkembangan ilmu pengetahuan, teknologi, humaniora, dan seni atau dievaluasi secara teratur dalam kurun waktu tiga hingga lima tahun oleh program studi dan disetujui oleh senat fakultas."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Siapa yang menetapkan kurikulum, dan bagaimana mekanisme penyusunan serta peninjauan kurikulum diatur?",
+      "answer": "Kurikulum ditetapkan dalam Keputusan Dekan UPN \"Veteran\" Jawa Timur setelah memperoleh pertimbangan dari Senat Fakultas. Mekanisme penyusunan dan peninjauan kurikulum diatur dalam pedoman yang ditetapkan dalam Surat Keputusan Rektor."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Bagaimana mekanisme penyusunan dan peninjauan kurikulum diatur?",
+      "answer": "Mekanisme penyusunan dan peninjauan kurikulum diatur dalam pedoman yang ditetapkan melalui Surat Keputusan Rektor."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Apa saja komponen yang membentuk struktur kurikulum program studi?",
+      "answer": "Struktur kurikulum program studi terdiri atas mata kuliah wajib, yang dirumuskan untuk mencapai kompetensi utama, dan mata kuliah pilihan, yang dipilih mahasiswa untuk memperluas wawasan serta memenuhi persyaratan beban minimal suatu jenjang pendidikan."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Sebutkan mata kuliah yang termasuk dalam kategori wajib nasional dan wajib universitas.",
+      "answer": "Mata kuliah wajib nasional terdiri atas Agama, Pancasila, Bahasa Indonesia, dan Kewarganegaraan, sedangkan mata kuliah wajib universitas meliputi Bahasa Inggris, Bela Negara, Kewirausahaan, dan Kepemimpinan."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Apa saja mata kuliah yang termasuk dalam kategori wajib nasional?",
+      "answer": "Mata kuliah wajib nasional terdiri atas Agama, Pancasila, Bahasa Indonesia, dan Kewarganegaraan."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Berapa jumlah Satuan Kredit Semester (SKS) yang dialokasikan untuk mata kuliah Bahasa Inggris dan Bela Negara?",
+      "answer": "Mata kuliah Bahasa Inggris dialokasikan 3 SKS dan mata kuliah Bela Negara dialokasikan 3 SKS."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Apakah terdapat perbedaan mata kuliah wajib pada suatu program studi antara kelas reguler, kelas internasional, dan kelas kerjasama?",
+      "answer": "Tidak, mata kuliah wajib pada suatu program studi harus sama, baik kelas reguler, kelas internasional, maupun kelas kerjasama."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Bagaimana ketentuan mata kuliah wajib pada suatu program studi di berbagai jenis kelas?",
+      "answer": "Mata kuliah wajib pada suatu program studi harus sama untuk kelas reguler, kelas internasional, maupun kelas kerjasama."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Apa kewajiban setiap mahasiswa terkait kelulusan mata kuliah dalam struktur kurikulum program studi?",
+      "answer": "Setiap mahasiswa wajib lulus semua mata kuliah, baik mata kuliah wajib maupun mata kuliah pilihan yang tercakup dalam struktur kurikulum program studi."
+    },
+    {
+      "context": "KURIKULUM",
+      "question": "Pilihan perpaduan mata kuliah apa saja yang tersedia bagi mahasiswa?",
+      "answer": "Setiap mahasiswa dapat memilih perpaduan antara mata kuliah wajib dan mata kuliah pilihan pada program studi tersebut; atau mata kuliah wajib dan mata kuliah yang dipilih dari berbagai program studi/fakultas lain baik di dalam maupun di luar UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KEMAMPUAN BERBAHASA INGGRIS",
+      "question": "Apa saja standar minimal kemampuan bahasa Inggris yang dipersyaratkan bagi mahasiswa program sarjana dan sarjana terapan?",
+      "answer": "Standar minimal kemampuan bahasa Inggris yang dipersyaratkan bagi mahasiswa program sarjana dan sarjana terapan adalah International Certificate JETSET Level 4 - Pearson-LCCI - UK (setara dengan IBT-TOEFL 57-86) atau Institusional Certificate English Proficiency Test/EPT 450 LC-UPN \"Veteran\" Jawa Timur (setara dengan ITP-TOEFL 450)."
+    },
+    {
+      "context": "KEMAMPUAN BERBAHASA INGGRIS",
+      "question": "Tindakan apa yang wajib dilakukan oleh mahasiswa baru terkait kemampuan berbahasa Inggris?",
+      "answer": "Mahasiswa baru wajib melakukan tes kemampuan awal berbahasa Inggris di Laboratorium Bahasa Unit Pendukung Akademik-Bahasa UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KEMAMPUAN BERBAHASA INGGRIS",
+      "question": "Untuk keperluan apakah kemampuan berbahasa Inggris yang dipersyaratkan bagi mahasiswa tersebut digunakan?",
+      "answer": "Kemampuan berbahasa Inggris yang dipersyaratkan tersebut digunakan sebagai syarat untuk tugas akhir (skripsi)."
+    },
+    {
+      "context": "KEMAMPUAN BERBAHASA INGGRIS",
+      "question": "Untuk keperluan apa kemampuan berbahasa Inggris diperlukan terkait dengan tugas akhir?",
+      "answer": "Kemampuan berbahasa Inggris diperlukan sebagai syarat untuk tugas akhir (skripsi)."
+    },
+    {
+      "context": "KEMAMPUAN BERBAHASA INGGRIS",
+      "question": "Dalam konteks program, untuk jenis program apa saja kemampuan berbahasa Inggris digunakan sebagai syarat seleksi?",
+      "answer": "Kemampuan berbahasa Inggris digunakan sebagai syarat untuk mengikuti seleksi program akademik dan non-akademik di tingkat nasional/internasional."
+    },
+    {
+      "context": "KEMAMPUAN BERBAHASA INGGRIS",
+      "question": "Persyaratan apa yang harus dipenuhi dalam penggunaan kemampuan berbahasa Inggris untuk seleksi program akademik dan non-akademik?",
+      "answer": "Penggunaan kemampuan berbahasa Inggris untuk seleksi program akademik dan non-akademik di tingkat nasional/internasional harus sesuai dengan persyaratan yang ditetapkan oleh penyelenggara program."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Berapa lama masa tempuh kurikulum dan batas maksimal masa studi untuk program pendidikan sarjana dan sarjana terapan?",
+      "answer": "Masa tempuh kurikulum program pendidikan sarjana dan sarjana terapan dirancang selama 8 (delapan) semester, dengan batas maksimal masa studi 14 (empat belas) semester."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Berapakah ketentuan maksimal beban SKS yang wajib diambil oleh mahasiswa program sarjana dan sarjana terapan pada setiap semester?",
+      "answer": "Mahasiswa program sarjana dan sarjana terapan wajib mengambil beban paling banyak 20 (dua puluh) SKS atau paket pada Semester 1 dan Semester 2, serta paling banyak 24 (dua puluh empat) SKS pada Semester 3 dan seterusnya."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Apakah ada ketentuan khusus terkait masa studi bagi mahasiswa yang memiliki prestasi luar biasa?",
+      "answer": "Mahasiswa yang mempunyai prestasi luar biasa dapat menempuh beban belajar 144 SKS, termasuk tugas akhir atau skripsi, dalam waktu kurang dari 4 tahun."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Apa konsekuensi yang akan diterima mahasiswa jika telah mencapai batas studi namun belum menyelesaikannya?",
+      "answer": "Mahasiswa yang telah mencapai batas studi 7 tahun (14 Semester) dan belum menyelesaikan studinya akan diputus studinya dan dinyatakan drop out (DO)."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Siapa yang bertanggung jawab melakukan evaluasi dan analisis terhadap masa studi dan beban studi mahasiswa, serta kapan kegiatan tersebut dilaksanakan?",
+      "answer": "Program studi melalui Gugus Penjaminan Mutu Program Studi melakukan evaluasi dan analisis setiap semester terhadap masa studi dan beban studi mahasiswa."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Bagaimana cara mahasiswa dapat memenuhi masa dan beban belajar sesuai ketentuan?",
+      "answer": "Pemenuhan masa dan beban belajar dapat dilaksanakan dengan cara mengikuti seluruh proses pembelajaran dalam Program Studi pada Perguruan Tinggi sesuai masa dan beban belajar, atau mengikuti proses pembelajaran di dalam Program Studi untuk memenuhi sebagian masa dan beban belajar dan sisanya mengikuti proses pembelajaran di luar Program Studi."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Apa kewajiban Program Studi dan Fakultas terkait pelaksanaan masa dan beban belajar dalam proses pembelajaran?",
+      "answer": "Program Studi dan Fakultas wajib memfasilitasi pelaksanaan pemenuhan masa dan beban belajar dalam proses pembelajaran."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Berapa batas waktu minimal dan maksimal untuk pembelajaran yang dilaksanakan di dalam Program Studi?",
+      "answer": "Pembelajaran di dalam Program Studi harus dilaksanakan paling sedikit 4 (empat) semester dan paling lama 11 (sebelas) semester."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Bagaimanakah ketentuan masa dan beban belajar untuk pembelajaran yang dilakukan di luar Program Studi atau di luar Perguruan Tinggi?",
+      "answer": "Pembelajaran di luar Program Studi pada Perguruan Tinggi yang sama adalah 1 (satu) semester atau setara dengan 20 (dua puluh) sks, sedangkan pembelajaran pada Program Studi yang sama di Perguruan Tinggi yang berbeda, pada Program Studi yang berbeda di Perguruan Tinggi yang berbeda, dan/atau pembelajaran di luar Perguruan Tinggi paling lama 2 (dua) semester atau setara dengan 40 (empat puluh) SKS."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Kegiatan wajib apakah yang harus dilaksanakan oleh Program Studi Sarjana Terapan?",
+      "answer": "Program Studi Sarjana Terapan wajib melaksanakan kegiatan magang."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Berapa lama durasi dan berapa jumlah satuan kredit semester (SKS) yang setara untuk kegiatan magang wajib Program Studi Sarjana Terapan?",
+      "answer": "Kegiatan magang wajib Program Studi Sarjana Terapan dilaksanakan selama 1 (satu) semester atau setara dengan 20 (dua puluh) SKS."
+    },
+    {
+      "context": "MASA DAN BEBAN BELAJAR",
+      "question": "Di mana kegiatan magang wajib Program Studi Sarjana Terapan harus dilaksanakan?",
+      "answer": "Kegiatan magang wajib Program Studi Sarjana Terapan harus dilaksanakan di dunia usaha, dunia industri, atau dunia kerja yang relevan."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Berdasarkan ketentuan yang ada, di mana saja proses pembelajaran dapat dilaksanakan?",
+      "answer": "Proses pembelajaran dapat dilaksanakan di dalam Program Studi dan di luar Program Studi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapakah pihak yang bertanggung jawab untuk melakukan evaluasi dan analisis terhadap proses pembelajaran?",
+      "answer": "Pihak yang bertanggung jawab adalah program studi melalui Gugus Penjaminan Mutu Program Studi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa tujuan dilakukannya evaluasi dan analisis terhadap proses pembelajaran oleh program studi?",
+      "answer": "Tujuan dilakukannya evaluasi dan analisis tersebut adalah sebagai upaya perbaikan berkelanjutan dalam implementasi penjaminan mutu."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Informasi apa saja yang setidaknya harus dimuat dalam kalender akademik tahunan yang diterbitkan oleh Rektor UPN \"Veteran\" Jawa Timur?",
+      "answer": "Kalender akademik sekurang-kurangnya memuat masa pendaftaran, ujian seleksi, pengumuman hasil seleksi penerimaan mahasiswa baru; jadwal registrasi (administratif dan akademik) mahasiswa baru; jadwal kegiatan awal mahasiswa baru; jadwal registrasi administrasi dan akademik mahasiswa lama; periode perkuliahan; jadwal Evaluasi Tengah Semester (ETS) dan Evaluasi Akhir Semester (EAS); jadwal KKN; periode ujian tugas akhir/skripsi; serta jadwal yudisium dan wisuda."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana perencanaan pembelajaran disusun dan disajikan sesuai ketentuan yang berlaku?",
+      "answer": "Perencanaan pembelajaran disusun untuk setiap mata kuliah dan disajikan dalam Rencana Pembelajaran Semester (RPS)."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Dalam bentuk apa perencanaan pembelajaran disajikan dan untuk setiap apa perencanaan tersebut disusun?",
+      "answer": "Perencanaan pembelajaran disajikan dalam Rencana Pembelajaran Semester (RPS) dan disusun untuk setiap mata kuliah."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapa pihak yang bertanggung jawab dalam penetapan dan pengembangan Rencana Pembelajaran Semester (RPS)?",
+      "answer": "Rencana Pembelajaran Semester (RPS) ditetapkan dan dikembangkan oleh Dosen secara mandiri atau bersama dalam kelompok keahlian suatu bidang Ilmu pengetahuan dan/atau teknologi dalam Program Studi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapa yang memiliki tanggung jawab dalam penetapan dan pengembangan Rencana Pembelajaran Semester (RPS)?",
+      "answer": "Rencana Pembelajaran Semester (RPS) ditetapkan dan dikembangkan oleh Dosen secara mandiri atau bersama dalam kelompok keahlian suatu bidang Ilmu pengetahuan dan/atau teknologi dalam Program Studi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa saja komponen minimal yang wajib dimuat dalam Rencana Pembelajaran Semester (RPS)?",
+      "answer": "Rencana Pembelajaran Semester paling sedikit memuat: nama Program Studi, nama dan kode mata kuliah, semester, sks, nama dosen pengampu; capaian pembelajaran lulusan yang dibebankan pada mata kuliah; kemampuan akhir yang direncanakan pada tiap tahap pembelajaran untuk memenuhi capaian pembelajaran; bahan kajian yang terkait dengan kemampuan yang akan dicapai; metode pembelajaran; waktu yang disediakan untuk mencapai kemampuan pada tiap tahap pembelajaran; pengalaman belajar mahasiswa yang diwujudkan dalam deskripsi tugas yang harus dikerjakan oleh mahasiswa selama satu semester; kriteria, indikator, dan bobot penilaian; dan daftar referensi yang digunakan."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapa yang bertanggung jawab untuk memantau dan mengevaluasi pelaksanaan Rencana Pembelajaran Semester (RPS) sebagai bagian dari proses penjaminan mutu?",
+      "answer": "Pemantauan dan evaluasi pelaksanaan RPS dilakukan oleh Gugus Penjaminan Mutu Program Studi di bawah tanggung jawab Koordinator Program Studi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Mengapa Rencana Pembelajaran Semester wajib ditinjau dan disesuaikan secara berkala?",
+      "answer": "Rencana Pembelajaran Semester wajib ditinjau dan disesuaikan secara berkala dengan perkembangan ilmu pengetahuan, teknologi, humaniora, dan seni."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Informasi apa saja yang setidaknya harus tercakup dalam penetapan jadwal kuliah?",
+      "answer": "Jadwal kuliah setidaknya mencakup nama mata kuliah dan kelas, koordinator mata kuliah, hari dan jam kuliah, tempat/ruang kuliah, serta dosen pengampu."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Pihak mana yang bertanggung jawab untuk menetapkan jadwal Mata Kuliah Umum dan Mata Kuliah yang ada di Prodi?",
+      "answer": "Jadwal Mata Kuliah Umum ditetapkan oleh Universitas, sedangkan Mata Kuliah yang ada di Prodi ditetapkan oleh Fakultas."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana metode pelaksanaan perkuliahan dapat dilakukan dan dalam kondisi apa perkuliahan daring diperbolehkan?",
+      "answer": "Perkuliahan dilakukan secara tatap muka langsung (offline) dan dapat dilakukan melalui dalam jaringan/daring (online) pada kondisi khusus."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Materi apa yang wajib disampaikan oleh dosen di awal pembelajaran kelas dan berapa durasi penyampaiannya?",
+      "answer": "Dosen wajib mengawali pembelajaran di kelas dengan memberikan pesan tentang adab, moral, etika, dan bela negara kepada mahasiswa selama kurang lebih 5-10 menit."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Berapakah total beban belajar yang setara dengan 1 (satu) SKS dalam satu semester?",
+      "answer": "Total beban belajar yang setara dengan 1 (satu) SKS dalam satu semester adalah 45 (empat puluh lima) jam."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa saja komponen kegiatan dan alokasi waktu per minggu per semester untuk 1 (satu) SKS pada proses pembelajaran berupa kuliah atau tutorial?",
+      "answer": "Untuk 1 (satu) SKS pada proses pembelajaran berupa kuliah atau tutorial, komponen kegiatannya per minggu per semester terdiri atas tatap muka 50 (lima puluh) menit, penugasan terstruktur 60 (enam puluh) menit, dan kegiatan mandiri 60 (enam puluh) menit."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimanakah komposisi waktu kegiatan per minggu per semester untuk 1 (satu) SKS pada proses pembelajaran berupa seminar atau bentuk lain yang sejenis?",
+      "answer": "Komposisi waktu kegiatan per minggu per semester untuk 1 (satu) SKS pada proses pembelajaran berupa seminar atau bentuk lain yang sejenis adalah kegiatan tatap muka 100 (seratus) menit dan kegiatan mandiri 70 (tujuh puluh) menit."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Berapa durasi waktu untuk 1 (satu) sks pada proses pembelajaran yang berupa praktikum, magang, atau bentuk pembelajaran sejenis lainnya?",
+      "answer": "1 (satu) sks pada proses pembelajaran yang berupa praktikum, praktik studio, praktik bengkel, praktik lapangan, penelitian, pengabdian kepada masyarakat, magang dan/atau bentuk pembelajaran lain yang sejenis adalah 170 (seratus tujuh puluh) menit per minggu per semester."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Kapan seorang mahasiswa dapat memiliki status aktif?",
+      "answer": "Mahasiswa memiliki status aktif apabila telah melakukan registrasi administratif dan registrasi akademik."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Dalam kondisi seperti apa registrasi administratif mahasiswa dapat dibatalkan?",
+      "answer": "Registrasi administratif mahasiswa bisa dibatalkan jika ternyata mahasiswa tidak mampu memenuhi persyaratan tahapan evaluasi pembelajaran."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Dalam kondisi apa registrasi administratif seorang mahasiswa dapat dibatalkan?",
+      "answer": "Registrasi administratif mahasiswa bisa dibatalkan jika mahasiswa tidak mampu memenuhi persyaratan tahapan evaluasi pembelajaran."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana tata cara pelaksanaan registrasi akademik bagi mahasiswa?",
+      "answer": "Registrasi akademik dilaksanakan dengan melakukan pengisian Kartu Rencana Studi (KRS) melalui SIAMIK secara online sesuai dengan kurikulum yang berlaku untuk mahasiswa tersebut."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Faktor apa yang menjadi penentu jumlah Satuan Kredit Semester (SKS) yang dapat diambil mahasiswa?",
+      "answer": "Jumlah SKS yang dapat diambil disesuaikan dengan Indeks Prestasi Semester (IPS) pada semester terakhir mahasiswa tersebut aktif."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Berapa jumlah SKS maksimal yang dapat diambil oleh mahasiswa baru pada semester 1 dan 2?",
+      "answer": "Jumlah SKS maksimal yang dapat diambil oleh mahasiswa baru pada semester 1 dan 2 adalah 20 SKS."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Dalam kondisi apa Kartu Rencana Studi (KRS) mahasiswa tidak akan disetujui oleh pembimbing akademik?",
+      "answer": "Kartu Rencana Studi (KRS) tidak akan disetujui oleh pembimbing akademik apabila mahasiswa mengambil mata kuliah dengan jadwal yang berbenturan, mengambil mata kuliah yang prasyaratnya belum terpenuhi, atau mengambil SKS melebihi jumlah yang diperbolehkan."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa langkah yang harus diambil oleh mahasiswa apabila Kartu Rencana Studi (KRS) mereka ditolak?",
+      "answer": "Apabila Kartu Rencana Studi (KRS) ditolak, mahasiswa wajib memperbaiki KRS tersebut dan mengajukannya kembali untuk memperoleh persetujuan."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa yang wajib dilakukan mahasiswa apabila Kartu Rencana Studinya (KRS) ditolak?",
+      "answer": "Apabila Kartu Rencana Studinya (KRS) ditolak, mahasiswa wajib memperbaiki KRS dan diajukan kembali untuk memperoleh persetujuan."
+    },
+    {
+      "context": "PROSES PEMBELAJAN",
+      "question": "Kapan batas waktu terakhir bagi mahasiswa untuk melakukan penggantian atau pembatalan mata kuliah, dan persetujuan siapa yang diperlukan?",
+      "answer": "Penggantian mata kuliah dapat dilakukan selambat-lambatnya 1 (satu) minggu setelah kegiatan perkuliahan dimulai, sementara pembatalan mata kuliah dapat dilakukan selambat-lambatnya pada akhir minggu ke-4 (empat) setelah kegiatan perkuliahan dimulai. Baik penggantian maupun pembatalan mata kuliah harus mendapatkan persetujuan Pembimbing Akademik (PA)."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana status mahasiswa yang tidak melakukan registrasi akademik sampai 1 (satu) minggu setelah kegiatan perkuliahan berjalan?",
+      "answer": "Mahasiswa yang tidak melakukan registrasi akademik sampai dengan 1 (satu) minggu setelah kegiatan perkuliahan berjalan dinyatakan berstatus sebagai mahasiswa tidak aktif."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana karakteristik umum metode pembelajaran?",
+      "answer": "Metode pembelajaran bersifat interaktif, holistik, integratif, saintifik, kontekstual, tematik, efektif, kolaboratif, dan berpusat pada mahasiswa."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apakah yang dimaksud dengan metode pembelajaran yang bersifat interaktif?",
+      "answer": "Metode pembelajaran yang bersifat interaktif mengutamakan proses interaksi dua arah antara mahasiswa dan Dosen."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana pola pikir yang diharapkan terbentuk melalui metode pembelajaran holistik?",
+      "answer": "Melalui metode pembelajaran holistik diharapkan terbentuk pola pikir yang komprehensif dan luas dengan menginternalisasi keunggulan dan kearifan lokal maupun nasional."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa yang dimaksud dengan pembelajaran Tematik?",
+      "answer": "Pembelajaran Tematik adalah pembelajaran yang disesuaikan dengan karakteristik keilmuan Program Studi dan dikaitkan dengan permasalahan nyata melalui pendekatan transdisiplin."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana suatu pembelajaran dapat dikatakan Efektif?",
+      "answer": "Pembelajaran dikatakan Efektif jika berhasil guna dengan mementingkan internalisasi material secara baik dan benar dalam kurun waktu yang optimum."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Aspek apa saja yang diutamakan dalam pembelajaran yang berpusat pada mahasiswa?",
+      "answer": "Pembelajaran yang berpusat pada mahasiswa mengutamakan pengembangan kreativitas, kapasitas, kepribadian, dan kebutuhan mahasiswa, serta mengembangkan kemandirian dalam mencari dan menemukan pengetahuan."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Metode pembelajaran apa yang menjadi prioritas utama dalam penyelenggaraan proses pembelajaran?",
+      "answer": "Metode pembelajaran yang diutamakan dalam penyelenggaraan proses pembelajaran adalah Student Centered Learning (SCL)."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Sebutkan beberapa contoh metode Student Centered Learning (SCL) yang diutamakan dalam proses pembelajaran.",
+      "answer": "Beberapa contoh metode Student Centered Learning (SCL) yang diutamakan adalah pembelajaran berbasis masalah/studi kasus, pembelajaran berbasis proyek, interactive skill (diskusi kelompok, bermain peran, dan simulasi), pembelajaran kolaboratif, serta pembelajaran kooperatif."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bentuk-bentuk pembelajaran apa saja yang dapat dilakukan dalam penyelenggaraan proses pembelajaran?",
+      "answer": "Bentuk pembelajaran yang dapat dilakukan meliputi kuliah, responsi, tutorial, seminar, praktikum, praktik studio, praktik bengkel, praktik lapangan, praktik kerja, penelitian, perancangan, dan pengabdian masyarakat."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa saja bentuk proses pembelajaran yang termasuk dalam kategori pembelajaran di luar Program Studi?",
+      "answer": "Bentuk proses pembelajaran yang termasuk dalam kategori pembelajaran di luar Program Studi adalah pembelajaran dalam Program Studi lain pada Perguruan Tinggi yang sama, pembelajaran dalam Program Studi yang sama pada Perguruan Tinggi yang berbeda, pembelajaran dalam Program Studi lain pada Perguruan Tinggi yang berbeda, dan pembelajaran pada lembaga non-Perguruan Tinggi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana pelaksanaan proses pembelajaran di luar Program Studi untuk jenis pembelajaran dalam Program Studi yang sama pada Perguruan Tinggi yang berbeda, pembelajaran dalam Program Studi lain pada Perguruan Tinggi yang berbeda, dan pembelajaran pada lembaga non-Perguruan Tinggi?",
+      "answer": "Pelaksanaan proses pembelajaran di luar Program Studi untuk jenis tersebut dilakukan berdasarkan perjanjian kerja sama atau Memorandum of Understanding (MoU) antara Perguruan Tinggi dengan Perguruan Tinggi atau lembaga lain yang terkait."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapakah pihak yang memiliki kewenangan untuk menentukan kegiatan dalam program proses pembelajaran di luar Program Studi?",
+      "answer": "Pihak yang dapat menentukan kegiatan dalam program proses pembelajaran di luar Program Studi adalah Kementerian dan/atau pemimpin Perguruan Tinggi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapa yang berwenang menentukan kegiatan dalam program proses pembelajaran di luar Program Studi?",
+      "answer": "Kegiatan dalam program proses pembelajaran di luar Program Studi dapat ditentukan oleh Kementerian dan/atau pemimpin Perguruan Tinggi."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa saja bentuk kegiatan pembelajaran yang dapat dilaksanakan di luar Program Studi?",
+      "answer": "Bentuk kegiatan pembelajaran di luar Program Studi meliputi kegiatan pertukaran mahasiswa dalam mengambil mata kuliah, magang/praktik kerja, proyek di desa/KKN Tematik, penelitian/riset, kegiatan wirausaha, studi proyek independen, proyek kemanusiaan, mengajar di sekolah/satuan pendidikan, dan komponen cadangan."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Bagaimana mekanisme pengakuan hasil kegiatan pembelajaran di luar Program Studi?",
+      "answer": "Hasil kegiatan pembelajaran di luar Program Studi diakui melalui mekanisme transfer sks (Credit Transfer) atau perolehan sks (Earning Credit)."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Siapa yang bertanggung jawab memberikan bimbingan untuk kegiatan pembelajaran di luar Program Studi?",
+      "answer": "Kegiatan pembelajaran di luar Program Studi dilaksanakan di bawah bimbingan Dosen."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Setelah menempuh berapa semester mahasiswa dapat mengikuti proses pembelajaran di luar Program Studi?",
+      "answer": "Mahasiswa dapat mengikuti proses pembelajaran di luar Program Studi minimal setelah menempuh 3 Semester, kecuali bagi Program Merdeka Belajar-Kampus Merdeka (MBKM) yang persyaratannya ditentukan oleh Kementerian."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Berapa persentase minimal keaktifan mahasiswa dalam mengikuti pelajaran dari aktivitas akademik terjadwal?",
+      "answer": "Mahasiswa wajib mengikuti pelajaran secara aktif paling sedikit 90 (sembilan puluh) persen dari aktivitas akademik terjadwal."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Berapa persentase kehadiran minimum yang wajib diikuti oleh mahasiswa dalam aktivitas akademik terjadwal?",
+      "answer": "Mahasiswa wajib mengikuti pelajaran secara aktif paling sedikit 90 (sembilan puluh) persen dari aktivitas akademik terjadwal."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Dalam kondisi apa ketidakhadiran mahasiswa dalam perkuliahan tidak dihitung sebagai alpha?",
+      "answer": "Ketidakhadiran mahasiswa tidak dihitung sebagai alpha jika disebabkan oleh keikutsertaan dalam kegiatan yang ditugaskan dan/atau disetujui oleh Rektor atau Pimpinan Fakultas, atau karena alasan sakit dengan menunjukkan surat dokter."
+    },
+    {
+      "context": "PROSES PEMBELAJARAN",
+      "question": "Apa syarat yang harus dipenuhi oleh mahasiswa yang tidak hadir dalam perkuliahan selain karena mengikuti kegiatan yang ditugaskan/disetujui atau alasan sakit?",
+      "answer": "Mahasiswa yang tidak hadir selain karena mengikuti kegiatan yang ditugaskan/disetujui atau alasan sakit, wajib menyertakan surat keterangan resmi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apakah tujuan utama dari penilaian hasil belajar mahasiswa?",
+      "answer": "Penilaian hasil belajar mahasiswa bertujuan untuk mengukur pencapaian kompetensi pembelajaran yang ditetapkan oleh program studi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Aspek apa saja yang harus dicakup dalam penilaian hasil belajar mahasiswa, dan dalam bentuk apa saja penilaian tersebut dapat dilaksanakan secara umum?",
+      "answer": "Penilaian hasil belajar mahasiswa harus mencakup aspek hardskill dan softskill. Pelaksanaannya dapat dilakukan dalam bentuk ujian tertulis, ujian lisan dan/ atau ujian praktikum/ keterampilan, serta portofolio. Tugas akhir juga bisa dalam bentuk skripsi, atau bentuk lain yang setara."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Dalam kondisi seperti apa penilaian hasil belajar dapat dilakukan dengan bentuk-bentuk lain selain yang disebutkan secara umum?",
+      "answer": "Penilaian hasil belajar dapat dilakukan dengan bentuk-bentuk lain berdasarkan tertentu yang dapat dipertanggungjawabkan."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa yang menjadi dasar utama nilai akhir hasil belajar dan berapa bobot minimal evaluasinya?",
+      "answer": "Nilai akhir hasil belajar berbasis pada evaluasi aktivitas partisipatif dan hasil proyek atau studi kasus dengan bobot evaluasi lebih dari 50%."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Sebutkan komponen penilaian lain yang turut menjadi dasar penentuan nilai akhir hasil belajar.",
+      "answer": "Komponen penilaian lainnya adalah Evaluasi Tengah Semester (ETS), Evaluasi Akhir Semester (EAS), tugas, kuis, praktikum, dan keterampilan berperilaku."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Siapa yang berwenang menetapkan formulasi rumus nilai akhir hasil belajar?",
+      "answer": "Formulasi nilai akhir hasil belajar dituangkan dalam rumus yang ditetapkan oleh masing-masing Program Studi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana sistem penilaian hasil belajar dinyatakan?",
+      "answer": "Sistem penilaian hasil belajar dinyatakan dengan huruf, yaitu menggunakan huruf A, B, C, D, dan E."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Berapakah nilai minimal yang harus dicapai mahasiswa untuk dinyatakan lulus mata kuliah dan tugas akhir/skripsi/prototype?",
+      "answer": "Mahasiswa dinyatakan lulus mata kuliah apabila mendapat nilai minimal C, dan nilai lulus minimal tugas akhir/skripsi/prototype adalah C."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa konsekuensi bagi mahasiswa yang memperoleh nilai D dan E, serta bagaimana ketentuan nilai yang diakui untuk mata kuliah yang diulang?",
+      "answer": "Mahasiswa yang mendapat nilai D dan E wajib mengulang Program pembelajaran dan ujian pada semester reguler, dan nilai yang diakui pada mata kuliah yang diambil ulang adalah nilai yang terbaik."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana status kelulusan seorang mahasiswa apabila nilai mata kuliahnya masih berstatus K hingga periode pengisian Kartu Rencana Studi (KRS) semester berikutnya?",
+      "answer": "Apabila sampai dengan pengisian KRS semester berikutnya nilai mahasiswa masih berstatus K, mahasiswa tersebut dianggap tidak lulus (E)."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana ketentuan perhitungan Indeks Prestasi Semester (IPS) bagi mahasiswa?",
+      "answer": "Dalam perhitungan IPS, bobot sks setiap mata kuliah hanya dipergunakan satu kali sebagai pembagi, dan nilai yang dipergunakan adalah nilai keberhasilan yang tertinggi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana rumus perhitungan Indeks Prestasi Semester (IPS) dan Indeks Prestasi Kumulatif (IPK) dijelaskan beserta komponennya?",
+      "answer": "Perhitungan IPS menggunakan rumus IPS = Σ(KN) / ΣK, dengan K adalah besarnya sks masing-masing mata kuliah dan N adalah nilai masing-masing mata kuliah. Perhitungan IPK menggunakan rumus yang sama, dengan K adalah jumlah seluruh sks mata kuliah yang telah ditempuh dengan nilai tertinggi dan N adalah nilai seluruh mata kuliah yang diperoleh."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Kapan penilaian hasil belajar mahasiswa secara umum dan penilaian pada setiap mata kuliah dilaksanakan?",
+      "answer": "Penilaian hasil belajar mahasiswa dilakukan secara berkala sesuai dengan kurikulum, sementara penilaian hasil belajar pada setiap mata kuliah dilakukan pada setiap semester."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Prinsip-prinsip apa saja yang menjadi dasar pelaksanaan penilaian hasil belajar?",
+      "answer": "Penilaian dilaksanakan berdasarkan prinsip kesesuaian, akuntabilitas, transparansi, kejujuran, dan keadilan."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Aspek-aspek apa saja yang diukur dalam evaluasi hasil belajar mahasiswa?",
+      "answer": "Aspek yang diukur dalam evaluasi hasil belajar adalah kemampuan akademik yang mencakup aspek kognitif, afektif, dan psikomotorik yang disesuaikan dengan jenis dan tujuan belajar pada setiap mata kuliah, serta keterampilan berperilaku yang mencakup kejujuran akademik, kedisiplinan, kesantunan, kemampuan berinteraksi, dan bekerja sama."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa saja syarat yang harus dipenuhi mahasiswa untuk dapat mengikuti evaluasi semester?",
+      "answer": "Syarat evaluasi semester adalah terdaftar sebagai peserta kuliah/kegiatan pembelajaran yaitu tercantum dalam Daftar Peserta Mata Kuliah (DPMK) di sistem SIAMIK, serta telah mengikuti kuliah/kegiatan pembelajaran sekurang-kurangnya 90 (sembilan puluh) persen."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Siapakah pihak yang mengatur ketentuan terkait pelaksanaan, persyaratan, penjadwalan, dan tata tertib ujian?",
+      "answer": "Ketentuan pelaksanaan, persyaratan, penjadwalan, dan tata tertib ujian diatur lebih lanjut oleh Fakultas."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa kebijakan yang dapat diambil Dekan jika dosen atau tim dosen terlambat dalam memberikan nilai hasil ujian semester?",
+      "answer": "Dalam hal dosen atau tim dosen tidak segera memberikan nilai hasil ujian semester sampai batas waktu yang ditentukan, atau selambat-lambatnya 3 (tiga) hari dari batas waktu tersebut, Dekan dapat memberikan nilai B kepada semua mahasiswa yang memenuhi syarat sebagai peserta ujian."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Kapan dan ke mana setiap mahasiswa wajib melaporkan hasil pembelajarannya, serta apa konsekuensi jika kewajiban tersebut tidak dipenuhi?",
+      "answer": "Setiap mahasiswa wajib melaporkan hasil pembelajarannya (KHS) ke Pangkalan Data Pendidikan Tinggi (PDDIKTI) di sistem SIAMIK pada setiap akhir semester. Mahasiswa yang tidak melaporkan hasil pembelajarannya tidak bisa melakukan perencanaan studinya (KRS) pada semester berikutnya."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa konsekuensi bagi mahasiswa yang tidak melaporkan hasil pembelajarannya?",
+      "answer": "Mahasiswa yang tidak melaporkan hasil pembelajarannya tidak dapat melakukan perencanaan studinya (KRS) pada semester berikutnya."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa yang dimaksud dengan Evaluasi Hasil Belajar dan apa tujuan utamanya?",
+      "answer": "Evaluasi Hasil Belajar adalah kriteria penilaian yang dilakukan secara bertahap terhadap pencapaian IPK untuk menentukan kemampuan mahasiswa dalam melanjutkan studi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Dengan cara apa saja evaluasi hasil belajar mahasiswa dapat dilakukan?",
+      "answer": "Evaluasi hasil belajar dapat dilakukan dengan cara observasi, pemberian tugas, ujian tertulis, dan/atau ujian lisan."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Berapa tahapan evaluasi hasil belajar mahasiswa program sarjana dari SMA atau sederajat dan kapan masing-masing tahapan tersebut dilaksanakan?",
+      "answer": "Evaluasi hasil belajar mahasiswa program sarjana dari SMA atau sederajat dilakukan dalam tiga tahapan, yaitu Tahap I pada akhir semester 4, Tahap II pada akhir semester 7, dan Tahap III pada akhir program."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa saja ketentuan yang harus dipenuhi mahasiswa program sarjana pada Tahap I evaluasi hasil belajar?",
+      "answer": "Ketentuan pada Tahap I evaluasi hasil belajar yang dilakukan pada akhir semester 4 adalah mampu mengumpulkan paling sedikit 35 SKS dengan IPK ≥ 2,50. Jika mampu mengumpulkan lebih dari 35 SKS tetapi IPK kurang dari 2,50, maka akan diambil nilai tertinggi sampai sejumlah 35 SKS dengan IPK 2,50."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana ketentuan pelaksanaan Tahap II evaluasi hasil belajar bagi mahasiswa program sarjana?",
+      "answer": "Tahap II evaluasi hasil belajar dilaksanakan pada akhir semester 7 dengan ketentuan mampu mengumpulkan paling sedikit 85 SKS dengan IPK ≥ 2,75. Apabila mahasiswa mampu mengumpulkan lebih dari 85 SKS tetapi IPK kurang dari 2,75, maka akan diambil nilai tertinggi sampai sejumlah 85 SKS dengan IPK ≥ 2,75."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Kapan batas waktu paling lambat bagi mahasiswa program sarjana untuk menyelesaikan beban SKS dan memenuhi indeks prestasi kumulatif (IPK) yang ditetapkan?",
+      "answer": "Batas waktu paling lambat adalah pada akhir semester 14 (empat belas), di mana mahasiswa harus sudah mengumpulkan dan lulus semua beban sks yang ditetapkan untuk program sarjana serta memiliki IPK ≥ 2,00 (dua koma nol nol)."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa saja persyaratan akademik yang harus dipenuhi mahasiswa program sarjana terkait dengan beban sks dan indeks prestasi kumulatif (IPK)?",
+      "answer": "Mahasiswa harus sudah mengumpulkan dan lulus semua beban sks yang ditetapkan untuk program sarjana dan mencapai IPK minimal 2,00 (dua koma nol nol)."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana status mahasiswa yang tidak dapat memenuhi ketentuan evaluasi?",
+      "answer": "Mahasiswa yang tidak dapat memenuhi ketentuan evaluasi dianggap tidak mampu mengikuti kegiatan akademik."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa tindakan yang disarankan kepada mahasiswa yang dianggap tidak mampu mengikuti kegiatan akademik?",
+      "answer": "Mahasiswa yang dianggap tidak mampu mengikuti kegiatan akademik disarankan untuk mengajukan surat permohonan undur diri kepada Rektor melalui Dekan."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa yang akan diterbitkan oleh universitas apabila mahasiswa yang dianggap tidak mampu mengikuti kegiatan akademik tidak mengajukan permohonan undur diri?",
+      "answer": "Apabila mahasiswa tidak mengajukan permohonan undur diri, pihak universitas akan menerbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang pemutusan hubungan studi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa kewajiban utama yang harus dilaksanakan oleh setiap mahasiswa program sarjana terkait penyelesaian studi?",
+      "answer": "Setiap mahasiswa program sarjana wajib menyusun dan melaksanakan tugas akhir/skripsi."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Kondisi akademik apa saja yang wajib dipenuhi mahasiswa untuk dapat mengambil tugas akhir atau skripsi?",
+      "answer": "Mahasiswa dapat mengambil tugas akhir/skripsi setelah menyelesaikan mata kuliah dengan jumlah sks sesuai yang dipersyaratkan Prodi pada kurikulum masing-masing, menyelesaikan mata kuliah prasyarat, mempunyai IPK minimal 2,00, lulus Mata Kuliah Metode Penelitian, serta lulus KKN dan PKL/KKP/Magang."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Persyaratan non-akademik dan administratif apa yang harus dipenuhi mahasiswa sebelum dapat mengambil tugas akhir atau skripsi?",
+      "answer": "Mahasiswa harus mempunyai kemampuan Bahasa Inggris setara dengan TOEFL 450 atau International Certificate JETSET level 4- Pearson-LCCI-UK (setara dengan IBT-TOEFL 57-86) atau Institutional Certificate English Proficiency Test/EPT 450- LC-UPNVJT (setara dengan ITP-TOEFL 450), terdaftar sebagai mahasiswa aktif pada semester yang bersangkutan, mengisi KRS Skripsi, serta mengikuti library class dan memiliki sertifikat sebagai peserta library class."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa saja kaidah dan etika yang wajib dipatuhi dalam penyusunan tugas akhir, skripsi, atau prototype?",
+      "answer": "Tugas akhir, skripsi, atau prototype wajib disusun berdasarkan kaidah dan etika keilmuan, bebas dari unsur plagiarisme, serta ditulis sesuai Pedoman Penulisan Skripsi yang ditetapkan oleh Fakultas."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana ketentuan mengenai cek plagiasi yang harus disertakan pada laporan tugas akhir, skripsi, atau prototype?",
+      "answer": "Laporan tugas akhir, skripsi, atau prototype wajib melampirkan cek plagiasi yang dikeluarkan secara resmi oleh Perpustakaan UPN \"Veteran\" Jawa Timur dengan persyaratan plagiasi kurang dari 20%."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Berapakah rentang beban studi dalam satuan SKS yang ditetapkan untuk tugas akhir atau skripsi?",
+      "answer": "Beban studi untuk tugas akhir atau skripsi adalah antara 6 (enam) sampai dengan 10 (sepuluh) SKS."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Berapa beban studi untuk tugas akhir atau skripsi?",
+      "answer": "Beban studi tugas akhir atau skripsi adalah 6 (enam) sampai dengan 10 (sepuluh) SKS."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa saja syarat agar ujian tugas akhir/skripsi/prototype dapat dilaksanakan?",
+      "answer": "Ujian tugas akhir/skripsi/prototype dilaksanakan setelah mahasiswa telah menyelesaikan semua mata kuliah wajib dan pilihan sesuai kurikulum yang berlaku, serta mahasiswa telah menyajikan bagian dari tugas akhir/skripsi dalam forum ilmiah nasional/internasional yang dibuktikan dengan sertifikat pemakalah."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana tahapan pelaksanaan ujian tugas akhir/skripsi/prototype?",
+      "answer": "Ujian tugas akhir/skripsi/prototype dilaksanakan secara tertutup sesuai dengan peraturan yang berlaku di program studi dan terdiri atas 2 (dua) tahap, yaitu presentasi oleh mahasiswa dan tanya jawab dengan waktu paling sedikit 60 menit."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Dalam keadaan khusus, siapa yang dapat diundang sebagai penguji?",
+      "answer": "Dalam keadaan khusus, penguji yang bukan dari kalangan akademik namun memiliki keahlian dalam bidang terkait dapat diundang."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Siapa saja pihak yang memiliki hak bersama atas segala bentuk luaran tugas akhir, skripsi, atau prototype?",
+      "answer": "Hak bersama atas segala bentuk luaran berupa HKI, artikel jurnal ilmiah, dan sejenisnya yang terkait dengan materi tugas akhir, skripsi, atau prototype akan menjadi hak bersama antara mahasiswa, para pembimbing, dan universitas."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana hak penggunaan data dan luaran tugas akhir/skripsi/prototype yang merupakan penelitian kerjasama dengan dana pihak lain diatur?",
+      "answer": "Hak penggunaan data dan luarannya, termasuk HKI, publikasi, buku, atau lainnya, diatur dalam perjanjian kerjasama antara dosen pembimbing, mahasiswa, dan pihak lain, yang diketahui Program Studi dan disetujui oleh Fakultas/Dekan."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Apa syarat utama bagi mahasiswa agar dapat menyelesaikan skripsinya tanpa melalui ujian?",
+      "answer": "Mahasiswa dapat menyelesaikan skripsinya tanpa ujian jika luaran Tugas akhir/skripsi/prototype berupa artikel ilmiah yang berhasil dipublikasi (accepted/published) sebagai penulis pertama dalam jurnal nasional terakreditasi Sinta (1-3) atau jurnal internasional yang terindeks atau jurnal bereputasi terindeks dengan Scimago Journal Rank (SJR) ≤ 0,1 dan/atau Journal Impact Factor (JIF) ≤ 0,05."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Berapakah nilai kelulusan skripsi yang akan didapatkan mahasiswa jika artikel ilmiahnya berhasil dipublikasi dalam jurnal nasional terakreditasi Sinta (1-3) atau jurnal internasional bereputasi?",
+      "answer": "Mahasiswa akan dinyatakan lulus skripsi dengan nilai A jika artikel ilmiahnya berhasil dipublikasi sebagai penulis pertama dalam jurnal nasional terakreditasi Sinta (1-3) atau jurnal internasional bereputasi terindeks dengan Scimago Journal Rank (SJR) ≤ 0,1 dan/atau Journal Impact Factor (JIF) ≤ 0,05."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Bagaimana penilaian kelulusan skripsi jika artikel ilmiah mahasiswa berhasil dipublikasi dalam jurnal nasional terakreditasi Sinta (4-6) atau jurnal internasional tidak bereputasi?",
+      "answer": "Jika artikel ilmiah mahasiswa berhasil dipublikasi dalam jurnal nasional terakreditasi Sinta (4-6) atau jurnal internasional tidak bereputasi, maka kelulusan skripsi akan diberikan dengan nilai (A-)."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Dalam bentuk apakah luaran tugas akhir atau skripsi dapat dibuat selain bentuk standar?",
+      "answer": "Luaran tugas akhir atau skripsi dapat dibuat dalam bentuk lain seperti cipta karya yang telah diuji keilmiahannya pada tingkat nasional atau internasional."
+    },
+    {
+      "context": "PENILAIAN DAN EVALUASI HASIL BELAJAR",
+      "question": "Siapakah yang menetapkan ketentuan dan pengaturan lebih lanjut mengenai tugas akhir atau skripsi?",
+      "answer": "Ketentuan dan pengaturan lebih lanjut mengenai tugas akhir atau skripsi ditetapkan oleh Fakultas."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Kriteria apakah yang menetapkan seorang mahasiswa memperoleh status akademik sebagai mahasiswa transfer kredit di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Mahasiswa yang mengikuti perkuliahan sepenuhnya di luar UPN \"Veteran\" Jawa Timur selama sekurang-kurangnya 1 (satu) semester akan memperoleh status akademik sebagai mahasiswa transfer kredit."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Kewajiban apa yang harus dipenuhi oleh mahasiswa peserta program Student Exchange, Joint Degree, atau Double Degree pada akhir program agar mata kuliah yang ditempuh dapat diakui?",
+      "answer": "Pada akhir program, mahasiswa tersebut wajib menyerahkan laporan hasil studi dengan nilai kelulusan yang diperoleh, agar mata kuliah yang telah ditempuh dan lulus dapat diakui."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Dalam kondisi bagaimana seorang mahasiswa yang mengikuti program Student Exchange, Joint Degree, atau Double Degree tidak diakui sebagai mahasiswa transfer kredit?",
+      "answer": "Mahasiswa yang mengikuti program Student Exchange, Joint Degree, atau Double Degree yang gagal, yaitu pulang sebelum program berakhir, tidak akan diakui sebagai mahasiswa transfer kredit."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Apa saja bentuk bukti pengakuan penyelesaian program mata kuliah bagi mahasiswa transfer kredit?",
+      "answer": "Bukti penyelesaian program Student Exchange adalah sertifikat yang ditandatangani oleh Rektor dan Dekan. Bukti penyelesaian program Joint Degree adalah ijazah yang ditandatangani oleh Rektor UPN \"Veteran\" Jawa Timur bersama Rektor perguruan tinggi mitra kerja sama. Bukti penyelesaian program Double Degree adalah ijazah yang ditandatangani oleh Dekan dan Rektor serta memperoleh ijazah dari perguruan tinggi mitra kerja sama."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Bagaimana perhitungan masa studi untuk mahasiswa transfer kredit?",
+      "answer": "Masa studi mahasiswa transfer kredit diperhitungkan penuh sebagai masa studi mahasiswa aktif."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Siapakah mahasiswa yang diwajibkan untuk terdaftar sebagai mahasiswa transfer kredit di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Mahasiswa dari universitas lain, baik dari dalam maupun luar negeri, yang mengikuti program Student Exchange, Joint Degree, Double Degree, atau program lain yang sejenis harus terdaftar sebagai mahasiswa transfer kredit UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Bagaimana ketentuan mengenai pembayaran biaya pendidikan bagi mahasiswa transfer kredit dari universitas lain?",
+      "answer": "Ketentuan mengenai pembayaran biaya pendidikan bagi mahasiswa transfer kredit dari universitas lain, baik dari dalam maupun luar negeri, diatur sesuai dengan kesepakatan yang tertuang dalam kontrak atau perjanjian kerja sama."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Apakah mahasiswa transfer kredit diperbolehkan mengambil beberapa mata kuliah dari program studi yang berbeda secara bersamaan?",
+      "answer": "Mahasiswa transfer kredit dari universitas lain, baik dari dalam maupun luar negeri, dapat mengambil beberapa mata kuliah di berbagai program studi dalam satu semester berjalan secara bersamaan."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Bagaimana ketentuan pengambilan mata kuliah bagi mahasiswa transfer kredit dalam satu semester?",
+      "answer": "Mahasiswa transfer kredit dari universitas lain baik dari dalam maupun luar negeri dapat mengambil beberapa mata kuliah di berbagai program studi dalam satu semester berjalan secara bersamaan."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Apa bukti yang diperlukan untuk pengakuan mata kuliah bagi mahasiswa transfer kredit yang telah menyelesaikan program Student Exchange?",
+      "answer": "Bukti telah menyelesaikan program Student Exchange adalah sertifikat yang ditandatangani oleh Rektor dan Dekan."
+    },
+    {
+      "context": "PERKULIAHAN MAHASISWA TRANSFER KREDIT",
+      "question": "Dokumen apa yang menjadi bukti pengakuan mata kuliah bagi mahasiswa transfer kredit yang menyelesaikan program Joint Degree?",
+      "answer": "Bukti telah menyelesaikan program Joint Degree adalah ijazah yang ditandatangani oleh Rektor UPN \"Veteran\" Jawa Timur bersama dengan Rektor perguruan tinggi mitra kerjasama."
+    },
+    {
+      "context": "KULIAH KERJA NYATA (KKN)",
+      "question": "Apakah kewajiban mahasiswa terkait pelaksanaan Kuliah Kerja Nyata?",
+      "answer": "Mahasiswa wajib mengikuti kegiatan Kuliah Kerja Nyata (KKN)."
+    },
+    {
+      "context": "KULIAH KERJA NYATA (KKN)",
+      "question": "Apa saja syarat bagi mahasiswa untuk dapat mengikuti kegiatan KKN?",
+      "answer": "Syarat peserta KKN adalah mahasiswa yang telah dinyatakan lulus mata kuliah dan mengumpulkan SKS kumulatif paling sedikit 100 SKS dengan IPK 2,75 serta mempunyai Surat Keterangan Kompetensi Softskill dan Hardskill yang telah mencapai 100 poin."
+    },
+    {
+      "context": "KULIAH KERJA NYATA (KKN)",
+      "question": "Berapa durasi minimal dan maksimal penyelenggaraan KKN serta siapa yang mengoordinasikannya?",
+      "answer": "Penyelenggaraan KKN minimal selama satu bulan dan maksimal 6 bulan yang dikoordinasikan oleh Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM)."
+    },
+    {
+      "context": "KULIAH KERJA NYATA (KKN)",
+      "question": "Bagaimana jadwal pelaksanaan Kuliah Kerja Nyata (KKN) diatur?",
+      "answer": "Jadwal pelaksanaan KKN diatur dalam kalender akademik yang ditetapkan dengan Keputusan Rektor UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "KULIAH KERJA NYATA (KKN)",
+      "question": "Siapa yang berwenang untuk menetapkan kegiatan tertentu yang diakui dan disetarakan dengan KKN?",
+      "answer": "Rektor UPN \"Veteran\" Jawa Timur berwenang untuk menetapkan kegiatan tertentu yang diakui dan disetarakan dengan KKN."
+    },
+    {
+      "context": "KULIAH KERJA NYATA (KKN)",
+      "question": "Di mana tata cara dan persyaratan pendaftaran Kuliah Kerja Nyata (KKN) diatur lebih lanjut?",
+      "answer": "Tata cara dan persyaratan pendaftaran KKN diatur lebih lanjut dalam Buku Pedoman Pelaksanaan KKN."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa saja tugas dosen terkait pelaksanaan penilaian hasil belajar dan pelaporan kegiatan perkuliahan?",
+      "answer": "Dosen bertugas melaksanakan penilaian hasil belajar dan memasukkan nilai mata kuliah ke dalam Sistem Informasi Akademik (SIAMIK) sesuai dengan jadwal yang telah ditentukan dalam kalender akademik, serta melaporkan kegiatan perkuliahan di Pangkalan Data Pendidikan Tinggi (PDDIKTI) setiap akhir semester dengan mempublikasikan mata kuliah yang diampu pada semester tersebut."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Mengapa dosen perlu menyusun dan mengevaluasi bahan uji?",
+      "answer": "Dosen perlu menyusun dan mengevaluasi bahan uji agar didapatkan bahan uji yang valid sesuai dengan tujuan capaian pembelajaran."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Dalam fungsi manajemen, informasi apa yang harus disampaikan dosen kepada mahasiswa terkait tes atau ujian?",
+      "answer": "Dosen harus menginformasikan atau memberikan pembahasan penyelesaian permasalahan pada tes/ujian, serta menginformasikan nilai tes/ujian/tugas kepada mahasiswa."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Siapakah yang bertanggung jawab menetapkan dosen pembimbing akademik untuk setiap mahasiswa?",
+      "answer": "Dosen pembimbing akademik bagi setiap mahasiswa ditetapkan oleh Fakultas."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa kualifikasi yang harus dipenuhi oleh pembimbing akademik untuk mahasiswa program sarjana?",
+      "answer": "Pembimbing akademik untuk mahasiswa program sarjana adalah dosen tetap yang bergelar minimal magister."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Siapakah yang berhak menjadi pembimbing akademik bagi mahasiswa program sarjana?",
+      "answer": "Pembimbing akademik untuk mahasiswa program sarjana adalah dosen tetap yang bergelar minimal magister."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa saja tugas yang diemban oleh seorang pembimbing akademik?",
+      "answer": "Pembimbing akademik memiliki tugas mengarahkan mahasiswa menyusun rencana studi dan memilih mata kuliah, menyetujui Kartu Rencana Studi (KRS) mahasiswa dalam SIDOS, memberikan pertimbangan jumlah SKS, mengikuti perkembangan studi mahasiswa, memastikan pelaporan hasil pembelajaran ke PDDIKTI, membantu mencari solusi masalah akademik, serta melaporkan kinerja kepada pimpinan unit."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Sebelum menyetujui Kartu Rencana Studi (KRS), langkah penting apa yang harus dipastikan oleh pembimbing akademik terkait mahasiswa yang dibimbingnya?",
+      "answer": "Pembimbing akademik harus memantau dan memastikan bahwa mahasiswa yang dibimbingnya telah melakukan pelaporan hasil pembelajaran ke PDDIKTI melalui SIAMIK sebelum menyetujui Kartu Rencana Studi (KRS)."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Siapakah yang mengambil alih sementara tugas pembimbing akademik apabila yang bersangkutan berhalangan melaksanakan tugas?",
+      "answer": "Apabila pembimbing akademik berhalangan melaksanakan tugas, Koordinator Program Studi mengambil alih sementara tugas pembimbing akademik dan melakukan persetujuan KRS sampai ditetapkan pembimbing akademik yang baru."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa saja persyaratan yang harus dipenuhi oleh seorang dosen untuk dapat menjadi pembimbing utama tugas akhir atau skripsi?",
+      "answer": "Persyaratan pembimbing utama adalah dosen tetap dengan jabatan fungsional minimal asisten ahli dan bergelar magister, mempunyai bidang kepakaran yang relevan dengan tugas akhir, serta minimal 2 (dua) kali pernah sebagai pembimbing kedua."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Berapa jumlah maksimal dosen pembimbing tugas akhir atau skripsi untuk 1 (satu) orang mahasiswa?",
+      "answer": "Jumlah pembimbing tugas akhir/skripsi untuk 1 (satu) orang mahasiswa paling banyak 2 (dua) orang dosen, yaitu pembimbing utama dan pendamping."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa saja kriteria atau persyaratan yang harus dipenuhi untuk menjadi pembimbing kedua tugas akhir?",
+      "answer": "Persyaratan untuk menjadi pembimbing kedua tugas akhir adalah seorang dosen tetap universitas, dosen tidak tetap, atau pakar dari lembaga lain yang disetarakan dengan pendidikan magister, serta mempunyai bidang kepakaran yang relevan dengan tugas akhir."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Bagaimana prosedur penetapan penugasan dosen pembimbing tugas akhir/skripsi?",
+      "answer": "Penugasan dosen pembimbing tugas akhir/skripsi ditetapkan dengan Keputusan Dekan, yang didasarkan pada usulan dari Jurusan atau Program Studi."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Berapa batas maksimal jumlah mahasiswa yang dapat dibimbing oleh seorang dosen dalam penyusunan tugas akhir per semester?",
+      "answer": "Beban kerja dosen dalam membimbing penelitian terstruktur untuk penyusunan tugas akhir dibatasi paling banyak 8 (delapan) mahasiswa per semester."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Berapa beban kerja maksimal dosen dalam membimbing mahasiswa untuk penyusunan tugas akhir setiap semester?",
+      "answer": "Beban kerja dosen dalam membimbing penelitian terstruktur untuk penyusunan tugas akhir paling banyak 8 (delapan) mahasiswa per semester."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Dalam kondisi apa koordinator program studi dapat mengusulkan penggantian dosen pembimbing skripsi?",
+      "answer": "Koordinator program studi dapat mengusulkan penggantian dosen pembimbing skripsi apabila proses pembimbingan tidak berjalan dengan baik dan teratur."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Bagaimana ketentuan frekuensi minimal dan pencatatan dalam pelaksanaan pembimbingan tugas akhir per semester?",
+      "answer": "Pembimbingan dilakukan paling sedikit 6 (enam) kali dalam satu semester dan wajib direkam dalam buku atau kartu bimbingan."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa saja tugas dosen pembimbing tugas akhir/skripsi dalam mengarahkan topik penelitian mahasiswa?",
+      "answer": "Dosen pembimbing tugas akhir/skripsi bertugas mengarahkan topik-topik penelitian yang mendukung roadmap penelitian Fakultas, Universitas, atau Rencana Induk Riset Nasional (RIRN), serta topik yang menjadi prioritas pemerintah, kemudian memberikan persetujuan atas topik yang diambil mahasiswa bimbingannya sesuai arahan tersebut."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Bagaimana peran dosen pembimbing tugas akhir/skripsi dalam menjamin kualitas dan format penulisan karya ilmiah mahasiswa?",
+      "answer": "Dosen pembimbing tugas akhir/skripsi berperan mengarahkan dan memastikan mahasiswa mampu menyusun penelitian/tugas akhir yang benar dan berkualitas sesuai kaidah ilmiah, serta mengkoreksi dan memastikan laporan tugas akhir/skripsi telah disusun dengan baik sesuai kaidah dan format penulisan ilmiah."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa tanggung jawab dosen pembimbing tugas akhir/skripsi terkait kesiapan ujian mahasiswa bimbingannya?",
+      "answer": "Dosen pembimbing tugas akhir/skripsi bertanggung jawab memastikan bahwa mahasiswa bimbingannya mampu dan sudah siap untuk diujikan tugas akhir/skripsinya."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa tugas utama seorang pembimbing terkait kesiapan mahasiswa untuk ujian tugas akhir?",
+      "answer": "Tugas utama seorang pembimbing adalah memastikan bahwa mahasiswa bimbingannya mampu dan sudah siap diujikan tugas akhir/skripsinya."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Bagaimana peran pembimbing dalam upaya mahasiswa menyusun artikel ilmiah untuk publikasi?",
+      "answer": "Pembimbing berperan untuk mengarahkan dan memastikan bimbingannya telah menyusun artikel ilmiah yang siap dipublikasikan minimal di jurnal nasional terakreditasi."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Dalam periode berapa lama pembimbing perlu mengarahkan dan memantau mahasiswa yang dibimbing terkait pengisian tracer study?",
+      "answer": "Pembimbing perlu mengarahkan dan memantau mahasiswa yang dibimbing untuk mengisi tracer study dalam periode minimal 2 tahun setelah lulus."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Apa kewajiban dosen pembimbing tugas akhir atau skripsi terkait proses pembimbingan?",
+      "answer": "Dosen pembimbing tugas akhir atau skripsi wajib mengupayakan penyelesaian pembimbingan tugas akhir atau skripsi."
+    },
+    {
+      "context": "DOSEN, PEMBIMBING AKADEMIK, DAN PEMBIMBING TUGAS AKHIR",
+      "question": "Berapa lama batas waktu maksimal yang harus diupayakan oleh dosen pembimbing untuk menyelesaikan pembimbingan tugas akhir atau skripsi?",
+      "answer": "Dosen pembimbing harus mengupayakan penyelesaian pembimbingan tugas akhir atau skripsi maksimal dalam 1 (satu) semester atau 2 (dua) semester bagi bidang ilmu tertentu."
+    },
+    {
+      "context": "SEMESTER ANTARA",
+      "question": "Apakah UPN \"Veteran\" Jawa Timur dapat menyelenggarakan Semester Antara dalam satu tahun akademik?",
+      "answer": "Ya, UPN \"Veteran\" Jawa Timur dapat menyelenggarakan Semester Antara, meskipun satu tahun akademik terdiri atas 2 (dua) semester."
+    },
+    {
+      "context": "SEMESTER ANTARA",
+      "question": "Berapa lama durasi minimal Semester Antara dan berapa batas maksimal beban belajar mahasiswa yang diizinkan?",
+      "answer": "Semester Antara diselenggarakan selama paling sedikit 8 (delapan) minggu dan beban belajar mahasiswa paling banyak 9 (sembilan) sks."
+    },
+    {
+      "context": "SEMESTER ANTARA",
+      "question": "Pihak mana yang bertanggung jawab untuk mengatur pelaksanaan Semester Antara?",
+      "answer": "Pelaksanaan Semester Antara diatur oleh Fakultas sesuai kebutuhan."
+    },
+    {
+      "context": "STATUS MAHASISWA",
+      "question": "Status akademik apa saja yang dapat dimiliki mahasiswa pada setiap semester?",
+      "answer": "Pada setiap semester, mahasiswa memiliki salah satu status akademik tertentu, yakni: aktif, tidak aktif, cuti akademik, mendapatkan sanksi, pindah studi (transfer), undur diri, putus studi/Drop Out (DO), meninggal dunia, atau lulus."
+    },
+    {
+      "context": "STATUS MAHASISWA",
+      "question": "Apa yang dilakukan Fakultas terkait status mahasiswa pada setiap semester?",
+      "answer": "Fakultas melakukan evaluasi dan analisis terhadap status mahasiswa pada setiap semester."
+    },
+    {
+      "context": "STATUS MAHASISWA",
+      "question": "Apa tujuan Fakultas melakukan evaluasi dan analisis terhadap status mahasiswa pada setiap semester?",
+      "answer": "Tujuan Fakultas melakukan evaluasi dan analisis terhadap status mahasiswa pada setiap semester adalah sebagai bagian dari proses penjaminan mutu."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Apa yang dimaksud dengan cuti akademik dan berapa lama durasinya?",
+      "answer": "Cuti akademik adalah masa tidak mengikuti kegiatan akademik untuk waktu sekurang-kurangnya 1 (satu) semester dan sebanyak-banyaknya 2 (dua) semester, yang tidak berturut-turut."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Siapakah mahasiswa yang dapat diberikan cuti akademik?",
+      "answer": "Cuti akademik hanya dapat diberikan kepada mahasiswa yang telah mengikuti kegiatan akademik sekurang-kurangnya 2 (dua) semester, kecuali untuk cuti akademik karena alasan khusus."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Apa yang menjadi dasar pemberian cuti akademik karena alasan khusus dan berikan contohnya?",
+      "answer": "Cuti akademik karena alasan khusus diberikan karena mahasiswa mengalami halangan yang tidak dapat dihindari, antara lain karena melahirkan, melaksanakan tugas negara, tugas universitas atau menjalani pengobatan yang tidak memungkinkan untuk mengikuti kegiatan akademik."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Bagaimana perhitungan masa studi bagi mahasiswa yang mengambil cuti akademik?",
+      "answer": "Cuti akademik tidak dihitung sebagai masa studi."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Kegiatan apa yang tidak diperkenankan bagi mahasiswa yang telah memperoleh izin cuti akademik?",
+      "answer": "Mahasiswa yang telah memperoleh izin cuti akademik tidak diperkenankan melakukan kegiatan akademik."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Siapa yang mengajukan permohonan cuti akademik dan apa saja persyaratan yang harus dipenuhi dalam pengajuannya?",
+      "answer": "Permohonan cuti akademik diajukan oleh mahasiswa bersangkutan kepada Rektor c/q Warek I dengan alasan yang dapat diterima secara akademik dan diketahui oleh orang tua, Koordinator Program Studi, serta Dekan."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Dalam bentuk apa persetujuan cuti akademik diterbitkan?",
+      "answer": "Persetujuan cuti akademik diterbitkan dalam bentuk Surat izin Cuti Akademik."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Kapan permohonan cuti akademik harus diajukan?",
+      "answer": "Permohonan cuti akademik harus diajukan sebelum pelaksanaan atau jadwal registrasi administratif."
+    },
+    {
+      "context": "CUTI AKADEMIK",
+      "question": "Dokumen apa saja yang wajib dilampirkan dalam permohonan cuti akademik?",
+      "answer": "Dokumen yang wajib dilampirkan dalam permohonan cuti akademik meliputi transkrip akademik, bukti pembayaran UKT terakhir, fotokopi Kartu Tanda Mahasiswa (KTM), dan dokumen pendukung alasan cuti."
+    },
+    {
+      "context": "TIDAK AKTIF",
+      "question": "Apa yang menyebabkan seorang mahasiswa memperoleh status akademik tidak aktif pada semester berjalan?",
+      "answer": "Mahasiswa akan memperoleh status akademik tidak aktif pada semester berjalan apabila tidak melaksanakan registrasi administratif dan/atau registrasi akademik."
+    },
+    {
+      "context": "TIDAK AKTIF",
+      "question": "Berapa persentase biaya pendidikan yang wajib dibayarkan oleh mahasiswa selama periode status tidak aktif?",
+      "answer": "Mahasiswa yang berstatus tidak aktif diwajibkan membayar biaya pendidikan sebesar 100 (seratus) persen selama semester tidak aktif."
+    },
+    {
+      "context": "TIDAK AKTIF",
+      "question": "Bagaimana seorang mahasiswa dapat kehilangan statusnya sebagai mahasiswa berdasarkan periode ketidakaktifan?",
+      "answer": "Mahasiswa dinyatakan kehilangan statusnya sebagai mahasiswa apabila berstatus tidak aktif selama 2 (dua) semester berturut-turut atau 4 (empat) semester secara tidak berurutan."
+    },
+    {
+      "context": "TIDAK AKTIF",
+      "question": "Kapan seorang mahasiswa dinyatakan kehilangan statusnya sebagai mahasiswa?",
+      "answer": "Seorang mahasiswa dinyatakan kehilangan statusnya sebagai mahasiswa apabila berstatus tidak aktif selama 2 (dua) semester berturut-turut atau 4 (empat) semester secara tidak berurutan."
+    },
+    {
+      "context": "TIDAK AKTIF",
+      "question": "Apa saja ketentuan yang harus dipenuhi agar Rektor dapat mempertimbangkan kembalinya status mahasiswa?",
+      "answer": "Untuk dapat mempertimbangkan kembalinya status mahasiswa, mahasiswa harus mengajukan surat permohonan aktif kembali kepada Rektor paling lambat 1 bulan sebelum perkuliahan semester berikutnya dimulai. Jika permohonan disetujui oleh Rektor, mahasiswa wajib menyelesaikan semua kewajiban administratif, biaya pendidikan, dan wajib mendaftar ulang sesuai ketentuan yang berlaku."
+    },
+    {
+      "context": "TIDAK AKTIF",
+      "question": "Berapa kali izin aktif kembali dapat diberikan kepada mahasiswa dan bagaimana perhitungan masa studi selama tidak aktif?",
+      "answer": "Izin aktif kembali bagi mahasiswa hanya diberikan sekali selama masa studi di UPN \"Veteran\" Jawa Timur, dan jangka waktu selama tidak aktif diperhitungkan sebagai masa studi."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Siapa yang dapat mengajukan permohonan pindah studi dan apa tujuan pengajuannya?",
+      "answer": "Mahasiswa dapat mengajukan permohonan pindah studi untuk memperoleh transfer kredit atas mata kuliah yang telah diperoleh di program studi lain."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Mata kuliah yang berasal dari program studi mana saja yang dapat diajukan untuk transfer kredit dalam konteks pindah studi?",
+      "answer": "Mata kuliah yang dapat diajukan untuk transfer kredit adalah yang telah diperoleh dari program studi lain, baik program studi di lingkungan UPN \"Veteran Jawa Timur maupun perguruan tinggi lain."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja persyaratan awal yang harus dipenuhi mahasiswa untuk dapat mengajukan pindah studi di lingkungan UPN \"Veteran\" Jawa Timur?",
+      "answer": "Mahasiswa dapat mengajukan pindah studi apabila telah mengikuti kegiatan akademik paling sedikit 2 (dua) semester berturut-turut, bukan karena melanggar tata tertib kehidupan kampus atau sebab lain yang sejenis, tidak buta warna bagi fakultas/program studi yang mempersyaratkan, dan tidak cacat fisik yang dapat mengganggu proses belajar mengajar."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Faktor-faktor apa saja yang menjadi pertimbangan fakultas dalam menyetujui permohonan pindah studi mahasiswa?",
+      "answer": "Fakultas, baik fakultas asal maupun fakultas yang dituju, akan mempertimbangkan kemampuan daya tampung dan/atau hasil pengakuan mata kuliah yang telah ditempuh dan/atau sisa masa studi dalam menyetujui permohonan pindah studi."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Kapan batas waktu pengajuan permohonan pindah studi dan berapa kali seorang mahasiswa diizinkan melakukan pindah studi?",
+      "answer": "Pengajuan permohonan pindah studi diajukan oleh mahasiswa paling lambat 4 (empat) minggu sebelum awal kuliah Semester Gasal/Genap sesuai kalender akademik, dan pindah studi hanya diizinkan satu kali."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Berapa kali mahasiswa diperbolehkan untuk melakukan pindah studi?",
+      "answer": "Mahasiswa hanya diizinkan untuk melakukan pindah studi satu kali."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja syarat agar mata kuliah dapat ditransfer kreditkan saat proses pindah studi?",
+      "answer": "Mata kuliah dapat ditransfer kreditkan apabila memiliki kandungan materi yang setara dengan mata kuliah pada kurikulum program studi yang sudah diikuti, atau jika dianggap mendukung ketercapaian kompetensi walaupun tidak setara, dapat ditransfer kreditkan sebagai mata kuliah pilihan."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Siapakah yang berwenang menetapkan keputusan pindah studi bagi mahasiswa di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Pindah studi mahasiswa ditetapkan dengan Keputusan Rektor UPN \"Veteran\" Jawa Timur setelah memperoleh persetujuan dari fakultas dan program studi yang dituju."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Di mana tata pengajuan permohonan pindah studi di lingkungan UPN \"Veteran\" Jawa Timur diatur?",
+      "answer": "Tata pengajuan permohonan pindah studi di lingkungan UPN \"Veteran\" Jawa Timur diatur pada buku Pedoman Akademik."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Kapan UPN \"Veteran\" Jawa Timur menerima mahasiswa pindahan?",
+      "answer": "UPN \"Veteran\" Jawa Timur menerima mahasiswa pindahan di awal Semester Gasal (tahun ajaran baru)."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Dari mana asal mahasiswa pindahan yang diterima oleh UPN \"Veteran\" Jawa Timur?",
+      "answer": "UPN \"Veteran\" Jawa Timur menerima mahasiswa pindahan yang berasal dari PTN lain."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja kriteria umum agar UPN \"Veteran\" Jawa Timur dapat menerima mahasiswa pindahan dari Perguruan Tinggi Negeri (PTN) lain?",
+      "answer": "UPN \"Veteran\" Jawa Timur menerima mahasiswa pindahan dari PTN lain apabila status Badan Akreditasi Nasional-Perguruan Tinggi (BAN-PT) / Lembaga Akreditasi Mandiri-Perguruan Tinggi (LAM-PT) perguruan tingginya sama atau lebih tinggi, fakultas/program studi dari PTN asal sejenis dan sejalur dengan yang dituju di UPN \"Veteran\" Jawa Timur dengan peringkat akreditasi yang setingkat atau lebih tinggi, tidak dalam status dikeluarkan / putus studi dari PTN lain, dan tidak pernah melakukan pelanggaran tata tertib kehidupan kampus yang dinyatakan dengan surat keterangan dari institusi asal."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Bagaimana persyaratan kesesuaian dan akreditasi fakultas/program studi asal bagi mahasiswa yang ingin pindah ke UPN \"Veteran\" Jawa Timur?",
+      "answer": "Fakultas/program studi dari PTN asal harus sejenis dan sejalur dengan fakultas/program studi yang dituju di lingkungan UPN \"Veteran\" Jawa Timur dan dengan peringkat akreditasi dari Badan Akreditasi Nasional-Perguruan Tinggi (BAN-PT) / Lembaga Akreditasi Mandiri-Perguruan Tinggi (LAM-PT) yang setingkat atau lebih tinggi."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja kondisi terkait status akademik dan disipliner calon mahasiswa pindahan dari PTN lain agar dapat diterima di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Calon mahasiswa pindahan tidak dalam status dikeluarkan / putus studi dari PTN lain dan tidak pernah melakukan pelanggaran tata tertib kehidupan kampus universitas atau fakultas atau sebab lain yang sejenis, yang dinyatakan dengan surat keterangan dari institusi asal."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa syarat yang berkaitan dengan riwayat pelanggaran tata tertib bagi calon mahasiswa yang mengajukan pindah studi?",
+      "answer": "Calon mahasiswa yang mengajukan pindah studi tidak pernah melakukan pelanggaran tata tertib kehidupan kampus universitas atau fakultas atau sebab lain yang sejenis, yang harus dinyatakan dengan surat keterangan dari institusi asal."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja alasan yang dapat dijadikan dasar pengajuan pindah studi?",
+      "answer": "Alasan yang dapat dijadikan dasar pengajuan pindah studi meliputi mengikuti keluarga yang dikuatkan dengan surat keterangan dari pihak yang berwenang, sebagai utusan daerah atau PTN yang dikuatkan dengan surat usulan dari Pemerintah Daerah atau Rektor yang bersangkutan, atau kondisi force majeure seperti bencana alam dan kerusuhan."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Bagaimana ketentuan lama studi yang harus dipenuhi di Perguruan Tinggi Negeri (PTN) asal untuk pengajuan pindah studi?",
+      "answer": "Lama studi yang telah ditempuh di PTN asal paling sedikit 2 (dua) semester dan paling banyak 4 (empat) semester, dengan ketentuan untuk 2 semester adalah 40 SKS dan IPK 2,75, sedangkan untuk 4 semester adalah 72 SKS dan IPK 2,75."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Kapan batas waktu pengajuan permohonan pindah studi mahasiswa?",
+      "answer": "Pengajuan permohonan pindah studi diajukan paling lambat 4 (empat) minggu sebelum awal kuliah Semester Gasal dimulai."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Faktor-faktor apa saja yang menjadi pertimbangan dalam memberikan persetujuan pindah studi?",
+      "answer": "Persetujuan pindah studi perlu mempertimbangkan kemampuan daya tampung pada fakultas/ program studi di lingkungan UPN \"Veteran\" Jawa Timur, konversi mata kuliah, serta sisa masa studi."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Bagaimana proses penetapan pindah studi mahasiswa di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Pindah studi mahasiswa ditetapkan dengan Keputusan Rektor UPN \"Veteran\" Jawa Timur setelah memperoleh persetujuan dari fakultas atau program studi yang dituju."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Dalam kondisi apa Rektor UPN \"Veteran\" Jawa Timur dapat menetapkan kebijakan lain di luar ketentuan umum terkait pindah studi?",
+      "answer": "Rektor dapat menetapkan kebijakan lain di luar ketentuan umum terkait pindah studi dengan pertimbangan khusus, seperti kasus politik, kerusuhan, keamanan, atau bencana alam."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja persyaratan penerimaan mahasiswa Warga Negara Indonesia (WNI) atau Warga Negara Asing (WNA) yang pindah studi dari perguruan tinggi luar negeri ke UPN \"Veteran\" Jawa Timur?",
+      "answer": "UPN \"Veteran\" Jawa Timur menerima mahasiswa WNI atau WNA pindahan yang berasal dari perguruan tinggi luar negeri yang diakui oleh Kementerian Pendidikan dan Kebudayaan, telah mengikuti pendidikan sekurang-kurangnya 2 (dua) semester, serta memenuhi ketentuan yang berlaku."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Kapan batas waktu pengajuan permohonan pindah studi?",
+      "answer": "Pengajuan permohonan pindah studi diajukan paling lambat 4 (empat) minggu sebelum awal kuliah Semester Gasal dimulai."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja persyaratan yang harus dipenuhi oleh mahasiswa Warga Negara Asing (WNA) dari perguruan tinggi luar negeri yang akan pindah studi ke UPN \"Veteran\" Jawa Timur?",
+      "answer": "Persyaratan yang harus dipenuhi meliputi daftar riwayat hidup; fotokopi/salinan ijazah dan transkrip akademik; surat keterangan jaminan pembiayaan selama mengikuti pendidikan di Indonesia berupa bank account; fotokopi paspor yang masih berlaku minimal 1 (satu) tahun; surat pernyataan tidak akan bekerja selama belajar di Indonesia; surat pernyataan akan mematuhi peraturan perundang-undangan yang berlaku di Indonesia; pasfoto terbaru; surat keterangan kesehatan dari instansi berwenang; dan surat izin dari Kementerian Pendidikan dan Kebudayaan."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Siapakah yang wajib menyerahkan persyaratan tertentu jika akan pindah studi menjadi mahasiswa di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Mahasiswa Warga Negara Indonesia (WNI) dari perguruan tinggi luar negeri yang akan pindah studi menjadi mahasiswa di UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "PINDAH STUDI",
+      "question": "Apa saja persyaratan yang harus diserahkan oleh mahasiswa WNI dari perguruan tinggi luar negeri yang akan pindah studi ke UPN \"Veteran\" Jawa Timur?",
+      "answer": "Persyaratan yang harus diserahkan meliputi daftar riwayat hidup; fotokopi salinan ijazah dan transkrip akademik; surat pernyataan akan mematuhi segala peraturan perundang-undangan yang berlaku di Indonesia; pasfoto terbaru; dan surat keterangan kesehatan dari instansi berwenang."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Apa saja kriteria umum yang menyebabkan seorang mahasiswa dinyatakan putus studi terkait batas waktu belajar atau evaluasi hasil belajar?",
+      "answer": "Mahasiswa dinyatakan putus studi apabila melebihi batas studi 7 (tujuh) tahun atau tidak dapat memenuhi ketentuan evaluasi hasil belajar sebagaimana tersebut pada pasal 29."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Berapa lama ketidakaktifan mahasiswa dapat menjadi alasan untuk dinyatakan putus studi?",
+      "answer": "Mahasiswa dinyatakan putus studi apabila tidak aktif selama 2 (dua) semester berturut-turut atau 4 (empat) semester secara tidak berurutan."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Selain alasan akademik atau ketidakaktifan, faktor apa lagi yang dapat menyebabkan seorang mahasiswa dinyatakan putus studi?",
+      "answer": "Mahasiswa dapat dinyatakan putus studi apabila dinyatakan tidak laik lanjut studi atas dasar pertimbangan tes kesehatan (baik kesehatan fisik maupun mental) dari tim dokter yang ditunjuk oleh pimpinan universitas, mendapat sanksi atas pelanggaran akademik berat, atau mendapat keputusan pengadilan yang telah mempunyai kekuatan hukum tetap dengan hukuman sekurang-kurangnya 2 (dua) semester."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Bagaimana prosedur bagi mahasiswa yang ingin mengajukan undur diri dari studi?",
+      "answer": "Mahasiswa yang ingin mengajukan undur diri harus mengajukan surat permohonan yang disetujui orang tua, diketahui pembimbing akademik atau Koordinator Program Studi, dan ditujukan kepada Dekan. Selanjutnya, Dekan akan mengajukan permohonan kepada Rektor untuk diterbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang undur diri."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Dalam kondisi seperti apa Rektor UPN \"Veteran\" Jawa Timur dapat menerbitkan keputusan pemutusan hubungan studi secara sepihak?",
+      "answer": "Rektor dapat menerbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang pemutusan hubungan studi apabila mahasiswa yang dinyatakan tidak laik melanjutkan studi tidak mengajukan undur diri dalam waktu paling lambat 2 (dua) bulan sejak pernyataan tersebut."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Hak apa yang tetap diberikan kepada mahasiswa meskipun telah putus studi?",
+      "answer": "Mahasiswa yang putus studi tetap diberikan hak untuk mendapatkan data hasil atau prestasi studinya."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Berapa lama waktu maksimal bagi Dekan untuk mengajukan permohonan penerbitan Keputusan Rektor tentang putus studi setelah keputusan tim hukum atau pengadilan diterbitkan?",
+      "answer": "Dekan harus mengajukan surat permohonan kepada Rektor untuk diterbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur tentang putus studi dalam waktu paling lambat 1 (satu) bulan setelah keputusan tim hukum UPN \"Veteran\" Jawa Timur yang dituangkan dalam Keputusan Rektor atau keputusan pengadilan."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Siapakah yang bertanggung jawab menerbitkan Keputusan Rektor UPN \"Veteran\" Jawa Timur mengenai pemutusan hubungan studi?",
+      "answer": "Rektor UPN \"Veteran\" Jawa Timur yang bertanggung jawab menerbitkan Keputusan Rektor tentang pemutusan hubungan studi, berdasarkan usulan dari Dekan."
+    },
+    {
+      "context": "PUTUS STUDI",
+      "question": "Hak apa yang tidak diberikan kepada mahasiswa yang putus studi?",
+      "answer": "Mahasiswa yang putus studi tidak diberikan hak untuk mendapatkan data hasil atau prestasi studi."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Berdasarkan teks, apa saja kriteria utama yang harus dipenuhi oleh seorang mahasiswa untuk dinyatakan lulus?",
+      "answer": "Kriteria utama kelulusan seorang mahasiswa meliputi: kelulusan ujian tugas akhir/skripsi di depan penguji atau tim penguji; penyerahan revisi tugas akhir/skripsi yang lolos dari deteksi anti plagiarisme dengan bukti surat keterangan similarity; status mahasiswa aktif dan tidak melampaui masa studi maksimum universitas; penyelesaian semua kewajiban administratif termasuk pengembalian koleksi perpustakaan/laboratorium; penyelesaian semua kewajiban studi dan tugas sesuai kurikulum (termasuk tugas akhir yang telah diperbaiki); serta pengunggahan tugas akhir/skripsi pada repository UPN \"Veteran Jawa Timur\"."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Bagaimana persyaratan terkait revisi tugas akhir/skripsi dalam hal deteksi anti plagiarisme agar mahasiswa dapat dinyatakan lulus?",
+      "answer": "Revisi tugas akhir/skripsi harus lolos dari deteksi anti plagiarisme dengan aplikasi tertentu dan dibuktikan dengan surat keterangan similarity."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Selain ujian tugas akhir dan penyerahan revisi skripsi, kewajiban lain apa saja yang harus dipenuhi mahasiswa terkait status akademik dan administrasi agar dapat dinyatakan lulus?",
+      "answer": "Mahasiswa harus berstatus sebagai mahasiswa aktif pada semester tersebut dan tidak melampaui masa studi maksimum yang ditetapkan universitas, serta menyelesaikan semua kewajiban administratif termasuk mengembalikan semua koleksi perpustakaan/laboratorium yang dipinjam."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Apa saja syarat kelulusan yang berkaitan dengan tugas akhir atau skripsi?",
+      "answer": "Syarat kelulusan yang berkaitan dengan tugas akhir atau skripsi meliputi pengunggahan tugas akhir/skripsi pada repositori UPN \"Veteran Jawa Timur\" dan memiliki artikel dari tugas akhir/skripsi yang telah dipublikasi paling rendah di jurnal nasional sebagai penulis pertama dengan status accepted/published."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Bagaimana ketentuan publikasi artikel dari tugas akhir/skripsi yang menjadi syarat kelulusan?",
+      "answer": "Ketentuan publikasi artikel dari tugas akhir/skripsi yang menjadi syarat kelulusan adalah bahwa artikel tersebut harus telah dipublikasi paling rendah di jurnal nasional sebagai penulis pertama dengan status accepted/published."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Melalui apa penetapan kelulusan mahasiswa diselenggarakan?",
+      "answer": "Penetapan kelulusan mahasiswa diselenggarakan melalui yudisium di tingkat fakultas."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Apa konsekuensi bagi mahasiswa yang tidak menyerahkan revisi tugas akhir atau skripsi dalam waktu satu bulan sejak ujian dilaksanakan?",
+      "answer": "Mahasiswa yang tidak menyerahkan revisi dalam waktu 1 (satu) bulan sejak pelaksanaan ujian tugas akhir/skripsi, wajib mengikuti ujian ulang."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Berapakah rentang Indeks Prestasi Kumulatif (IPK) yang harus diperoleh mahasiswa untuk mendapatkan predikat kelulusan \"sangat memuaskan\"?",
+      "answer": "Predikat kelulusan \"sangat memuaskan\" diberikan apabila mahasiswa memperoleh IPK 3,01 (tiga koma nol satu) sampai dengan 3,50 (tiga koma lima nol)."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Berapakah rentang Indeks Prestasi Kumulatif (IPK) yang diperlukan untuk memperoleh predikat kelulusan \"sangat memuaskan\"?",
+      "answer": "Predikat kelulusan \"sangat memuaskan\" diberikan apabila seorang lulusan memperoleh IPK 3,01 sampai dengan 3,50."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Apa saja syarat yang harus dipenuhi untuk mendapatkan predikat kelulusan \"pujian (cumlaude)\"?",
+      "answer": "Untuk mendapatkan predikat kelulusan \"pujian (cumlaude)\", seorang mahasiswa harus memperoleh IPK 3,51 sampai dengan 4,00, tidak terdapat nilai C pada transkrip, dan masa studinya ditentukan dengan memperhatikan masa studi terjadwal (n semester) ditambah 1 (satu) semester."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Penghargaan apa yang diberikan Rektor kepada lulusan yang mencapai predikat \"pujian (cumlaude)\"?",
+      "answer": "Rektor memberikan penghargaan piagam kepada lulusan dengan predikat \"pujian (cumlaude)\"."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Berapa kali UPN \"Veteran\" Jawa Timur menyelenggarakan upacara wisuda dalam satu tahun?",
+      "answer": "UPN \"Veteran\" Jawa Timur menyelenggarakan upacara wisuda sekurang-kurangnya 3 (tiga) kali periode kelulusan dalam 1 (satu) tahun."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Apa kewajiban mahasiswa program sarjana UPN \"Veteran\" Jawa Timur yang telah dinyatakan lulus terkait upacara wisuda?",
+      "answer": "Mahasiswa yang telah dinyatakan lulus dari pendidikan sarjana di UPN \"Veteran\" Jawa Timur wajib mengikuti upacara wisuda pada periode kelulusannya, atau selambat-lambatnya 1 (satu) periode wisuda berikutnya sejak dinyatakan lulus."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Apa konsekuensi bagi mahasiswa yang belum mengikuti upacara wisuda sesuai ketentuan?",
+      "answer": "Mahasiswa yang belum mengikuti wisuda sebagaimana yang dimaksud ayat (2) belum bisa mendapatkan ijazah dan transkrip asli."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Kriteria apa saja yang digunakan untuk menetapkan mahasiswa terbaik?",
+      "answer": "Mahasiswa terbaik ditetapkan berdasarkan IPK tertinggi, masa studi tercepat dan tepat waktu, poin SKPM terbesar, serta kriteria lain yang ditetapkan oleh Fakultas."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Apa definisi gelar sarjana bagi lulusan UPN \"Veteran\" Jawa Timur?",
+      "answer": "Gelar sarjana adalah gelar yang diberikan kepada lulusan UPN \"Veteran\" Jawa Timur yang telah dinyatakan lulus pendidikan akademik program sarjana."
+    },
+    {
+      "context": "KELULUSAN",
+      "question": "Bagaimana penetapan wisudawan berprestasi di UPN \"Veteran\" Jawa Timur dilakukan?",
+      "answer": "Wisudawan berprestasi ditetapkan berdasarkan kriteria prestasi tertinggi secara akumulatif selama menjadi mahasiswa UPN \"Veteran\" Jawa Timur yang mengacu pada peraturan SKPM, meliputi bidang ilmu pengetahuan, teknologi, hukum, humaniora, olahraga, dan seni budaya di tingkat nasional Internasional."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Informasi apa saja yang termuat dalam Kartu Hasil Studi (KHS)?",
+      "answer": "Kartu Hasil Studi (KHS) memuat informasi tentang logo UPN \"Veteran\" Jawa Timur, nama Universitas Pembangunan Nasional \"Veteran\" Jawa Timur, nama lengkap pemilik KHS, Nomor Induk Mahasiswa (NIM), nama program studi, nama fakultas, tempat, tanggal, bulan dan tahun penerbitan KHS, nama, Nomor Induk Pegawai (NIP) dan tanda tangan Wakil Dekan I (Bidang Akademik), stempel fakultas, semua nama mata kuliah yang ditempuh, bobot SKS dan nilai, Indeks Prestasi Semester (IPS), serta Indeks Prestasi Kumulatif (IPK)."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Kepada pihak mana saja salinan cetakan Kartu Hasil Studi (KHS) diberikan?",
+      "answer": "Salinan cetakan Kartu Hasil Studi (KHS) diterbitkan rangkap empat dan masing-masing diberikan kepada mahasiswa, pembimbing akademik, orang tua/wali, dan arsip administrasi akademik."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Apa syarat agar Kartu Hasil Studi (KHS) dinyatakan sah?",
+      "answer": "Kartu Hasil Studi (KHS) dinyatakan sah apabila telah ditandatangani oleh Wakil Dekan I (Bidang Akademik)."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Siapakah pejabat yang berwenang mengesahkan Kartu Hasil Studi (KHS) agar dinyatakan sah?",
+      "answer": "KHS yang sah adalah yang telah ditandatangani oleh Wakil Dekan I (Bidang Akademik)."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Apa yang direkam secara kronologis dalam riwayat akademik seorang mahasiswa?",
+      "answer": "Riwayat akademik merekam secara kronologis semua kegiatan akademik seorang mahasiswa sejak pertama kali masuk sebagai mahasiswa universitas hingga berhenti, baik karena lulus, putus studi, maupun mengundurkan diri."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Untuk tujuan apa riwayat akademik digunakan dan bagi pihak mana saja riwayat tersebut menjadi sumber informasi?",
+      "answer": "Riwayat akademik digunakan sebagai sumber informasi bagi mahasiswa, pembimbing akademik, dan program studi tentang keberhasilan studi mahasiswa."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Siapakah pejabat yang bertanggung jawab untuk mengesahkan riwayat akademik yang akan digunakan?",
+      "answer": "Riwayat akademik yang akan digunakan disahkan oleh Wakil Dekan I (Bidang Akademik)."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Kapan ijazah diberikan kepada mahasiswa yang telah menyelesaikan program studi?",
+      "answer": "Ijazah diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi, setelah diputuskan pada pelaksanaan penetapan kelulusan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Kapan ijazah diberikan kepada mahasiswa?",
+      "answer": "Ijazah diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi, setelah diputuskan pada pelaksanaan penetapan kelulusan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Informasi apa saja yang wajib termuat dalam sebuah ijazah?",
+      "answer": "Ijazah memuat informasi tentang nomor ijazah nasional, logo UPN \"Veteran\" Jawa Timur, nama Universitas Pembangunan Nasional \"Veteran\" Jawa Timur, nomor keputusan dan peringkat akreditasi UPN \"Veteran\" Jawa Timur dan/atau Program Studi, program sarjana, nama program studi, nama lengkap pemilik ijazah, Nomor Induk Mahasiswa (NIM), Nomor Induk Kependudukan (NIK) atau Nomor Paspor untuk mahasiswa asing, tempat dan tanggal lahir pemilik ijazah, gelar akademik/sebutan yang diberikan beserta singkatannya, tanggal, bulan, dan tahun kelulusan, tempat, tanggal, bulan dan tahun penerbitan ijazah, nama, Nomor Induk Pegawai (NIP) dan tanda tangan Rektor dan Dekan, stempel UPN \"Veteran\" Jawa Timur, serta foto pemilik ijazah berwarna ukuran 3 x 4."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Siapakah yang berwenang menandatangani ijazah di UPN \"Veteran\" Jawa Timur?",
+      "answer": "Ijazah ditandatangani oleh Rektor dan Dekan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Dalam bahasa apa ijazah diterbitkan dan siapakah yang menandatangani terjemahan ijazah dalam Bahasa Inggris?",
+      "answer": "Ijazah diterbitkan menggunakan Bahasa Indonesia dan dapat diterjemahkan dalam Bahasa Inggris pada lembar yang berbeda, yang ditandatangani oleh Dekan atau pejabat resmi yang ditunjuk dan berwenang untuk menerjemahkan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Apa yang dapat dilakukan apabila ijazah hilang atau rusak, dan di mana prosedur penerbitannya diatur?",
+      "answer": "Apabila ijazah hilang atau rusak, pemilik ijazah dapat meminta surat keterangan pengganti ijazah, dan prosedur penerbitan ijazah serta surat keterangan pengganti ijazah diatur dalam Keputusan Rektor UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Siapakah pihak yang berwenang menandatangani legalisasi fotokopi atau salinan ijazah?",
+      "answer": "Wakil Rektor I (Bidang Akademik) dan/atau Dekan, atas nama Rektor, memiliki wewenang untuk menandatangani legalisasi fotokopi atau salinan ijazah."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Apa syarat penyerahan ijazah kepada mahasiswa?",
+      "answer": "Ijazah akan diserahkan apabila mahasiswa telah memenuhi semua persyaratan administrasi di tingkat fakultas dan/atau di tingkat universitas."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Kapan transkrip akademik diberikan kepada mahasiswa?",
+      "answer": "Transkrip akademik diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi setelah diputuskan dalam penetapan kelulusan di acara yudisium."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Informasi spesifik apa saja yang berkaitan dengan riwayat akademik mahasiswa yang dicantumkan dalam transkrip akademik?",
+      "answer": "Transkrip akademik memuat daftar semua nama mata kuliah yang ditempuh dan lulus, bobot SKS, nilai yang telah diperoleh mulai semester pertama sampai dengan semester akhir, Indeks Prestasi Kumulatif (IPK), dan predikat kelulusan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Selain informasi mengenai hasil belajar, data administratif penting apa saja yang harus tercantum pada transkrip akademik?",
+      "answer": "Data administratif penting yang harus tercantum pada transkrip akademik meliputi nomor transkrip akademik, nomor ijazah nasional, program sarjana, nama program studi, nama lengkap pemilik transkrip, tempat dan tanggal lahir pemilik transkrip, Nomor Induk Mahasiswa (NIM), tanggal kelulusan, serta tempat dan tanggal penerbitan transkrip akademik."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Elemen-elemen apa saja yang menjamin keabsahan dan keaslian transkrip akademik?",
+      "answer": "Elemen-elemen yang menjamin keabsahan dan keaslian transkrip akademik meliputi logo UPN \"Veteran\" Jawa Timur, nama Universitas Pembangunan Nasional \"Veteran\" Jawa Timur, nomor keputusan akreditasi UPN \"Veteran\" Jawa Timur dan/atau Program Studi, stempel UPN \"Veteran\" Jawa Timur, serta nama, Nomor Induk Pegawai (NIP), dan tanda tangan Rektor dan Dekan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Mata kuliah apa saja yang dicantumkan dalam transkrip akademik mahasiswa?",
+      "answer": "Semua mata kuliah yang ditempuh oleh mahasiswa, termasuk yang mengulang dan yang diperoleh melalui transfer kredit atau perolehan kredit, dicantumkan dalam transkrip akademik."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Siapakah pihak yang bertanggung jawab menandatangani transkrip akademik?",
+      "answer": "Transkrip akademik ditandatangani oleh Rektor dan Dekan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Pada kondisi apakah Surat Keterangan Pendamping Ijazah (SKPI) diberikan kepada mahasiswa?",
+      "answer": "SKPI diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi, setelah keputusan penetapan kelulusan dibuat."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Informasi apa saja yang termuat dalam Surat Keterangan Pendamping Ijazah (SKPI)?",
+      "answer": "SKPI memuat informasi tentang logo UPN \"Veteran\" Jawa Timur, nama Universitas Pembangunan Nasional \"Veteran\" Jawa Timur, nomor SKPI, nomor ijazah nasional, nomor keputusan akreditasi UPN \"Veteran\" Jawa Timur dan/atau Program Studi, nama program studi, nama lengkap pemilik SKPI, tempat dan tanggal lahir pemilik SKPI, Nomor induk Mahasiswa (NIM), tanggal, bulan, tahun masuk dan kelulusan, nomor seri ijazah, gelar akademik/ sebutan yang diberikan beserta singkatannya, jenis pendidikan akademik, program Sarjana, capaian pembelajaran lulusan sesuai KKNI secara naratif, level KKNI (Kerangka Kualifikasi Nasional Indonesia), bahasa pengantar kuliah, sistem penilaian, jenis dan jenjang pendidikan tinggi lanjutan, serta skema tentang sistem pendidikan tinggi."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Kapan tanggal penerbitan Surat Keterangan Pendamping Ijazah (SKPI) ditetapkan?",
+      "answer": "Tanggal penerbitan SKPI adalah tanggal penerbitan ijazah."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Oleh siapa Surat Keterangan Pendamping Ijazah (SKPI) ditandatangani?",
+      "answer": "SKPI ditandatangani oleh Dekan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Kapan tanggal penerbitan Surat Keterangan Pendamping Ijazah (SKPI) ditetapkan?",
+      "answer": "Tanggal penerbitan Surat Keterangan Pendamping Ijazah (SKPI) ditetapkan sama dengan tanggal penerbitan ijazah."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Berapa kali Surat Keterangan Pendamping Ijazah (SKPI) diterbitkan bagi setiap lulusan?",
+      "answer": "Surat Keterangan Pendamping Ijazah (SKPI) diterbitkan satu kali bagi setiap lulusan."
+    },
+    {
+      "context": "ADMINISTRASI HASIL BELAJAR",
+      "question": "Apa syarat penyerahan Surat Keterangan Pendamping Ijazah (SKPI) kepada mahasiswa?",
+      "answer": "Surat Keterangan Pendamping Ijazah (SKPI) akan diserahkan apabila mahasiswa telah memenuhi semua persyaratan administrasi di tingkat fakultas dan/atau di tingkat universitas."
+    },
+    {
+      "context": "PENGGANTIAN IJAZAH",
+      "question": "Dalam kondisi apa Surat Keterangan Pengganti Ijazah dapat diterbitkan bagi alumni?",
+      "answer": "Surat Keterangan Pengganti Ijazah dapat diterbitkan apabila ijazah asli alumni rusak atau hilang."
+    },
+    {
+      "context": "PENGGANTIAN IJAZAH",
+      "question": "Kapan Surat Keterangan Perbaikan Penulisan Ijazah dapat diterbitkan?",
+      "answer": "Surat Keterangan Perbaikan Penulisan Ijazah akan diterbitkan jika terdapat kesalahan dalam penulisan ijazah."
+    },
+    {
+      "context": "PENGGANTIAN IJAZAH",
+      "question": "Bagaimana prosedur pengajuan penerbitan Surat Keterangan Pengganti Ijazah dan Surat Keterangan Perbaikan Penulisan Ijazah?",
+      "answer": "Penerbitan kedua surat keterangan tersebut diajukan oleh Dekan kepada Rektor atas permohonan pemilik ijazah yang harus dilengkapi dengan bukti-bukti kuat."
+    },
+    {
+      "context": "PENGELOLAAN DATA AKADEMIK",
+      "question": "Apa saja ruang lingkup yang dicakup dalam pengelolaan data akademik?",
+      "answer": "Pengelolaan data akademik meliputi penerbitan, pengesahan, pengumuman, penyimpanan, kerahasiaan, dan segala hal yang berkaitan dengan pengelolaan kearsipan atas segala dokumen akademik."
+    },
+    {
+      "context": "PENGELOLAAN DATA AKADEMIK",
+      "question": "Siapa saja pihak yang bertanggung jawab terhadap pengelolaan data akademik pada berbagai tingkatan di universitas?",
+      "answer": "Pihak yang bertanggung jawab adalah Rektor atau pejabat yang ditugaskan di tingkat universitas, Dekan atau pejabat yang ditugaskan di tingkat fakultas, serta Ketua Jurusan/Koordinator Program Studi atau pejabat yang ditugaskan di tingkat program studi."
+    },
+    {
+      "context": "PENGELOLAAN DATA AKADEMIK",
+      "question": "Bagaimana pengaturan lebih lanjut mengenai pengelolaan data akademik akan ditetapkan?",
+      "answer": "Pengaturan lebih lanjut mengenai pengelolaan data akademik akan diatur dengan Peraturan Rektor UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "BIMBINGAN DAN KONSELING",
+      "question": "Mahasiswa dalam kondisi seperti apa yang perlu melakukan bimbingan dan konseling?",
+      "answer": "Mahasiswa yang mempunyai masalah akademik perlu melakukan bimbingan dan konseling."
+    },
+    {
+      "context": "BIMBINGAN DAN KONSELING",
+      "question": "Di tingkat manakah pelaksanaan bimbingan dan konseling dapat diselenggarakan?",
+      "answer": "Pelaksanaan bimbingan dan konseling dapat diselenggarakan di tingkat universitas atau di tingkat fakultas/program studi."
+    },
+    {
+      "context": "BIMBINGAN DAN KONSELING",
+      "question": "Siapa pihak yang bertanggung jawab dalam melaksanakan bimbingan dan konseling di tingkat universitas dan di tingkat fakultas/program studi?",
+      "answer": "Pihak yang bertanggung jawab dalam melaksanakan bimbingan dan konseling di tingkat universitas adalah Unit Pelaksana Pelayanan Bimbingan dan Konseling Mahasiswa, sementara di tingkat fakultas/program studi adalah Pembimbing Akademik."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apa saja yang dikategorikan sebagai pelanggaran akademik ringan?",
+      "answer": "Pelanggaran akademik ringan mencakup penyontekan dan/atau perbuatan curang, perbantuan atau percobaan perbantuan pelanggaran akademik ringan, serta penyertaan dalam pelanggaran akademik ringan."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apa saja contoh pelanggaran akademik sedang?",
+      "answer": "Contoh pelanggaran akademik sedang adalah perjokian, pengulangan atas pelanggaran akademik ringan, perbantuan atau percobaan perbantuan pelanggaran akademik sedang, dan penyertaan dalam pelanggaran akademik sedang."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Sebutkan jenis-jenis pelanggaran akademik berat.",
+      "answer": "Jenis-jenis pelanggaran akademik berat meliputi plagiat, pemalsuan, gratifikasi dan penyuapan, penghinaan, tindak pidana yang diancam hukuman penjara 1 (satu) tahun atau lebih, pengulangan atas pelanggaran akademik sedang, pelanggaran administrasi dan tata tertib berat, perbantuan atau percobaan perbantuan pelanggaran akademik berat, serta penyertaan dalam pelanggaran akademik berat."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Sanksi apa saja yang dapat diberikan kepada mahasiswa yang melakukan pelanggaran akademik ringan?",
+      "answer": "Sanksi yang dapat diberikan meliputi peringatan keras secara lisan oleh dosen atau panitia ujian, peringatan keras secara tertulis oleh pimpinan fakultas, ketua departemen, program studi, atau ketua bagian, pengurangan nilai ujian, dan/atau pernyataan tidak lulus pada mata kuliah atau kegiatan akademik yang dilaksanakan oleh dosen pengampu."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Berapa lama seorang mahasiswa dapat dicabut hak atau izinnya mengikuti kegiatan akademik akibat pelanggaran akademik sedang?",
+      "answer": "Mahasiswa dapat dicabut hak atau izinnya mengikuti kegiatan akademik paling lama 2 (dua) semester oleh pimpinan UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apa bentuk sanksi tertinggi yang dapat dikenakan terhadap mahasiswa yang melakukan pelanggaran akademik berat?",
+      "answer": "Sanksi tertinggi yang dapat dikenakan adalah pemecatan atau dikeluarkan, yang berarti pencabutan status kemahasiswaan secara permanen oleh pimpinan UPN \"Veteran\" Jawa Timur."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apa sanksi yang dikenakan kepada alumni UPN \"Veteran\" Jawa Timur yang terbukti melakukan pelanggaran akademik berat?",
+      "answer": "Sanksi untuk alumni yang terbukti melakukan pelanggaran akademik berat selama menempuh studi di UPN \"Veteran\" Jawa Timur adalah pencabutan ijazah, transkrip, dan SKPI, serta kehilangan haknya untuk melanjutkan studi di universitas tersebut."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Bagaimana penetapan sanksi terhadap dosen atau tenaga administrasi yang terlibat dalam pelanggaran akademik?",
+      "answer": "Sanksi terhadap dosen atau tenaga administrasi yang terlibat dalam pelanggaran akademik ditetapkan berdasarkan peraturan perundang-undangan yang berlaku."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Bagaimana prosedur penetapan sanksi terhadap mahasiswa yang melakukan pelanggaran akademik ringan?",
+      "answer": "Prosedur penetapan sanksi terhadap mahasiswa yang melakukan pelanggaran akademik ringan meliputi penetapan bukti pelanggaran; konfirmasi bukti dan pelanggaran oleh dosen pengampu/ Ketua Jurusan/ Koordinator Program Studi; dan penetapan sanksi oleh dosen pengampu/ Ketua Jurusan/ Koordinator Program Studi."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Siapakah yang berwenang menunjuk tim pemeriksa dalam prosedur penetapan sanksi pelanggaran akademik sedang dan berat?",
+      "answer": "Dekan berwenang menunjuk tim pemeriksa untuk memeriksa dan mengumpulkan fakta, data, atau informasi terhadap dugaan terjadinya pelanggaran akademik sedang dan/atau berat."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Bagaimanakah susunan kepemimpinan dan keanggotaan tim pemeriksa untuk dugaan pelanggaran akademik sedang dan berat?",
+      "answer": "Tim pemeriksa dipimpin oleh Dekan, dengan Wakil Dekan bidang Akademik (Wadek I) sebagai sekretaris, serta Koordinator Program Studi sebagai anggota."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Kewenangan apa saja yang dimiliki oleh tim pemeriksa dalam menjalankan tugasnya terhadap dugaan pelanggaran akademik sedang dan berat?",
+      "answer": "Tim pemeriksa mempunyai kewenangan untuk memanggil pihak-pihak yang terkait dan meminta data serta bukti atas dugaan terjadinya pelanggaran akademik sedang dan/atau berat."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Kepada siapa hasil pemeriksaan dugaan pelanggaran akademik sedang dan/atau berat diserahkan pada tahap awal?",
+      "answer": "Hasil pemeriksaan tim pemeriksa terhadap dugaan terjadinya pelanggaran akademik sedang dan/atau berat diserahkan kepada Dekan untuk kemudian disampaikan kepada pimpinan universitas."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Pihak manakah yang memiliki kewenangan untuk membentuk tim penyelesaian pelanggaran akademik?",
+      "answer": "Pimpinan universitas beserta PPID membentuk tim penyelesaian pelanggaran akademik setelah memperhatikan dan mempertimbangkan berita acara hasil pemeriksaan dan pengumpulan fakta/data/informasi atas kasus tersebut."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Siapa saja yang menjadi anggota tim penyelesaian pelanggaran akademik?",
+      "answer": "Tim penyelesaian pelanggaran akademik terdiri atas pimpinan universitas, 3 (tiga) orang pakar hukum yang ditunjuk oleh pimpinan universitas atas usulan dari PPID, pimpinan fakultas pelapor, dan tenaga administrasi sebagai pencatat jalannya sidang."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apa peran tenaga administrasi dalam pelaksanaan sidang yang berkaitan dengan dugaan pelanggaran akademik?",
+      "answer": "Tenaga administrasi berperan sebagai pencatat jalannya sidang."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Hak apa yang diberikan kepada mahasiswa yang diduga melakukan pelanggaran akademik sedang dan/atau berat selama proses sidang?",
+      "answer": "Mahasiswa yang diduga melakukan pelanggaran akademik sedang dan/atau berat diberi hak untuk membela diri selama proses sidang."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Faktor-faktor apa yang menjadi pertimbangan pimpinan universitas dalam memutuskan penjatuhan sanksi terhadap mahasiswa berdasarkan hasil sidang khusus?",
+      "answer": "Pimpinan universitas mempertimbangkan bobot atau jenis pelanggaran akademik dan sanksi yang dapat dikenakan."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Sanksi akademik berat berupa apakah yang dapat dikenakan kepada mahasiswa yang melakukan pelanggaran akademik berat?",
+      "answer": "Sanksi akademik berat yang dapat dikenakan kepada mahasiswa yang melakukan pelanggaran akademik berat adalah pemberhentian status sebagai mahasiswa UPN \"Veteran\" Jawa Timur secara permanen."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apakah pengenaan sanksi akademik berat atas pelanggaran akademik berat tetap dapat diberlakukan meskipun tidak diproses di pengadilan?",
+      "answer": "Ya, pengenaan sanksi akademik berat tersebut tetap dapat diberlakukan meskipun pelanggaran akademik berat tidak diproses di pengadilan."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Dalam kondisi apakah pimpinan universitas dapat menjatuhkan sanksi pemberhentian sementara kepada mahasiswa, dan berapa lama durasi sanksi tersebut?",
+      "answer": "Pimpinan universitas dapat menjatuhkan sanksi pemberhentian sementara dalam hal mahasiswa yang diduga melakukan tindak pidana menjalani masa penahanan dan atau telah mendapat putusan Pengadilan Negeri yang menyatakan mahasiswa tersebut bersalah. Sanksi ini dapat berlaku paling lama 2 (dua) semester dan dihitung sebagai masa studi."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Bagaimana perlakuan terhadap masa studi seorang mahasiswa apabila ia masih dalam penahanan setelah sanksi pemberhentian sementara yang dijalaninya selesai?",
+      "answer": "Masa studi mahasiswa yang bersangkutan akan dibantarkan atau sementara tidak dihitung sampai adanya putusan pengadilan yang mempunyai kekuatan hukum tetap."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Dalam kondisi apakah masa studi selama penahanan atau pemberhentian sementara seorang mahasiswa yang diduga melakukan tindak pidana akan tetap dihitung sebagai masa studi?",
+      "answer": "Masa studi tersebut akan dihitung sebagai masa studi apabila pada putusan pengadilan yang telah berkekuatan hukum tetap, mahasiswa yang bersangkutan dinyatakan bersalah dan dikenai sanksi pidana."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Kapan sanksi akademik berat berupa pemberhentian permanen status mahasiswa dapat dikenakan?",
+      "answer": "Sanksi akademik berat berupa pemberhentian permanen status mahasiswa dapat dikenakan setelah adanya putusan pengadilan berkekuatan hukum tetap yang menyatakan mahasiswa yang bersangkutan bersalah dan dikenai sanksi pidana."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Apa hak yang dimiliki mahasiswa yang dikenai sanksi karena melakukan pelanggaran akademik dalam segala tingkatan?",
+      "answer": "Mahasiswa yang dikenai sanksi karena melakukan pelanggaran akademik dalam segala tingkatan mempunyai hak untuk menyampaikan keberatan dan/atau banding administratif."
+    },
+    {
+      "context": "PELANGGARAN AKADEMIK",
+      "question": "Berapa lama tenggang waktu pengajuan keberatan atau banding administratif atas putusan sanksi akademik?",
+      "answer": "Tenggang waktu pengajuan keberatan dan/atau banding administratif adalah 14 (empat belas) hari sejak diterimanya pemberitahuan putusan sanksi akademik."
+    },
+    {
+      "context": "PENUTUP",
+      "question": "Apa konsekuensi terhadap peraturan akademik sebelumnya yang bertentangan dengan isi Peraturan Rektor ini?",
+      "answer": "Segala peraturan akademik sebelumnya yang bertentangan dengan isi Peraturan Rektor ini dinyatakan tidak berlaku."
+    },
+    {
+      "context": "PENUTUP",
+      "question": "Sejak kapan Peraturan Rektor ini mulai berlaku?",
+      "answer": "Peraturan Rektor ini berlaku sejak tanggal ditetapkan."
+    }
+  ]
+}
