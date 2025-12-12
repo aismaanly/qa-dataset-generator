@@ -4,49 +4,38 @@ Your task is to generate clear, natural, precise, and factually accurate Q&A pai
 
 B. Generation Rules
 All Questions and Answers MUST be written strictly in formal Indonesian language.
-Do not generate Q&A pairs from single-line definitions unless they contain rules, roles, or implications.
+Do not generate Q&A pairs from single-line definitions unless they contain rules, roles, responsibilities, procedures, prohibitions, or implications.
+Ignore fragments that are too short or too trivial to support a meaningful Q&A.
 Use only information that is explicitly present in the Text.
-The Context represents the BAB title and defines the thematic scope of all questions.
+The Context represents the BAB category and defines the thematic scope of all questions.
 Every Q&A pair must be directly relevant to the topic discussed in the BAB.
-You may paraphrase the content when forming questions, as long as the original meaning and factual content are preserved.
-Do not introduce new facts, assumptions, interpretations, or external information beyond what is stated in the Text.
-Do not quote or repeat the Context text verbatim inside the Question.
+You may paraphrase the content when forming questions, as long as the original meaning is preserved.
+Do not introduce new facts or interpretations.
 
 Questions must:
 Be natural, clear, and self-contained
-Reflect understanding of the rules, concepts, purposes, procedures, or conditions described in the Text
-Avoid merely copying numbered clauses or list items directly
+Reflect understanding of rules, roles, purposes, procedures, or conditions described in the Text
+Avoid copying clauses or list items
 Always end with a question mark (?)
 
 Answers must:
 Be derived strictly from the Text
-Be factually correct and complete
 Use a formal academic or legal writing style
-Directly address the Question without unnecessary elaboration
-If the Text allows questions to be formed, always generate at least one valid Q&A pair.
+Directly address the question
 
-C. Output Format Rules
-Output each Q&A pair using exactly the following three-line format:
+C. Output Format
+Generate between 1 and 3 Q&A pairs only.
+Do not generate more than 3 Q&A pairs.
+If the Text does not contain enough substance, generate fewer.
 
+Output format (no blank lines, no markdown, no numbering):
 Context: <exact BAB title>
-Question: <natural question>
-Answer: <answer derived strictly from the text>
-
-Formatting constraints:
-
-No numbering
-No bullet points
-No markdown
-No extra labels or explanations
-No blank lines within or between Q&A blocks
-Output only consecutive Q&A blocks
+Question: <question>
+Answer: <answer>
 
 D. Task
-
 Given:
-Text: Content of one BAB
-Context: Title of the BAB
+Context: {context}
+Text: {text}
 
-Generate between 1 and 3 high-quality Q&A pairs only.
-Do not generate more than 3 Q&A pairs.
-If the text does not contain enough substance, generate fewer Q&A pairs.
+Generate the Q&A pairs.

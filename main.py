@@ -1,4 +1,3 @@
-import os
 import json
 import re
 import datetime
@@ -7,8 +6,6 @@ import streamlit as st
 from dotenv import load_dotenv
 from pathlib import Path
 import requests
-import google.generativeai as genai
-
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
@@ -22,24 +19,16 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+
 # =========================
-# AI MANAGER
+# AI MANAGER (Ollama only)
 # =========================
 class AIManager:
     def __init__(self, provider: str):
         self.provider = provider.lower()
         self.base_url = "http://localhost:11434"
 
-        if self.provider == "google":
-            genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-
     def get_available_models(self):
-        if self.provider == "google":
-            return {
-                "gemini-2.5-flash": "gemini-2.5-flash",
-                "gemini-2.5-pro": "gemini-2.5-pro"
-            }
-
         if self.provider == "ollama":
             try:
                 r = requests.get(f"{self.base_url}/api/tags", timeout=10)
@@ -48,7 +37,6 @@ class AIManager:
             except Exception as e:
                 logger.error(f"Ollama error: {e}")
                 return {}
-
         return {}
 
     def load_prompt(self, path="src/prompt.txt"):
@@ -58,20 +46,15 @@ class AIManager:
     def generate(self, text: str, context: str, model_id: str) -> str:
         prompt = f"""{self.load_prompt()}
 
-        Text:
-        {text}
+Text:
+{text}
 
-        Context:
-        {context}
-
-        """
+Context:
+{context}
+"""
 
         try:
-            if self.provider == "google":
-                model = genai.GenerativeModel(model_id)
-                response = model.generate_content(prompt)
-                return response.text.strip() if response and response.text else ""
-
+            # ==== OLLAMA ====
             if self.provider == "ollama":
                 response = requests.post(
                     f"{self.base_url}/api/generate",
@@ -94,6 +77,7 @@ class AIManager:
         return ""
 
 
+
 # =========================
 # DATASET PROCESSOR
 # =========================
@@ -103,103 +87,143 @@ class DatasetProcessor:
         self.output_file = output_file
         self.qa_pairs = []
 
-        # Teknik chunk
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=900,
             chunk_overlap=200,
             separators=["\n\n", "\n", ".", ";"]
         )
 
-    # ✅ FAIL-SOFT PARSER
+    # ---------- PARSER ----------
     def parse_qa(self, raw_text: str):
         results = []
 
-        blocks = re.split(r"\n(?=Context:)", raw_text.strip())
-        for block in blocks:
-            ctx = re.search(r"Context:\s*(.+)", block)
-            q = re.search(r"Question:\s*(.+)", block)
-            a = re.search(r"Answer:\s*(.+)", block, re.DOTALL)
+        # Pecah berdasarkan "Question:" untuk menangani multi QA dalam satu block
+        parts = re.split(r"(?=Question:)", raw_text.strip())
+        for part in parts:
+            ctx = re.search(r"Context:\s*(.+)", part)
+            q = re.search(r"Question:\s*(.+)", part)
+            a = re.search(r"Answer:\s*(.+)", part, re.DOTALL)
 
-            if ctx and q and a:
+            if q and a:
                 results.append({
-                    "context": ctx.group(1).strip(),
+                    "context": ctx.group(1).strip() if ctx else "",
                     "question": q.group(1).strip(),
                     "answer": a.group(1).strip()
                 })
 
         return results
 
+
+    # ---------- PERMANENCE ----------
+    def rate_limit_sleep(self, model_id: str):
+        return
+
+    def _partial_path(self):
+        Path("output").mkdir(exist_ok=True)
+        return Path("output") / f"partial_{self.output_file}"
+
+    def load_partial_if_exists(self):
+        path = self._partial_path()
+        if path.exists():
+            logger.info("🔁 Melanjutkan dari file partial")
+            data = json.loads(path.read_text(encoding="utf-8"))
+            self.qa_pairs = data.get("qa_pairs", [])
+
+    def save_partial(self, source_file: str, model_id: str):
+        with self._partial_path().open("w", encoding="utf-8") as f:
+            json.dump({
+                "metadata": {
+                    "source": source_file,
+                    "model": model_id,
+                    "total_qa_pairs": len(self.qa_pairs),
+                    "last_saved": datetime.datetime.now().isoformat(),
+                    "status": "PARTIAL"
+                },
+                "qa_pairs": self.qa_pairs
+            }, f, indent=2, ensure_ascii=False)
+
+    # ---------- MAIN PROCESS ----------
     def process_json(self, json_path: Path, model_id: str):
         data = json.loads(json_path.read_text(encoding="utf-8"))
-
         if not isinstance(data, list):
-            st.error("❌ JSON harus berbentuk LIST BAB")
+            st.error("❌ JSON harus berupa LIST")
             return
+
+        self.load_partial_if_exists()
+
+        start_time = datetime.datetime.now().isoformat()
 
         progress = st.progress(0.0)
         status = st.empty()
 
-        for i, bab in enumerate(data):
-            judul_bab = str(bab.get("judul_bab", "")).strip()
-            if not judul_bab:
+        for i, entry in enumerate(data):
+
+            metadata = entry.get("metadata", {})
+            kategori = metadata.get("kategori", "").strip()
+            pasal = metadata.get("pasal")
+            ayat = metadata.get("ayat")
+            text = entry.get("page_content", "").strip()
+
+            if not text:
                 continue
 
-            texts = []
-            for pasal in bab.get("pasal", []):
-                if isinstance(pasal, dict):
-                    texts.extend(
-                        [t.strip() for t in pasal.get("detail", []) if isinstance(t, str)]
-                    )
+            docs = self.text_splitter.create_documents([text])
+            chunk_qa = 0
 
-            if not texts:
-                logger.warning(f"⚠️ BAB kosong: {judul_bab}")
-                continue
+            for doc in enumerate(docs):
 
-            docs = self.text_splitter.create_documents(["\n".join(texts)])
-            bab_qa = 0
-
-            for idx, doc in enumerate(docs):
                 output = self.ai_manager.generate(
                     doc.page_content,
-                    judul_bab,
+                    kategori,
                     model_id
                 )
 
                 if not output:
                     continue
 
-                qa = self.parse_qa(output)
-                if qa:
-                    self.qa_pairs.extend(qa)
-                    bab_qa += len(qa)
-                else:
-                    logger.info(f"ℹ️ Chunk {idx+1} BAB {judul_bab} tanpa QA")
+                qa_list = self.parse_qa(output)
 
-            if bab_qa == 0:
-                logger.warning(f"⚠️ Tidak ada QA dihasilkan untuk BAB: {judul_bab}")
-            else:
-                logger.info(f"✅ {bab_qa} QA dihasilkan untuk BAB: {judul_bab}")
+                if qa_list:
+                    # ---- ADD PASAL & AYAT INJECTION ----
+                    for qa in qa_list:
+                        qa["pasal"] = pasal
+                        qa["ayat"] = ayat
+                        qa["context"] = kategori
+
+                        # Append to main list
+                        self.qa_pairs.append(qa)
+
+                    chunk_qa += len(qa_list)
+                    self.save_partial(json_path.name, model_id)
+
+                else:
+                    logger.info(
+                        f"ℹ️ Chunk tanpa QA (bab{kategori}, pasal {pasal}, ayat {ayat})"
+                    )
 
             progress.progress((i + 1) / len(data))
-            status.text(f"Memproses {judul_bab} ({i+1}/{len(data)})")
+            status.text(
+                f"Memproses chunk {i+1}/{len(data)} — kategori: {kategori} (pasal {pasal}, ayat {ayat})"
+            )
 
-        output_dir = Path("output")
-        output_dir.mkdir(exist_ok=True)
+        end_time = datetime.datetime.now().isoformat()
 
-        output_path = output_dir / self.output_file
+        # ---------- FINAL SAVE ----------
+        output_path = Path("output") / self.output_file
         with output_path.open("w", encoding="utf-8") as f:
             json.dump({
                 "metadata": {
                     "source": json_path.name,
                     "model": model_id,
                     "total_qa_pairs": len(self.qa_pairs),
-                    "generated_at": datetime.datetime.now().isoformat()
+                    "start_generate_at": start_time,
+                    "end_generate_at": end_time,
+                    "status_generate": "FINAL"
                 },
                 "qa_pairs": self.qa_pairs
             }, f, indent=2, ensure_ascii=False)
 
-        st.success(f"✅ Dataset berhasil dibuat: {output_path}")
-
+        st.success(f"✅ Dataset selesai: {output_path}")
 
 # =========================
 # STREAMLIT APP
@@ -210,21 +234,21 @@ def main():
 
     load_dotenv()
 
-    provider = st.sidebar.selectbox("AI Provider", ["ollama", "google"])
+    provider = st.sidebar.selectbox("AI Provider", ["ollama"])
 
     data_dir = Path("data")
-    files = list(data_dir.glob("*.json"))
-    if not files:
-        st.error("❌ Folder data/ tidak berisi JSON")
+    json_files = list(data_dir.glob("*.json"))
+    if not json_files:
+        st.error("❌ Folder data/ kosong")
         return
 
-    json_file = st.selectbox("Pilih File JSON", files, format_func=lambda x: x.name)
+    json_file = st.selectbox("Pilih File JSON", json_files, format_func=lambda x: x.name)
 
     ai = AIManager(provider)
     models = ai.get_available_models()
 
     if not models:
-        st.error("❌ Model tidak tersedia")
+        st.error("❌ Tidak ada model Ollama. Jalankan: ollama pull llama3.1")
         return
 
     model_id = st.selectbox("Pilih Model", list(models.keys()))
