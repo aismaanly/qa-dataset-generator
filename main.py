@@ -8,7 +8,6 @@ from pathlib import Path
 import requests
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-
 # =========================
 # LOGGING
 # =========================
@@ -17,8 +16,6 @@ logging.basicConfig(
     format="%(levelname)s:%(name)s:%(message)s"
 )
 logger = logging.getLogger(__name__)
-
-
 
 # =========================
 # AI MANAGER (Ollama only)
@@ -46,12 +43,12 @@ class AIManager:
     def generate(self, text: str, context: str, model_id: str) -> str:
         prompt = f"""{self.load_prompt()}
 
-Text:
-{text}
+        Text:
+        {text}
 
-Context:
-{context}
-"""
+        Context:
+        {context}
+        """
 
         try:
             # ==== OLLAMA ====
@@ -75,8 +72,6 @@ Context:
             logger.error(f"❌ AI Error: {e}")
 
         return ""
-
-
 
 # =========================
 # DATASET PROCESSOR
@@ -113,8 +108,7 @@ class DatasetProcessor:
 
         return results
 
-
-    # ---------- PERMANENCE ----------
+    # ---------- SAVE PARTIAL ----------
     def rate_limit_sleep(self, model_id: str):
         return
 
@@ -137,7 +131,7 @@ class DatasetProcessor:
                     "model": model_id,
                     "total_qa_pairs": len(self.qa_pairs),
                     "last_saved": datetime.datetime.now().isoformat(),
-                    "status": "PARTIAL"
+                    "status_generate": "PARTIAL"
                 },
                 "qa_pairs": self.qa_pairs
             }, f, indent=2, ensure_ascii=False)
@@ -170,7 +164,7 @@ class DatasetProcessor:
             docs = self.text_splitter.create_documents([text])
             chunk_qa = 0
 
-            for doc in enumerate(docs):
+            for doc in docs:
 
                 output = self.ai_manager.generate(
                     doc.page_content,
