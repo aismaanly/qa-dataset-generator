@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # =========================
-# AI MANAGER (Ollama only)
+# AI MANAGER
 # =========================
 class AIManager:
     def __init__(self, provider: str):
@@ -81,10 +81,11 @@ class DatasetProcessor:
         self.ai_manager = ai_manager
         self.output_file = output_file
         self.qa_pairs = []
+        self.id_counter = 1
 
         self.text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=900,
-            chunk_overlap=200,
+            chunk_size=1000,
+            chunk_overlap=150,
             separators=["\n\n", "\n", ".", ";"]
         )
 
@@ -122,6 +123,10 @@ class DatasetProcessor:
             logger.info("🔁 Melanjutkan dari file partial")
             data = json.loads(path.read_text(encoding="utf-8"))
             self.qa_pairs = data.get("qa_pairs", [])
+
+        if self.qa_pairs:
+            last_id = self.qa_pairs[-1].get("id_qa", 0)
+            self.id_counter = last_id + 1            
 
     def save_partial(self, source_file: str, model_id: str):
         with self._partial_path().open("w", encoding="utf-8") as f:
@@ -178,21 +183,25 @@ class DatasetProcessor:
                 qa_list = self.parse_qa(output)
 
                 if qa_list:
-                    # ---- ADD PASAL & AYAT INJECTION ----
                     for qa in qa_list:
-                        qa["pasal"] = pasal
-                        qa["ayat"] = ayat
-                        qa["context"] = kategori
+                        qa_with_id = {
+                            "id_qa": self.id_counter,
+                            "context": kategori,
+                            "question": qa["question"],
+                            "answer": qa["answer"],
+                            "pasal": pasal,
+                            "ayat": ayat
+                        }
 
-                        # Append to main list
-                        self.qa_pairs.append(qa)
+                        self.qa_pairs.append(qa_with_id)
+                        self.id_counter += 1
 
                     chunk_qa += len(qa_list)
                     self.save_partial(json_path.name, model_id)
 
                 else:
                     logger.info(
-                        f"ℹ️ Chunk tanpa QA (bab{kategori}, pasal {pasal}, ayat {ayat})"
+                        f"ℹ️ Chunk tanpa QA (bab {kategori}, pasal {pasal}, ayat {ayat})"
                     )
 
             progress.progress((i + 1) / len(data))
@@ -212,7 +221,6 @@ class DatasetProcessor:
                     "total_qa_pairs": len(self.qa_pairs),
                     "start_generate_at": start_time,
                     "end_generate_at": end_time,
-                    "status_generate": "FINAL"
                 },
                 "qa_pairs": self.qa_pairs
             }, f, indent=2, ensure_ascii=False)

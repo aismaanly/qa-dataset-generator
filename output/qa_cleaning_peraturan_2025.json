@@ -2,48 +2,77 @@
   "metadata": {
     "source": "cleaning_peraturan_2025.json",
     "model": "llama3.1:8b",
-    "total_qa_pairs": 119,
-    "start_generate_at": "2025-12-12T10:06:14.852066",
-    "end_generate_at": "2025-12-12T10:30:44.844601",
-    "status_generate": "FINAL"
+    "total_qa_pairs": 155,
+    "start_generate_at": "2025-12-14T22:34:58.835420",
+    "end_generate_at": "2025-12-14T22:58:25.344106"
   },
   "qa_pairs": [
     {
+      "id_qa": 1,
       "context": "",
-      "question": "Apakah syarat penyelenggaraan program sarjana dan sarjana terapan harus memiliki izin penyelenggaraan atau akreditasi yang masih berlaku?",
-      "answer": "Ya, penyelenggaraan program studi harus mempunyai izin penyelenggaraan atau memiliki akreditasi yang masih berlaku.",
+      "question": "Apakah syarat penyelenggaraan program studi sarjana dan sarjana terapan harus memiliki izin penyelenggaraan atau akreditasi yang masih berlaku?",
+      "answer": "Ya, penyelenggaraan program studi sarjana dan sarjana terapan harus memenuhi salah satu syarat tersebut.",
       "pasal": 3,
       "ayat": 1
     },
     {
+      "id_qa": 2,
       "context": "",
-      "question": "Apakah program studi baru harus melalui proses akreditasi sebelum diaktifkan?",
-      "answer": "Ya, program studi baru harus terakreditasi sesuai dengan ketentuan yang berlaku.",
+      "question": "Apakah baku mutu untuk penyelenggaraan program studi sarjana dan sarjana terapan menurut sistem penjaminan mutu akademik?",
+      "answer": "Ya, penyelenggaraan program studi sarjana dan sarjana terapan harus memenuhi baku mutu menurut sistem penjaminan mutu akademik.",
+      "pasal": 3,
+      "ayat": 1
+    },
+    {
+      "id_qa": 3,
+      "context": "",
+      "question": "Apakah jumlah minimal dosen tetap yang harus dimiliki oleh suatu program studi sarjana dan sarjana terapan?",
+      "answer": "Ya, setidaknya 5 (lima) dosen tetap dengan kualifikasi sesuai dengan peraturan yang berlaku.",
+      "pasal": 3,
+      "ayat": 1
+    },
+    {
+      "id_qa": 4,
+      "context": "",
+      "question": "Apa syarat yang harus dipenuhi oleh program studi baru?",
+      "answer": "Program studi baru harus terakreditasi sesuai dengan ketentuan yang berlaku.",
       "pasal": 3,
       "ayat": 2
     },
     {
+      "id_qa": 5,
       "context": "",
-      "question": "Apa saja status akreditasi yang diberikan oleh Badan Akreditasi Nasional Perguruan Tinggi?",
-      "answer": "Status terakreditasi, tidak terakreditasi, atau terakreditasi dengan peringkat A, B, atau C.",
+      "question": "Apa saja jenis akreditasi program studi yang dimaksud pada ayat (1) huruf a?",
+      "answer": "Terakreditasi Badan Akreditasi Nasional Perguruan Tinggi dengan status terakreditasi, tidak terakreditasi atau terakreditasi dengan peringkat A, B, atau C.",
       "pasal": 3,
       "ayat": 3
     },
     {
+      "id_qa": 6,
       "context": "",
-      "question": "Apakah ada lembaga lain selain Badan Akreditasi Nasional Perguruan Tinggi yang dapat memberikan akreditasi program studi?",
-      "answer": "Ya, Lembaga Akreditasi Mandiri dan lembaga akreditasi internasional yang diakui kementerian yang menangani pendidikan tinggi juga dapat memberikan akreditasi.",
+      "question": "Apa saja jenis akreditasi program studi yang dimaksud pada ayat (1) huruf b?",
+      "answer": "Terakreditasi Lembaga Akreditasi Mandiri dengan status terakreditasi unggul, terakreditasi, tidak terakreditasi, atau terakreditasi dengan peringkat Unggul, Baik Sekali, Baik.",
       "pasal": 3,
       "ayat": 3
     },
     {
+      "id_qa": 7,
       "context": "",
-      "question": "Apa saja jenis program sarjana dan sarjana terapan yang dapat diselenggarakan?",
-      "answer": "Jenis-jenis program tersebut meliputi kelas reguler, kelas internasional, kelas kerjasama, dan PSDKU.",
+      "question": "Apa saja jenis akreditasi program studi yang dimaksud pada ayat (1) huruf c?",
+      "answer": "Terakreditasi Internasional oleh lembaga akreditasi internasional yang diakui kementerian yang menangani pendidikan tinggi.",
+      "pasal": 3,
+      "ayat": 3
+    },
+    {
+      "id_qa": 8,
+      "context": "",
+      "question": "Apa saja jenis-jenis program studi yang dapat diselenggarakan oleh perguruan tinggi?",
+      "answer": "Program sarjana dan sarjana terapan dapat diselenggarakan dalam bentuk kelas reguler, kelas internasional, kelas kerjasama, dan PSDKU.",
       "pasal": 3,
       "ayat": 4
     },
     {
+      "id_qa": 9,
       "context": "",
       "question": "Apakah syarat untuk menyelenggarakan program sarjana dan sarjana terapan kelas internasional?",
       "answer": "Program studi harus menyelenggarakan program sarjana kelas reguler yang terakreditasi peringkat A/unggul atau terakreditasi internasional.",
@@ -51,27 +80,31 @@
       "ayat": 5
     },
     {
+      "id_qa": 10,
       "context": "",
-      "question": "Apa yang dimaksud dengan pembukaan, penutupan, penggabungan, dan penggantian nama program studi?",
-      "answer": "Pembukaan, penutupan, penggabungan, dan penggantian nama program studi mengikuti ketentuan yang berlaku.",
+      "question": "Apa yang harus diikuti dalam pembukaan, penutupan, penggabungan, dan penggantian nama program studi?",
+      "answer": "Ketentuan-ketentuan yang berlaku.",
       "pasal": 3,
       "ayat": 6
     },
     {
+      "id_qa": 11,
       "context": "",
-      "question": "Apa tujuan utama kelas reguler dalam program pendidikan sarjana?",
-      "answer": "Tujuan utama kelas reguler adalah mendidik lulusan baru (fresh graduate) Sekolah Menengah Atas yang selanjutnya disingkat SMA atau yang sederajat.",
+      "question": "Apa yang dimaksud dengan kelas reguler dalam konteks pendidikan sarjana?",
+      "answer": "Kelas reguler adalah program pendidikan sarjana yang diutamakan untuk mendidik lulusan baru (fresh graduate) Sekolah Menengah Atas yang selanjutnya disingkat SMA atau yang sederajat.",
       "pasal": 4,
       "ayat": 1
     },
     {
+      "id_qa": 12,
       "context": "",
-      "question": "Siapa target utama dari program pendidikan sarjana reguler?",
-      "answer": "Target utama dari program pendidikan sarjana reguler adalah lulusan baru (fresh graduate) Sekolah Menengah Atas.",
+      "question": "Siapa yang dituju oleh kelas reguler dalam program pendidikan sarjana?",
+      "answer": "Lulusan baru (fresh graduate) Sekolah Menengah Atas yang selanjutnya disingkat SMA atau yang sederajat.",
       "pasal": 4,
       "ayat": 1
     },
     {
+      "id_qa": 13,
       "context": "",
       "question": "Apa yang harus digunakan oleh kelas reguler?",
       "answer": "Kurikulum.",
@@ -79,83 +112,127 @@
       "ayat": 2
     },
     {
+      "id_qa": 14,
       "context": "",
-      "question": "Apa bahasa pengantar utama yang digunakan pada kelas reguler?",
-      "answer": "Bahasa Indonesia.",
-      "pasal": 4,
-      "ayat": 3
-    },
-    {
-      "context": "",
-      "question": "Apa tujuan menyelenggarakan kelas mata kuliah dengan pengantar Bahasa Inggris di Program Studi?",
-      "answer": "Meningkatkan kemampuan berbahasa asing sebagai kompetensi pendukung.",
+      "question": "Apakah program studi wajib menyelenggarakan kelas mata kuliah dengan pengantar Bahasa Inggris?",
+      "answer": "Ya, program studi wajib menyelenggarakan minimal 1 kelas mata kuliah pada setiap semester dengan pengantar Bahasa Inggris.",
       "pasal": 4,
       "ayat": 4
     },
     {
+      "id_qa": 15,
       "context": "",
-      "question": "Apakah mahasiswa asing dapat mendaftar ke kelas reguler?",
+      "question": "Tujuan dari penyelenggaraan kelas mata kuliah dengan pengantar Bahasa Inggris di program studi?",
+      "answer": "Untuk meningkatkan kemampuan berbahasa asing sebagai kompetensi pendukung.",
+      "pasal": 4,
+      "ayat": 4
+    },
+    {
+      "id_qa": 16,
+      "context": "",
+      "question": "Apakah mahasiswa asing dapat mendaftar di kelas reguler?",
       "answer": "Ya, mahasiswa asing dapat mendaftar dan bergabung di kelas regular dengan menggunakan Bahasa Inggris dan Bahasa Indonesia sebagai bahasa pengantar.",
       "pasal": 4,
       "ayat": 5
     },
     {
+      "id_qa": 17,
       "context": "",
-      "question": "Apakah calon mahasiswa program sarjana harus warga negara Indonesia atau warga negara asing untuk dapat mendaftar?",
-      "answer": "Ya, calon mahasiswa program sarjana harus memenuhi syarat sebagai warga negara Indonesia (WNI) atau warga negara asing (WNA) yang telah mendapatkan izin belajar dari kementerian yang mengelola pendidikan tinggi.",
+      "question": "Bahasa apa yang digunakan oleh mahasiswa asing dalam kelas reguler?",
+      "answer": "Mahasiswa asing dapat menggunakan Bahasa Inggris dan Bahasa Indonesia sebagai bahasa pengantar dalam kelas reguler.",
+      "pasal": 4,
+      "ayat": 5
+    },
+    {
+      "id_qa": 18,
+      "context": "",
+      "question": "Apakah warga negara asing dapat mendaftar untuk mengikuti proses seleksi program sarjana?",
+      "answer": "Ya, warga negara asing yang memperoleh izin belajar dari kementerian yang mengelola pendidikan tinggi dapat mendaftar.",
       "pasal": 9,
       "ayat": 1
     },
     {
+      "id_qa": 19,
       "context": "",
-      "question": "Apa syarat yang menentukan calon mahasiswa untuk mengikuti kelas kerja sama?",
+      "question": "Apa syarat yang ditetapkan untuk calon mahasiswa kelas kerja sama?",
       "answer": "Syarat bagi calon mahasiswa kelas kerja sama ditetapkan berdasarkan MoU dan PKS.",
       "pasal": 9,
       "ayat": 2
     },
     {
+      "id_qa": 20,
       "context": "",
-      "question": "Apakah mahasiswa diperkenankan terdaftar pada lebih dari satu Program Studi di Perguruan Tinggi Negeri?",
+      "question": "Apakah mahasiswa diperkenankan terdaftar pada lebih dari satu Program Studi di PTN?",
       "answer": "Tidak, kecuali jika mengikuti program yang diselenggarakan oleh Pemerintah Indonesia melalui kementerian yang mengelola pendidikan tinggi.",
       "pasal": 12,
       "ayat": 1
     },
     {
+      "id_qa": 21,
       "context": "",
-      "question": "Apakah tindakan yang akan diambil terhadap mahasiswa yang terdaftar pada lebih dari 1 (satu) Program Studi?",
+      "question": "Apa syarat untuk mahasiswa dapat terdaftar pada lebih dari satu Program Studi di PTN?",
+      "answer": "Mahasiswa harus mengikuti program yang diselenggarakan oleh Pemerintah Indonesia melalui kementerian yang mengelola pendidikan tinggi.",
+      "pasal": 12,
+      "ayat": 1
+    },
+    {
+      "id_qa": 22,
+      "context": "",
+      "question": "Apakah tindakan yang akan dilakukan Wakil Rektor Bidang Akademik terhadap seorang mahasiswa yang terdaftar pada lebih dari 1 (satu) Program Studi?",
       "answer": "Wakil Rektor Bidang Akademik akan mengirimkan surat teguran kepada yang bersangkutan untuk segera menentukan Program Studi pilihannya dengan tembusan kepada Dekan.",
       "pasal": 12,
       "ayat": 2
     },
     {
+      "id_qa": 23,
       "context": "",
-      "question": "Apakah batas waktu untuk menyampaikan pemberitahuan tertulis tentang pilihan mahasiswa?",
+      "question": "Siapakah yang akan menerima tembusan surat teguran dari Wakil Rektor Bidang Akademik?",
+      "answer": "Dekan akan menerima tembusan surat teguran dari Wakil Rektor Bidang Akademik.",
+      "pasal": 12,
+      "ayat": 2
+    },
+    {
+      "id_qa": 24,
+      "context": "",
+      "question": "Apabila mahasiswa menerima surat teguran tertulis, berapa lama waktu yang telah ditetapkan untuk menyampaikan pemberitahuan tertulis tentang pilihan mereka?",
       "answer": "Paling lambat 20 (dua puluh) hari kerja terhitung sejak surat teguran tertulis diterbitkan.",
       "pasal": 12,
       "ayat": 3
     },
     {
+      "id_qa": 25,
       "context": "",
-      "question": "Apakah Universitas dapat menerbitkan keputusan rektor mengenai pengunduran diri mahasiswa dari salah satu Program Studi?",
-      "answer": "Ya, Universitas dapat menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pengunduran diri mahasiswa dari salah satu Program Studi.",
+      "question": "Apa yang akan diterbitkan oleh Universitas dalam hal pengunduran diri mahasiswa?",
+      "answer": "Keputusan Rektor UPN “Veteran” Jawa Timur tentang pengunduran diri mahasiswa dari salah satu Program Studi.",
       "pasal": 12,
       "ayat": 4
     },
     {
+      "id_qa": 26,
       "context": "",
-      "question": "Apakah yang akan dilakukan pihak universitas jika pilihan Program Studi tidak disampaikan dalam batas waktu yang ditentukan?",
+      "question": "Apakah yang terjadi jika mahasiswa tidak menyampaikan pilihan Program Studi dalam batas waktu yang ditentukan?",
       "answer": "Pihak universitas akan menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pemutusan hubungan studi.",
       "pasal": 12,
       "ayat": 5
     },
     {
+      "id_qa": 27,
       "context": "",
       "question": "Bagaimana cara pemenuhan masa dan beban belajar sebagaimana yang dimaksud pada Pasal 16 ayat (1)?",
-      "answer": "Pemenuhan masa dan beban belajar dapat dilakukan dengan mengikuti seluruh proses pembelajaran dalam Program Studi pada perguruan tinggi sesuai masa dan beban belajar, atau mengikuti proses pembelajaran di dalam Program Studi untuk memenuhi sebagian masa dan beban belajar dan sisanya mengikuti proses pembelajaran di luar Program Studi.",
+      "answer": "Pemenuhan masa dan beban belajar dapat dilakukan dengan mengikuti seluruh proses pembelajaran dalam Program Studi atau mengikuti proses pembelajaran di luar Program Studi.",
       "pasal": 17,
       "ayat": 1
     },
     {
+      "id_qa": 28,
+      "context": "",
+      "question": "Apakah ada dua cara untuk memenuhi masa dan beban belajar menurut Pasal 16 ayat (1)?",
+      "answer": "Ya, terdapat dua cara yaitu dengan mengikuti seluruh proses pembelajaran dalam Program Studi atau mengikuti proses pembelajaran di luar Program Studi.",
+      "pasal": 17,
+      "ayat": 1
+    },
+    {
+      "id_qa": 29,
       "context": "",
       "question": "Apa yang harus dilakukan oleh Program Studi dan Fakultas menurut peraturan tersebut?",
       "answer": "Mereka wajib memfasilitasi pelaksanaan pemenuhan masa dan beban belajar dalam proses pembelajaran.",
@@ -163,188 +240,279 @@
       "ayat": 2
     },
     {
+      "id_qa": 30,
       "context": "",
-      "question": "Apakah waktu maksimal untuk menyelesaikan masa studi dalam Program Studi?",
-      "answer": "Paling lama 6 (enam) semester.",
+      "question": "Apakah jumlah semester minimum untuk memenuhi masa studi dan beban belajar dalam proses program studi?",
+      "answer": "Paling sedikit 6 (enam) semester.",
       "pasal": 17,
       "ayat": 3
     },
     {
+      "id_qa": 31,
       "context": "",
-      "question": "Apakah kegiatan magang merupakan bagian dari kurikulum program studi sarjana terapan?",
-      "answer": "Ya, kegiatan magang wajib dilaksanakan sebagai salah satu persyaratan program studi sarjana terapan.",
+      "question": "Apa yang dimaksud dengan pembelajaran luar program studi pada perguruan tinggi yang sama?",
+      "answer": "Pembelajaran luar program studi pada perguruan tinggi yang sama adalah paling lama dalam Program Studi, yaitu 1 (satu) semester atau setara dengan paling banyak 20 (dua puluh) SKS.",
+      "pasal": 17,
+      "ayat": 3
+    },
+    {
+      "id_qa": 32,
+      "context": "",
+      "question": "Apakah jumlah SKS maksimum untuk pembelajaran luar program studi pada perguruan tinggi yang berbeda?",
+      "answer": "Paling banyak 40 (empat puluh) SKS.",
+      "pasal": 17,
+      "ayat": 3
+    },
+    {
+      "id_qa": 33,
+      "context": "",
+      "question": "Apakah kegiatan magang merupakan bagian dari kurikulum Program Studi Sarjana Terapan?",
+      "answer": "Ya, kegiatan magang adalah wajib dan harus dilaksanakan selama 1 (satu) semester atau setara dengan 20 (dua puluh) SKS.\n\nContext: Program Studi Sarjana Terapan",
       "pasal": 17,
       "ayat": 4
     },
     {
+      "id_qa": 34,
       "context": "",
-      "question": "Apa yang dilakukan oleh fakultas/program studi menjelang akhir semester?",
-      "answer": "Fakultas/ program studi menetapkan jadwal kuliah untuk menjalankan suatu kurikulum.",
+      "question": "Berapa lama waktu yang diperlukan untuk menyelesaikan kegiatan magang?",
+      "answer": "Kegiatan magang harus dilaksanakan selama 1 (satu) semester atau setara dengan 20 (dua puluh) SKS.",
+      "pasal": 17,
+      "ayat": 4
+    },
+    {
+      "id_qa": 35,
+      "context": "",
+      "question": "Apakah yang dilakukan oleh fakultas/program studi menjelang akhir semester?",
+      "answer": "Fakultas/program studi menetapkan jadwal kuliah untuk menjalankan suatu kurikulum.",
       "pasal": 21,
       "ayat": 1
     },
     {
+      "id_qa": 36,
       "context": "",
-      "question": "Tujuan dari penentuan jadwal kuliah oleh fakultas/program studi?",
-      "answer": "Untuk menjalankan suatu kurikulum.",
+      "question": "Apa tujuan penyusunan jadwal kuliah oleh fakultas/program studi?",
+      "answer": "Tujuan penyusunan jadwal kuliah adalah untuk menjalankan suatu kurikulum.",
       "pasal": 21,
       "ayat": 1
     },
     {
+      "id_qa": 37,
       "context": "",
-      "question": "Apa yang termasuk dalam jadwal kuliah sebagaimana dimaksud pada ayat (1)?",
-      "answer": "Jadwal kuliah tersebut setidaknya mencakup hama mata kuliah dan kelas, koordinator mata kuliah, hari dan jam kuliah, tempat/ruang kuliah, dan dosen pengampu.",
+      "question": "Apa saja yang harus dicakup dalam jadwal kuliah?",
+      "answer": "Menurut ketentuan tersebut, jadwal kuliah setidaknya mencakup hama mata kuliah dan kelas, koordinator mata kuliah, hari dan jam kuliah, tempat/ruang kuliah, dan dosen pengampu.",
       "pasal": 21,
       "ayat": 2
     },
     {
+      "id_qa": 38,
       "context": "",
-      "question": "Apa yang dimaksud dengan koordinator mata kuliah dalam jadwal kuliah?",
-      "answer": "Koordinator mata kuliah adalah salah satu bagian dari jadwal kuliah yang harus dicakup.",
-      "pasal": 21,
-      "ayat": 2
-    },
-    {
-      "context": "",
-      "question": "Siapa yang menentukan Jadwal Mata Kuliah Umum?",
-      "answer": "Universitas.",
+      "question": "Siapa yang menetapkan Jadwal Mata Kuliah Umum?",
+      "answer": "Universitas menetapkan Jadwal Mata Kuliah Umum.",
       "pasal": 21,
       "ayat": 3
     },
     {
+      "id_qa": 39,
       "context": "",
-      "question": "Apakah suatu mata kuliah bisa diselenggarakan dalam beberapa kelas?",
-      "answer": "Ya, suatu mata kuliah dapat diselenggarakan dalam beberapa kelas.",
+      "question": "Bagian apa di Universitas yang menetapkan Jadwal Mata Kuliah Prodi?",
+      "answer": "Fakultas menetapkan Jadwal Mata Kuliah Prodi.",
+      "pasal": 21,
+      "ayat": 3
+    },
+    {
+      "id_qa": 40,
+      "context": "",
+      "question": "Apa yang dimaksud dengan suatu mata kuliah dapat diselenggarakan dalam beberapa kelas?",
+      "answer": "Suatu mata kuliah dapat diselenggarakan dalam beberapa kelas, menurut teks tersebut.",
       "pasal": 21,
       "ayat": 4
     },
     {
+      "id_qa": 41,
       "context": "",
-      "question": "Apakah perkuliahan dapat dilakukan secara daring pada kondisi khusus yang ditetapkan oleh universitas atau fakultas?",
+      "question": "Apakah ada contoh lain tentang cara penyelenggaraan mata kuliah yang tidak disebutkan di atas?",
+      "answer": "Tidak disebutkan di teks tersebut.",
+      "pasal": 21,
+      "ayat": 4
+    },
+    {
+      "id_qa": 42,
+      "context": "",
+      "question": "Apakah perkuliahan di universitas dapat dilakukan secara daring?",
       "answer": "Ya, perkuliahan dapat dilakukan secara daring pada kondisi khusus yang ditetapkan oleh universitas atau fakultas.",
       "pasal": 21,
       "ayat": 5
     },
     {
+      "id_qa": 43,
       "context": "",
-      "question": "Apakah yang dilakukan dosen pada awal pembelajaran di kelas?",
-      "answer": "Dosen memberikan pesan tentang adab, moral, etika dan bela negara kepada mahasiswa selama kurang lebih 5-10 menit.",
+      "question": "Apakah yang pertama kali dilakukan oleh dosen dalam pembelajaran dikelas?",
+      "answer": "Dosen mengawali pembelajaran dengan memberikan pesan tentang adab, moral, etika dan bela negara kepada mahasiswa.",
       "pasal": 21,
       "ayat": 6
     },
     {
+      "id_qa": 44,
       "context": "",
       "question": "Apa tujuan utama penilaian hasil belajar mahasiswa?",
-      "answer": "Tujuan utama penilaian hasil belajar mahasiswa adalah untuk mengukur pencapaian kompetensi pembelajaran yang ditetapkan oleh program studi.",
+      "answer": "Tujuan utama penilaian hasil belajar mahasiswa adalah mengukur pencapaian kompetensi pembelajaran yang ditetapkan oleh program studi.",
       "pasal": 28,
       "ayat": 1
     },
     {
+      "id_qa": 45,
       "context": "",
-      "question": "Apakah aspek hardskill dan softskill harus dicakup dalam penilaian hasil belajar mahasiswa?",
-      "answer": "Ya, penilaian hasil belajar mahasiswa harus mencakup aspek hardskill dan softskill.",
+      "question": "Apa saja aspek hardskill dan softskill yang harus dicakup dalam penilaian hasil belajar mahasiswa?",
+      "answer": "Aspek hardskill dan softskill tersebut mencakup kemampuan teknis (hardskill) dan kemampuan sosial (softskill).",
       "pasal": 28,
       "ayat": 2
     },
     {
+      "id_qa": 46,
       "context": "",
-      "question": "Apa saja bentuk-bentuk penilaian hasil belajar yang dapat dilakukan berdasarkan alasan tertentu?",
-      "answer": "Penilaian hasil belajar dapat dilakukan dalam bentuk ujian tertulis, ujian lisan, ujian praktikum/keterampilan, portofolio, tugas akhir (skripsi atau bentuk lain yang setara), dan bentuk-bentuk lain.",
+      "question": "Apakah bentuk-bentuk penilaian hasil belajar yang dapat digunakan oleh dosen?",
+      "answer": "Bentuk-bentuk penilaian hasil belajar yang dapat digunakan adalah ujian tertulis, ujian lisan, ujian praktikum/keterampilan, portofolio, skripsi, dan bentuk lain yang setara.",
       "pasal": 28,
       "ayat": 2
     },
     {
+      "id_qa": 47,
       "context": "",
-      "question": "Apa bobot evaluasi aktifitas partisipatif dan hasil proyek/studi kasus dalam menentukan nilai akhir hasil belajar?",
-      "answer": "Bobot evaluasi lebih dari 50%.",
+      "question": "Apakah bobot evaluasi aktifitas partisipatif dan hasil proyek/studi kasus dalam menentukan nilai akhir hasil belajar lebih dari 50%?",
+      "answer": "Ya, bobot evaluasi aktifitas partisipatif dan hasil proyek/studi kasus dalam menentukan nilai akhir hasil belajar lebih dari 50%.",
       "pasal": 28,
       "ayat": 3
     },
     {
-      "context": "",
-      "question": "Apa komponen penilaian lainnya yang digunakan untuk menentukan nilai akhir hasil belajar selain evaluasi aktifitas partisipatif dan hasil proyek/studi kasus?",
-      "answer": "Evaluasi Tengah Semester (ETS), Evaluasi Akhir Semester (EAS), tugas, kuis, praktikum, dan keterampilan berperilaku.",
-      "pasal": 28,
-      "ayat": 3
-    },
-    {
+      "id_qa": 48,
       "context": "",
       "question": "Bagaimana penilaian hasil belajar dinyatakan dalam sistem ini?",
-      "answer": "Penilaian hasil belajar dinyatakan dengan huruf, yaitu menggunakan huruf A, A-, B+, B, B-, C+, C, D, dan E.",
+      "answer": "Penilaian hasil belajar dinyatakan dengan huruf menggunakan skala A, A-, B+, B, B-, C+, C, D, dan E.",
       "pasal": 28,
       "ayat": 4
     },
     {
+      "id_qa": 49,
       "context": "",
-      "question": "Apa nilai lulus minimal untuk tugas akhir/skripsi/prototipe dalam sistem ini?",
-      "answer": "Nilai lulus minimal tugas akhir/skripsi/prototipe adalah B.",
+      "question": "Apa nilai lulus minimal untuk tugas akhir/skripsi/prototipe dalam sistem penilaian ini?",
+      "answer": "Nilai lulus minimal untuk tugas akhir/skripsi/prototipe adalah B.",
       "pasal": 28,
       "ayat": 4
     },
     {
+      "id_qa": 50,
       "context": "",
-      "question": "Bagaimana dengan mahasiswa yang mendapat nilai D dan E, apa yang harus mereka lakukan?",
-      "answer": "Mahasiswa yang mendapat nilai D dan E wajib mengulang program pembelajaran dan ujian pada semester saat mata kuliah diprogram.",
+      "question": "Apa nilai yang diakui pada mata kuliah yang diambil ulang?",
+      "answer": "Nilai yang diakui adalah nilai terbaik.",
       "pasal": 28,
       "ayat": 4
     },
     {
+      "id_qa": 51,
       "context": "",
-      "question": "Apakah rumus perhitungan IPS mahasiswa dalam satu semester?",
-      "answer": "Rumus perhitungan IPS menggunakan: IPS = LKN / K, di mana K adalah besarnya SKS masing-masing mata kuliah dan N adalah nilai masing-masing mata kuliah.",
+      "question": "Bagaimana jika nilai belum ditentukan pada mata kuliah yang diambil ulang?",
+      "answer": "Jika nilai belum ditentukan, maka diberikan nilai K dengan bobot nol (O), yang berarti \"Kurang/Tidak Lengkap\".",
+      "pasal": 28,
+      "ayat": 4
+    },
+    {
+      "id_qa": 52,
+      "context": "",
+      "question": "Bagaimana cara menghitung Tingkat Keberhasilan Mahasiswa (IPS) dalam satu semester?",
+      "answer": "IPS dihitung dengan rumus IPS = LKN / K, di mana LKN adalah nilai keberhasilan tertinggi dan K adalah besarnya SKS masing-masing mata kuliah.",
       "pasal": 28,
       "ayat": 5
     },
     {
+      "id_qa": 53,
       "context": "",
-      "question": "Bagaimana cara menghitung IPK mahasiswa dengan menggunakan rumus yang sama?",
-      "answer": "IPK dihitung dengan menggunakan rumus yang sama, yaitu IPS = LKN / K, tetapi dengan K sebagai jumlah seluruh SKS mata kuliah yang telah ditempuh dengan nilai tertinggi dan N adalah nilai seluruh mata kuliah yang diperoleh.",
+      "question": "Apa yang dimaksud dengan bobot SKS dalam perhitungan IPS?",
+      "answer": "Bobot SKS hanya dipergunakan satu kali sebagai pembagi dalam perhitungan IPS.",
       "pasal": 28,
       "ayat": 5
     },
     {
+      "id_qa": 54,
       "context": "",
       "question": "Apa yang dimaksud dengan penilaian hasil belajar mahasiswa?",
-      "answer": "Penilaian hasil belajar mahasiswa adalah proses evaluasi kemampuan dan pencapaian tujuan pembelajaran oleh mahasiswa.",
+      "answer": "Penilaian hasil belajar mahasiswa adalah proses evaluasi kinerja dan kemajuan akademik mahasiswa secara berkala sesuai dengan kurikulum.",
       "pasal": 28,
       "ayat": 6
     },
     {
+      "id_qa": 55,
       "context": "",
-      "question": "Apakah penilaian hasil belajar dilakukan secara berkala?",
-      "answer": "Ya, penilaian hasil belajar dilakukan pada setiap semester.",
+      "question": "Mengapa penilaian hasil belajar mahasiswa dilakukan secara berkala?",
+      "answer": "Penilaian hasil belajar mahasiswa dilakukan secara berkala untuk memantau kemajuan akademik mahasiswa dan menyesuaikan strategi pembelajaran yang lebih efektif.",
+      "pasal": 28,
+      "ayat": 6
+    },
+    {
+      "id_qa": 56,
+      "context": "",
+      "question": "Apakah penilaian hasil belajar pada setiap mata kuliah dilakukan secara berkala?",
+      "answer": "Ya, penilaian hasil belajar pada setiap mata kuliah dilakukan pada setiap semester.",
       "pasal": 28,
       "ayat": 7
     },
     {
+      "id_qa": 57,
       "context": "",
-      "question": "Apa prinsip-prinsip yang melandasi penilaian?",
-      "answer": "Penilaian dilaksanakan berdasarkan prinsip kesesuaian, akuntabilitas, transparansi, kejujuran, dan keadilan.",
+      "question": "Apa prinsip-prinsip yang digunakan dalam penilaian?",
+      "answer": "Prinsip-prinsip yang digunakan dalam penilaian adalah kesesuaian, akuntabilitas, transparansi, kejujuran, dan keadilan.",
       "pasal": 28,
       "ayat": 8
     },
     {
+      "id_qa": 58,
       "context": "",
       "question": "Apa saja aspek yang diukur dalam evaluasi hasil belajar?",
-      "answer": "Aspek yang diukur dalam evaluasi hasil belajar mencakup kemampuan akademik dan keterampilan berperilaku, yaitu kognitif, afektif, psikomotorik, kejujuran akademik, kedisiplinan, kesantunan, kemampuan berinteraksi, dan bekerja sama.",
+      "answer": "Aspek yang diukur dalam evaluasi hasil belajar adalah kemampuan akademik yang mencakup kognitif, afektif, dan psikomotorik, serta keterampilan berperilaku.",
       "pasal": 28,
       "ayat": 9
     },
     {
+      "id_qa": 59,
       "context": "",
-      "question": "Siapakah yang boleh mengikuti evaluasi semester?",
+      "question": "Apa tujuan dari penyesuaian aspek evaluasi hasil belajar pada setiap mata kuliah?",
+      "answer": "Tujuan dari penyesuaian aspek evaluasi hasil belajar adalah disesuaikan dengan jenis dan tujuan belajar pada setiap mata kuliah.",
+      "pasal": 28,
+      "ayat": 9
+    },
+    {
+      "id_qa": 60,
+      "context": "",
+      "question": "Siapakah yang dapat ikut evaluasi semester?",
       "answer": "Peserta kuliah atau kegiatan pembelajaran yang tercantum dalam Daftar Peserta Mata Kuliah (DPMK) di sistem SIAMIK.",
       "pasal": 28,
       "ayat": 10
     },
     {
+      "id_qa": 61,
       "context": "",
-      "question": "Apa yang mengatur ketentuan pelaksanaan, persyaratan, penjadwalan, dan tata tertib ujian?",
-      "answer": "Ketentuan tersebut diatur lebih lanjut oleh Fakultas.",
+      "question": "Apa syarat minimum untuk mengikuti evaluasi semester?",
+      "answer": "Peserta harus telah mengikuti kuliah atau kegiatan pembelajaran sekurang-kurangnya 90%.",
+      "pasal": 28,
+      "ayat": 10
+    },
+    {
+      "id_qa": 62,
+      "context": "",
+      "question": "Apa yang menentukan ketentuan pelaksanaan ujian?",
+      "answer": "Ketentuan pelaksanaan ujian ditentukan oleh Fakultas.",
       "pasal": 28,
       "ayat": 11
     },
     {
+      "id_qa": 63,
+      "context": "",
+      "question": "Bagaimana penjadwalan ujian diatur?",
+      "answer": "Penjadwalan ujian juga diatur oleh Fakultas.",
+      "pasal": 28,
+      "ayat": 11
+    },
+    {
+      "id_qa": 64,
       "context": "",
       "question": "Apakah nilai hasil ujian diumumkan sesuai dengan ketentuan yang berlaku?",
       "answer": "Ya, nilai hasil ujian diumumkan sesuai dengan ketentuan yang berlaku.",
@@ -352,69 +520,79 @@
       "ayat": 12
     },
     {
+      "id_qa": 65,
       "context": "",
-      "question": "Apa yang akan dilakukan oleh Dekan jika dosen atau tim dosen tidak memberikan nilai hasil ujian semester sampai batas waktu yang ditentukan?",
-      "answer": "Dekan akan memberikan nilai B kepada semua Mahasiswa yang memenuhi syarat sebagai peserta ujian.",
+      "question": "Apa yang terjadi jika dosen tidak menyerahkan nilai hasil ujian semester tepat waktu?",
+      "answer": "Dekan memberikan nilai B kepada semua Mahasiswa yang memenuhi syarat sebagai peserta ujian.",
       "pasal": 28,
       "ayat": 13
     },
     {
+      "id_qa": 66,
       "context": "",
-      "question": "Apakah mahasiswa wajib melaporkan hasil pembelajaran mereka?",
-      "answer": "Ya, setiap mahasiswa wajib melaporkan hasil pembelajarannya dalam KHS ke PD-DIKTI di sistem SIAMIK pada setiap akhir semester.",
+      "question": "Berapa lama waktu maksimal yang dosen dapat menyerahkan nilai hasil ujian semester setelah batas waktu yang ditentukan?",
+      "answer": "Selambat-lambatnya 3 (tiga) hari dari batas waktu yang ditentukan.",
+      "pasal": 28,
+      "ayat": 13
+    },
+    {
+      "id_qa": 67,
+      "context": "",
+      "question": "Apa yang harus dilakukan oleh mahasiswa dalam melaporkan hasil pembelajarannya?",
+      "answer": "Mahasiswa wajib melaporkan hasil pembelajarannya dalam KHS ke Pangkalan Data Pendidikan Tinggi (PD-DIKTI) di sistem SIAMIK pada setiap akhir semester.",
       "pasal": 28,
       "ayat": 14
     },
     {
+      "id_qa": 68,
       "context": "",
-      "question": "Ke mana mahasiswa harus melaporkan hasil pembelajaran mereka?",
-      "answer": "Mahasiswa harus melaporkan hasil pembelajaran mereka ke Pangkalan Data Pendidikan Tinggi (PD-DIKTI) di sistem SIAMIK.",
+      "question": "Apa yang dimaksud dengan KHS dan PD-DIKTI dalam konteks pengelolaan hasil belajar mahasiswa?",
+      "answer": "KHS adalah Catatan Hasil Belajar, sedangkan PD-DIKTI adalah Pangkalan Data Pendidikan Tinggi.",
       "pasal": 28,
       "ayat": 14
     },
     {
+      "id_qa": 69,
       "context": "",
-      "question": "Apakah mahasiswa yang tidak melaporkan hasil pembelajarannya dapat melakukan perencanaan studi di KRS pada semester berikutnya?",
-      "answer": "Tidak, karena menurut ketentuan tersebut, mereka tidak bisa melakukan perencanaan studinya dalam KRS pada semester berikutnya.",
+      "question": "Apakah mahasiswa dapat membuat rencana studi di KRS jika dia tidak melaporkan hasil pembelajarannya sebelumnya?",
+      "answer": "Tidak, karena menurut ketentuan yang berlaku, mahasiswa yang tidak melaporkan hasil pembelajaran sebagaimana yang dimaksud pada ayat (14) tidak bisa melakukan perencanaan studinya dalam KRS pada semester berikutnya.",
       "pasal": 28,
       "ayat": 15
     },
     {
+      "id_qa": 70,
       "context": "",
-      "question": "Apakah wewenang dosen PA dalam memantau pelaporan hasil pembelajaran?",
-      "answer": "Dosen PA wajib memantau pelaporan hasil pembelajaran pada setiap mahasiswa yang menjadi bimbingan akademiknya.",
+      "question": "Apa kewajiban seorang dosen Pembimbing Akademik (PA) terhadap pelaporan hasil pembelajaran mahasiswanya?",
+      "answer": "Seorang dosen PA wajib memantau pelaporan hasil pembelajaran tersebut pada ayat (14) pada setiap mahasiswa yang menjadi bimbingan akademiknya.",
       "pasal": 28,
       "ayat": 16
     },
     {
+      "id_qa": 71,
       "context": "",
-      "question": "Bagaimana langkah-langkah yang harus diambil oleh dosen PA untuk memantau pelaporan hasil pembelajaran?",
-      "answer": "Dosen PA harus memantau pelaporan hasil pembelajaran tersebut berdasarkan ayat (14) pada setiap mahasiswa yang menjadi bimbingan akademiknya.",
-      "pasal": 28,
-      "ayat": 16
-    },
-    {
-      "context": "",
-      "question": "Apa yang harus dilakukan oleh setiap mahasiswa program sarjana?",
-      "answer": "Setiap mahasiswa program sarjana wajib menyusun dan melaksanakan tugas akhir/skripsi.",
+      "question": "Apa yang harus dilakukan oleh setiap mahasiswa dalam menyelesaikan tugas akhir/skripsi?",
+      "answer": "Setiap mahasiswa wajib menyusun dan melaksanakan tugas akhir/skripsi.",
       "pasal": 30,
       "ayat": 1
     },
     {
+      "id_qa": 72,
       "context": "",
-      "question": "Apakah mahasiswa harus menyelesaikan mata kuliah prasyarat sebelum mengambil tugas akhir/skripsi/prototipe?",
-      "answer": "Ya, mahasiswa harus menyelesaikan mata kuliah prasyarat untuk dapat mengambil tugas akhir/skripsi/prototipe.",
+      "question": "Apa syarat yang harus dipenuhi mahasiswa untuk dapat menerima tugas akhir/skripsi/prototipe?",
+      "answer": "Mahasiswa harus menyelesaikan mata kuliah dengan jumlah SKS sesuai yang dipersyaratkan Program Studi pada kurikulum masing-masing dan menyelesaikan mata kuliah prasyarat, serta memiliki IPK minimal 2,00.",
       "pasal": 30,
       "ayat": 2
     },
     {
+      "id_qa": 73,
       "context": "",
-      "question": "Apakah IPK minimal yang dibutuhkan oleh mahasiswa untuk dapat mengambil tugas akhir/skripsi/prototipe?",
-      "answer": "IPK minimal 2,00 (dua koma nol nol) adalah syarat yang harus dipenuhi oleh mahasiswa untuk dapat mengambil tugas akhir/skripsi/prototipe.",
+      "question": "Apakah ada syarat lain selain akademik yang harus dipenuhi mahasiswa untuk dapat menerima tugas akhir/skripsi/prototipe?",
+      "answer": "Ya, mahasiswa juga harus mempunyai kemampuan berbahasa Inggris setara dengan TOEFL 450 atau International Certificate JETSET Level 4-Pearson-LCCI-UK.",
       "pasal": 30,
       "ayat": 2
     },
     {
+      "id_qa": 74,
       "context": "",
       "question": "Apakah tugas akhir/skripsi/prototipe harus disusun berdasarkan kaidah dan etika keilmuan?",
       "answer": "Ya, tugas akhir/skripsi/prototipe wajib disusun berdasarkan kaidah dan etika keilmuan.",
@@ -422,48 +600,71 @@
       "ayat": 3
     },
     {
+      "id_qa": 75,
       "context": "",
-      "question": "Apakah tulisan tugas akhir/skripsi/prototipe boleh mengandung unsur plagiarisme?",
-      "answer": "Tidak, tulisan tugas akhir/skripsi/prototipe harus bebas dari unsur plagiarisme.",
+      "question": "Apakah ada unsur plagiarisme yang diperbolehkan dalam penulisan tugas akhir/skripsi/prototipe?",
+      "answer": "Tidak, tugas akhir/skripsi/prototipe harus bebas dari unsur plagiarisme.",
       "pasal": 30,
       "ayat": 3
     },
     {
+      "id_qa": 76,
       "context": "",
-      "question": "Apa yang dimaksud dengan topik tugas akhir/skripsi dalam peta jalan penelitian atau pengabdian masyarakat?",
-      "answer": "Topik tugas akhir/skripsi merupakan bagian dari peta jalan penelitian atau pengabdian masyarakat yang ditetapkan di Fakultas atau Program Studi.",
+      "question": "Apa tujuan utama topik tugas akhir/skripsi dalam peta jalan penelitian?",
+      "answer": "Topik tugas akhir/skripsi merupakan bagian dari peta jalan penelitian yang ditetapkan di Fakultas atau Program Studi untuk menentukan arah dan fokus penelitian mahasiswa.",
       "pasal": 30,
       "ayat": 4
     },
     {
+      "id_qa": 77,
+      "context": "",
+      "question": "Bagaimana topik tugas akhir/skripsi ditetapkan dalam peta jalan penelitian?",
+      "answer": "Topik tugas akhir/skripsi ditetapkan oleh Fakultas atau Program Studi sebagai bagian dari peta jalan penelitian yang telah ditentukan.",
+      "pasal": 30,
+      "ayat": 4
+    },
+    {
+      "id_qa": 78,
       "context": "",
       "question": "Apakah cek plagiasi yang diperlukan untuk laporan tugas akhir/skripsi/prototipe harus dikeluarkan secara resmi oleh Perpustakaan UPN “Veteran” Jawa Timur?",
-      "answer": "Ya, cek plagiasi yang dikeluarkan secara resmi oleh Perpustakaan UPN “Veteran” Jawa Timur wajib dilampirkan untuk laporan tugas akhir/skripsi/prototipe.",
+      "answer": "Ya, cek plagiasi yang diperlukan harus dikeluarkan secara resmi oleh Perpustakaan UPN “Veteran” Jawa Timur.",
       "pasal": 30,
       "ayat": 5
     },
     {
+      "id_qa": 79,
       "context": "",
-      "question": "Berapa persentase maksimal toleransi plagiasi yang diizinkan dalam laporan tugas akhir/skripsi/prototipe?",
-      "answer": "Persyaratan plagiasi kurang dari 20% diperlukan untuk laporan tugas akhir/skripsi/prototipe.",
+      "question": "Apa persentase plagiasi yang diizinkan untuk laporan tugas akhir/skripsi/prototipe?",
+      "answer": "Persyaratan plagiasi kurang dari 20%.",
       "pasal": 30,
       "ayat": 5
     },
     {
+      "id_qa": 80,
       "context": "",
-      "question": "Berapa SKS yang ditetapkan sebagai beban studi tugas akhir atau skripsi?",
-      "answer": "Beban studi tugas akhir atau skripsi adalah 6 (enam) sampai dengan 10 (sepuluh) SKS.",
+      "question": "Apakah jumlah SKS beban studi tugas akhir atau skripsi yang ditetapkan?",
+      "answer": "Jumlah SKS beban studi tugas akhir atau skripsi yang ditetapkan adalah 6 (enam) sampai dengan 10 (sepuluh) SKS.",
       "pasal": 30,
       "ayat": 6
     },
     {
+      "id_qa": 81,
       "context": "",
-      "question": "Apakah syarat yang harus dipenuhi sebelum ujian tugas akhir/skripsi/prototipe dapat dilaksanakan?",
+      "question": "Apa syarat yang harus dipenuhi mahasiswa sebelum melakukan ujian tugas akhir/skripsi/prototipe?",
       "answer": "Mahasiswa harus menyelesaikan semua mata kuliah wajib dan pilihan sesuai kurikulum yang berlaku.",
       "pasal": 30,
       "ayat": 7
     },
     {
+      "id_qa": 82,
+      "context": "",
+      "question": "Apakah ada forum ilmiah yang dapat digunakan untuk menyajikan bagian dari tugas akhir/skripsi?",
+      "answer": "Ya, mahasiswa dapat menyajikan bagian dari tugas akhir/skripsi dalam forum ilmiah nasional/internasional dan dibuktikan dengan sertifikat pemakalah.",
+      "pasal": 30,
+      "ayat": 7
+    },
+    {
+      "id_qa": 83,
       "context": "",
       "question": "Apakah ujian tugas akhir/skripsi/prototipe dilaksanakan secara tertutup?",
       "answer": "Ya, sesuai dengan peraturan yang berlaku di Program Studi.",
@@ -471,62 +672,103 @@
       "ayat": 8
     },
     {
+      "id_qa": 84,
       "context": "",
-      "question": "Berapa tahap yang ada dalam ujian tugas akhir/skripsi/prototipe?",
-      "answer": "Terdiri atas 2 (dua) tahap.",
+      "question": "Berapa tahap yang ada dalam proses ujian tugas akhir/skripsi/prototipe?",
+      "answer": "Ada 2 (dua) tahap, yaitu presentasi oleh mahasiswa dan tanya jawab.",
       "pasal": 30,
       "ayat": 8
     },
     {
+      "id_qa": 85,
       "context": "",
-      "question": "Berapa jumlah dosen penguji tugas akhir/skripsi/prototipe yang diharapkan?",
-      "answer": "Minimal 2 (dua) orang.",
+      "question": "Berapa jumlah minimal dosen penguji tugas akhir yang harus ada?",
+      "answer": "Dosen penguji tugas akhir/skripsi/prototipe di Tuar harus minimal 2 (dua) orang.",
       "pasal": 30,
       "ayat": 9
     },
     {
+      "id_qa": 86,
       "context": "",
-      "question": "Apakah syarat untuk diundang sebagai penguji yang bukan dari kalangan akademik?",
-      "answer": "Penguji harus memiliki keahlian dalam bidang terkait.",
+      "question": "Apakah penguji non-akademik dapat diundang untuk menilai karya akhir mahasiswa?",
+      "answer": "Ya, penguji yang bukan dari kalangan akademik tetapi memiliki keahlian dalam bidang terkait dapat diundang untuk menilai karya akhir mahasiswa.",
       "pasal": 30,
       "ayat": 10
     },
     {
+      "id_qa": 87,
       "context": "",
-      "question": "Siapa saja yang memiliki hak atas HKI terkait tugas akhir/skripsi?",
-      "answer": "Mahasiswa, para pembimbing, dan universitas memiliki hak bersama atas HKI terkait tugas akhir/skripsi.",
+      "question": "Apakah syarat utama bagi seseorang untuk dapat diundang sebagai penguji non-akademik?",
+      "answer": "Syarat utamanya adalah memiliki keahlian dalam bidang terkait, tidak perlu dari kalangan akademik.",
+      "pasal": 30,
+      "ayat": 10
+    },
+    {
+      "id_qa": 88,
+      "context": "",
+      "question": "Apa yang dimaksud dengan hak bersama atas HKI terkait materi tugas akhir/skripsi/prototipe?",
+      "answer": "Segala bentuk luaran berupa HKI (Hak Kekayaan Intelektual), artikel jurnal ilmiah, dsb yang terkait dengan materi tugas akhir/skripsi/prototipe akan menjadi hak bersama antara mahasiswa, para pembimbing dan universitas.",
       "pasal": 30,
       "ayat": 11
     },
     {
+      "id_qa": 89,
       "context": "",
-      "question": "Apakah hak penggunaan data dan luarannya diatur dalam PKS antara dosen pembimbing, mahasiswa, dan pihak lain yang terkait?",
-      "answer": "Ya, hak penggunaan data dan luarannya diatur dalam Perjanjian Kerja Sama (PKS) antara dosen pembimbing, mahasiswa, dan pihak lain yang diketahui Program Studi dan disetujui oleh Fakultas/Dekan.",
+      "question": "Siapa saja yang memiliki hak atas HKI terkait materi tugas akhir/skripsi/prototipe?",
+      "answer": "Mahasiswa, para pembimbing, dan universitas memiliki hak bersama atas HKI terkait materi tugas akhir/skripsi/prototipe.",
+      "pasal": 30,
+      "ayat": 11
+    },
+    {
+      "id_qa": 90,
+      "context": "",
+      "question": "Bagaimana hak penggunaan data dan luarannya diatur dalam penelitian kerja sama dengan dana pihak lain?",
+      "answer": "Hak penggunaan data dan luarannya diatur dalam Perjanjian Kerja Sama (PKS) antara dosen pembimbing, mahasiswa, dan pihak lain yang diketahui Program Studi dan disetujui oleh Fakultas/Dekan.",
       "pasal": 30,
       "ayat": 12
     },
     {
+      "id_qa": 91,
       "context": "",
-      "question": "Apakah mahasiswa yang berhasil mempublikasikan artikel ilmiah dalam jurnal nasional terakreditasi Sinta 1-3 atau internasional bereputasi dengan Scimago Journal Rank (SJR) s 0,1 dan/atau Journal Impact Factor (JIF) s 0,05 sebagai penulis pertama masih harus menyusun skripsinya sampai selesai?",
-      "answer": "Ya, mahasiswa tetap harus menyusun skripsinya sampai selesai meskipun telah mempublikasikan artikel ilmiah tersebut.",
+      "question": "Apakah mahasiswa dapat menyelesaikan skripsinya tanpa ujian jika luaran tugas akhirnya dipublikasikan dalam jurnal nasional terakreditasi Sinta?",
+      "answer": "Ya, mahasiswa tetap menyusun skripsinya sampai selesai dan dinyatakan lulus dengan nilai A.",
       "pasal": 30,
       "ayat": 13
     },
     {
+      "id_qa": 92,
       "context": "",
-      "question": "Apakah luaran tugas akhir/skripsi/prototipe dapat dibuat dalam bentuk lain?",
-      "answer": "Ya, luaran tugas akhir/skripsi/prototipe bisa dibuat dalam bentuk cipta karya yang telah diuji keilmiahannya tingkat nasional/internasional.",
+      "question": "Apakah ada perbedaan nilai yang diberikan jika skripsi dipublikasikan dalam jurnal internasional tidak bereputasi?",
+      "answer": "Ya, jika skripsi dipublikasikan dalam jurnal internasional tidak bereputasi, maka nilai yang diberikan adalah A-.",
+      "pasal": 30,
+      "ayat": 13
+    },
+    {
+      "id_qa": 93,
+      "context": "",
+      "question": "Apakah penulis pertama harus memenuhi syarat publikasi untuk dapat menyelesaikan skripsinya tanpa ujian?",
+      "answer": "Ya, sebagai penulis pertama, mahasiswa harus berhasil dipublikasikan dalam jurnal nasional terakreditasi Sinta atau jurnal internasional bereputasi.",
+      "pasal": 30,
+      "ayat": 13
+    },
+    {
+      "id_qa": 94,
+      "context": "",
+      "question": "Apakah jenis luaran tugas akhir yang dapat dibuat?",
+      "answer": "Luaran tugas akhir bisa dibuat dalam bentuk cipta karya yang telah diuji keilmiahannya tingkat nasional/internasional.",
       "pasal": 30,
       "ayat": 14
     },
     {
+      "id_qa": 95,
       "context": "",
       "question": "Apakah ada kriteria tambahan yang harus dipenuhi untuk menyelesaikan tugas akhir/skripsi di Fakultas?",
-      "answer": "Ya, kriteria tambahan ditetapkan oleh Fakultas sebagai persyaratan tambahan.",
+      "answer": "Ya, kriteria tambahan tersebut ditetapkan oleh Fakultas sebagai persyaratan tambahan selain ketentuan yang telah ditetapkan.",
       "pasal": 30,
       "ayat": 15
     },
     {
+      "id_qa": 96,
       "context": "",
       "question": "Apa yang harus dilakukan oleh mahasiswa program sarjana?",
       "answer": "Mahasiswa program sarjana wajib mengikuti kegiatan KKN.",
@@ -534,55 +776,87 @@
       "ayat": 1
     },
     {
+      "id_qa": 97,
       "context": "",
-      "question": "Apakah ada kewajiban lain selain mengikuti kegiatan KKN bagi mahasiswa program sarjana?",
-      "answer": "Tidak disebutkan dalam teks bahwa ada kewajiban lain selain mengikuti kegiatan KKN.",
+      "question": "Mengapa kegiatan KKN menjadi wajib bagi mahasiswa program sarjana?",
+      "answer": "Karena kegiatan KKN merupakan bagian dari kurikulum program sarjana dan bertujuan untuk memberikan pengalaman belajar yang lebih luas.",
       "pasal": 33,
       "ayat": 1
     },
     {
+      "id_qa": 98,
       "context": "",
-      "question": "Apa syarat kumulatif SKS untuk dapat menjadi peserta KKN?",
-      "answer": "Peserta KKN harus mengumpulkan SKS kumulatif paling sedikit 80 (delapan puluh) SKS.",
+      "question": "Apa syarat kumulatif SKS untuk dapat mengikuti KKN?",
+      "answer": "Paling sedikit 80 (delapan puluh) SKS.",
       "pasal": 33,
       "ayat": 2
     },
     {
+      "id_qa": 99,
       "context": "",
-      "question": "Apa yang ditetapkan oleh Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) untuk menentukan kegiatan KKN yang akan diikuti mahasiswa?",
-      "answer": "Universitas.",
+      "question": "Apa kepanjangan dari Lembaga Penelitian dan Pengabdian kepada Masyarakat?",
+      "answer": "LPPM.",
       "pasal": 33,
       "ayat": 3
     },
     {
+      "id_qa": 100,
       "context": "",
-      "question": "Apa jangka waktu penyelenggaraan KKN?",
-      "answer": "Minimal selama 1 (satu) bulan dan maksimal 6 (enam) bulan.",
+      "question": "Apa minimal waktu penyelenggaraan KKN?",
+      "answer": "Minimal 1 (satu) bulan.",
       "pasal": 33,
       "ayat": 4
     },
     {
+      "id_qa": 101,
       "context": "",
-      "question": "Siapa yang menetapkan perhitungan/konversi besar SKS masing-masing jenis KKN?",
+      "question": "Siapa yang bertanggung jawab dalam koordinasi penyelenggaraan KKN?",
+      "answer": "Lembaga Penelitian dan Pengabdian Masyarakat (LPPM).",
+      "pasal": 33,
+      "ayat": 4
+    },
+    {
+      "id_qa": 102,
+      "context": "",
+      "question": "Bagaimana perhitungan konversi besar SKS untuk jenis KKN ditentukan?",
+      "answer": "Perhitungan/konversi besarnya SKS masing-masing jenis KKN ditetapkan oleh LPPM bersama Program Studi.",
+      "pasal": 33,
+      "ayat": 5
+    },
+    {
+      "id_qa": 103,
+      "context": "",
+      "question": "Siapa yang bertanggung jawab menetapkan perhitungan konversi besar SKS untuk jenis KKN?",
       "answer": "LPPM bersama Program Studi.",
       "pasal": 33,
       "ayat": 5
     },
     {
+      "id_qa": 104,
       "context": "",
-      "question": "Apa yang menentukan jadwal pelaksanaan KKN?",
-      "answer": "Jadwal pelaksanaan KKN ditetapkan dalam kalender akademik yang ditetapkan dengan Keputusan Rektor UPN “Veteran” Jawa Timur.",
+      "question": "Apakah jadwal pelaksanaan KKN ditentukan oleh keputusan mana?",
+      "answer": "Jadwal pelaksanaan KKN diatur dalam kalender akademik yang ditetapkan dengan Keputusan Rektor UPN “Veteran” Jawa Timur.",
       "pasal": 33,
       "ayat": 6
     },
     {
+      "id_qa": 105,
       "context": "",
-      "question": "Apa yang dapat dilakukan oleh Rektor untuk menetapkan kegiatan tertentu?",
-      "answer": "Rektor dapat menetapkan kegiatan tertentu yang diakui dan disetarakan dengan KKN, yang dituangkan dalam Keputusan Rektor UPN “Veteran” Jawa Timur.",
+      "question": "Apakah Rektor dapat menetapkan kegiatan tertentu sebagai pengganti KKN?",
+      "answer": "Ya, Rektor dapat menetapkan kegiatan tertentu yang diakui dan disetarakan dengan KKN, seperti yang dituangkan dalam Keputusan Rektor UPN “Veteran” Jawa Timur.",
       "pasal": 33,
       "ayat": 7
     },
     {
+      "id_qa": 106,
+      "context": "",
+      "question": "Bagaimana kegiatan tersebut dituangkan dalam bentuk keputusan?",
+      "answer": "Kegiatan-kegiatan tertentu tersebut dituangkan dalam Keputusan Rektor UPN “Veteran” Jawa Timur.",
+      "pasal": 33,
+      "ayat": 7
+    },
+    {
+      "id_qa": 107,
       "context": "",
       "question": "Apa yang mengatur tata cara dan persyaratan pendaftaran KKN?",
       "answer": "Tata cara dan persyaratan pendaftaran KKN diatur lebih lanjut dalam Buku Pedoman Pelaksanaan KKN.",
@@ -590,83 +864,127 @@
       "ayat": 8
     },
     {
+      "id_qa": 108,
       "context": "",
-      "question": "Apa saja persyaratan yang harus dipenuhi oleh mahasiswa untuk dinyatakan lulus?",
-      "answer": "Persyaratan yang harus dipenuhi adalah telah lulus ujian tugas akhir/skripsi, telah menyerahkan revisi tugas akhir/skripsi yang lolos dari deteksi anti plagiarisme, berstatus sebagai mahasiswa aktif pada semester tersebut, menyelesaikan semua kewajiban administratif, menyelesaikan semua kewajiban dalam masa studi dan/atau tugas yang dibebankan, telah mengunggah tugas akhir/skripsi pada repository UPN “Veteran” Jawa Timur.",
+      "question": "Di mana informasi tentang tata cara dan persyaratan pendaftaran KKN dapat ditemukan?",
+      "answer": "Informasi tentang tata cara dan persyaratan pendaftaran KKN dapat ditemukan dalam Buku Pedoman Pelaksanaan KKN.",
+      "pasal": 33,
+      "ayat": 8
+    },
+    {
+      "id_qa": 109,
+      "context": "",
+      "question": "Apa persyaratan untuk dinyatakan lulus sebagai mahasiswa?",
+      "answer": "Mahasiswa harus memenuhi beberapa persyaratan, yaitu telah lulus ujian tugas akhir/skripsi, telah menyerahkan revisi tugas akhir/skripsi yang lolos dari deteksi anti plagiarisme, berstatus aktif pada semester tersebut, tidak melampaui masa studi maksimum, menyelesaikan semua kewajiban administratif, dan mengunggah tugas akhir/skripsi pada repository UPN “Veteran” Jawa Timur.",
       "pasal": 47,
       "ayat": 1
     },
     {
+      "id_qa": 110,
       "context": "",
-      "question": "Apakah syarat untuk mengunggah tugas akhir/skripsi pada repository UPN “Veteran” Jawa Timur?",
-      "answer": "Tugas akhir/skripsi dapat diunggah pada repository UPN “Veteran” Jawa Timur.",
+      "question": "Apakah yang dimaksud dengan deteksi anti plagiarisme?",
+      "answer": "Deteksi anti plagiarisme adalah aplikasi tertentu yang digunakan untuk memeriksa kemiripan tulisan, dan hasilnya dibuktikan dengan surat keterangan similarity.",
       "pasal": 47,
       "ayat": 1
     },
     {
+      "id_qa": 111,
       "context": "",
-      "question": "Bagaimana status publikasi artikel dari tugas akhir/skripsi yang telah diterbitkan dalam jurnal nasional sebagai penulis pertama?",
-      "answer": "Artikel dari tugas akhir/skripsi harus memiliki status accepted/published dengan paling rendah di jurnal nasional.",
+      "question": "Apakah tugas akhir/skripsi harus diunggah pada repository UPN “Veteran” Jawa Timur?",
+      "answer": "Ya, telah mengunggah tugas akhir/skripsi pada repository UPN “Veteran” Jawa Timur.",
       "pasal": 47,
       "ayat": 1
     },
     {
+      "id_qa": 112,
       "context": "",
-      "question": "Bagaimana kelulusan mahasiswa dinyatakan?",
-      "answer": "Kelulusan mahasiswa dinyatakan melalui penetapan kelulusan di Fakultas.",
+      "question": "Apa syarat publikasi artikel dari tugas akhir/skripsi yang dapat dipublikasikan di jurnal nasional sebagai penulis pertama?",
+      "answer": "Artikel harus telah diterima (accepted) atau sudah dipublikasikan dengan status published.",
+      "pasal": 47,
+      "ayat": 1
+    },
+    {
+      "id_qa": 113,
+      "context": "",
+      "question": "Apa yang dimaksud dengan penetapan kelulusan di Fakultas?",
+      "answer": "Penetapan kelulusan di Fakultas adalah proses pengumuman hasil kelulusan mahasiswa setelah menyelesaikan studi.",
       "pasal": 47,
       "ayat": 2
     },
     {
+      "id_qa": 114,
       "context": "",
-      "question": "Apakah proses penetapan kelulusan mahasiswa dilakukan di tingkat Fakultas?",
-      "answer": "Ya, penetapan kelulusan sebagaimana yang dimaksud pada ayat (2) tersebut diselenggarakan melalui yudisium di tingkat Fakultas.",
+      "question": "Apa yang dimaksud dengan penetapan kelulusan sebagaimana yang disebutkan pada ayat (2)?",
+      "answer": "Penetapan kelulusan tersebut diselenggarakan melalui yudisium di tingkat Fakultas.",
       "pasal": 47,
       "ayat": 3
     },
     {
+      "id_qa": 115,
       "context": "",
-      "question": "Apa yang harus dilakukan oleh mahasiswa yang tidak menyerahkan revisi dalam waktu 1 (satu) bulan sejak pelaksanaan ujian tugas akhir/skripsi?",
-      "answer": "Mahasiswa tersebut wajib mengikuti ujian ulang.",
+      "question": "Apakah yang harus dilakukan oleh mahasiswa jika tidak menyerahkan revisi dalam waktu 1 (satu) bulan sejak pelaksanaan ujian tugas akhir/skripsi?",
+      "answer": "Mahasiswa wajib mengikuti ujian ulang.",
       "pasal": 47,
       "ayat": 4
     },
     {
+      "id_qa": 116,
       "context": "",
-      "question": "Apakah ada beberapa predikat yang dapat diberikan kepada lulusan setelah menyelesaikan program sarjana?",
-      "answer": "Ya, terdapat tiga predikat yaitu Memuaskan, Sangat Memuaskan, dan Pujian (Cumlaude).",
+      "question": "Berapa lama waktu yang diberikan kepada mahasiswa untuk menyerahkan revisi setelah pelaksanaan ujian tugas akhir/skripsi?",
+      "answer": "1 (satu) bulan.",
+      "pasal": 47,
+      "ayat": 4
+    },
+    {
+      "id_qa": 117,
+      "context": "",
+      "question": "Apa saja jenis kelulusan yang diberikan kepada mahasiswa setelah menyelesaikan program sarjana?",
+      "answer": "Kelulusan yang diberikan kepada mahasiswa setelah menyelesaikan program sarjana adalah dengan atau tanpa predikat, yaitu Memuaskan, Sangat Memuaskan, dan Pujian (Cumlaude).",
       "pasal": 47,
       "ayat": 5
     },
     {
+      "id_qa": 118,
       "context": "",
-      "question": "Apakah nilai IPK yang harus dicapai untuk memperoleh predikat kelulusan Memuaskan?",
+      "question": "Apakah nilai IPK yang harus dicapai untuk mendapatkan predikat kelulusan Memuaskan?",
       "answer": "Nilai IPK yang harus dicapai adalah 2,76 (dua koma tujuh enam) sampai dengan 3,00 (tiga koma nol nol).",
       "pasal": 47,
       "ayat": 6
     },
     {
+      "id_qa": 119,
       "context": "",
-      "question": "Apakah nilai IPK yang diperlukan untuk mendapatkan predikat kelulusan Sangat Memuaskan?",
+      "question": "Apakah nilai IPK yang harus diperoleh untuk mendapatkan predikat kelulusan Sangat Memuaskan?",
       "answer": "Nilai IPK 3,01 (tiga koma nol satu) sampai dengan 3,50 (tiga koma lima nol).",
       "pasal": 47,
       "ayat": 7
     },
     {
+      "id_qa": 120,
       "context": "",
-      "question": "Apakah IPK minimum yang diperlukan untuk memperoleh predikat kelulusan Pujian?",
+      "question": "Apakah IPK minimum untuk memperoleh predikat Pujian (Cumlaude)?",
       "answer": "IPK 3,51 sampai dengan 4,00.",
       "pasal": 47,
       "ayat": 8
     },
     {
+      "id_qa": 121,
       "context": "",
-      "question": "Apakah masa studi yang diperhitungkan untuk menentukan predikat kelulusan Pujian (Cumlaude)?",
-      "answer": "Masa studi terjadwal (n semester) ditambah 1 (satu) semester.",
+      "question": "Apakah syarat nilai minimal yang harus dipenuhi untuk mendapatkan Pujian (Cumlaude)?",
+      "answer": "Nilai minimal Bt.",
+      "pasal": 47,
+      "ayat": 8
+    },
+    {
+      "id_qa": 122,
+      "context": "",
+      "question": "Apa yang ditentukan untuk menetapkan predikat kelulusan Pujian (Cumlaude)?",
+      "answer": "Predikat kelulusan Pujian (Cumlaude) ditentukan dengan memperhatikan masa studi terjadwal (n semester) ditambah 1 (satu) semester.",
       "pasal": 47,
       "ayat": 9
     },
     {
+      "id_qa": 123,
       "context": "",
       "question": "Siapa yang menerima penghargaan piagam dari Rektor?",
       "answer": "Lulusan dengan predikat \"pujian\" (cumlaude).",
@@ -674,6 +992,7 @@
       "ayat": 10
     },
     {
+      "id_qa": 124,
       "context": "",
       "question": "Berapa kali upacara wisuda yang diselenggarakan oleh UPN “Veteran” Jawa Timur dalam satu tahun?",
       "answer": "Sekurang-kurangnya 4 (empat) kali periode kelulusan.",
@@ -681,69 +1000,111 @@
       "ayat": 1
     },
     {
+      "id_qa": 125,
       "context": "",
-      "question": "Apakah mahasiswa yang telah lulus dari pendidikan sarjana di UPN “Veteran” Jawa Timur wajib mengikuti upacara wisuda?",
-      "answer": "Ya, mahasiswa yang telah lulus dari pendidikan sarjana di UPN “Veteran” Jawa Timur wajib mengikuti upacara wisuda pada periode kelulusannya, atau selambat-lambatnya 1 (satu) periode wisuda berikutnya sejak dinyatakan lulus.",
+      "question": "Apa yang harus dilakukan oleh mahasiswa yang telah dinyatakan lulus dari pendidikan sarjana di UPN “Veteran” Jawa Timur?",
+      "answer": "Mahasiswa tersebut wajib mengikuti upacara wisuda pada periode kelulusannya, atau selambat-lambatnya 1 (satu) periode wisuda berikutnya sejak dinyatakan lulus.",
       "pasal": 48,
       "ayat": 2
     },
     {
+      "id_qa": 126,
+      "context": "",
+      "question": "Apakah ada batas waktu untuk mengikuti upacara wisuda bagi mahasiswa yang telah dinyatakan lulus?",
+      "answer": "Ya, batas waktunya adalah selambat-lambatnya 1 (satu) periode wisuda berikutnya sejak dinyatakan lulus.",
+      "pasal": 48,
+      "ayat": 2
+    },
+    {
+      "id_qa": 127,
       "context": "",
       "question": "Apakah mahasiswa yang belum mengikuti wisuda dapat mendapatkan ijazah dan transkrip asli?",
-      "answer": "Tidak, karena menurut teks tersebut, mahasiswa tersebut belum bisa mendapatkan ijazah dan transkrip asli.",
+      "answer": "Tidak, karena menurut ketentuan tersebut, mereka belum bisa mendapatkan ijazah dan transkrip asli.",
       "pasal": 48,
       "ayat": 3
     },
     {
+      "id_qa": 128,
       "context": "",
-      "question": "Apa yang diterima oleh mahasiswa yang telah lulus dari program sarjana?",
-      "answer": "Mahasiswa yang telah lulus dari program sarjana akan mendapatkan ijazah, transkrip akademik, SKPI dan ucapan selamat dari Rektor.",
+      "question": "Apa yang diterima oleh mahasiswa setelah dinyatakan lulus dari program sarjana?",
+      "answer": "Mahasiswa akan mendapatkan ijazah, transkrip akademik, SKPI dan ucapan selamat dari Rektor.",
       "pasal": 48,
       "ayat": 4
     },
     {
+      "id_qa": 129,
       "context": "",
-      "question": "Apa saja kriteria yang digunakan untuk menentukan wisudawan terbaik?",
-      "answer": "Kriteria yang digunakan adalah IPK tertinggi, masa studi tercepat dan tepat waktu, poin SKPM terbesar, serta kriteria lain yang ditetapkan oleh Fakultas.",
+      "question": "Apa saja faktor-faktor yang digunakan untuk menentukan wisudawan terbaik?",
+      "answer": "Faktor-faktor yang digunakan adalah IPK tertinggi, masa studi tercepat dan tepat waktu, poin SKPM terbesar, serta kriteria lain yang ditetapkan oleh Fakultas.",
       "pasal": 48,
       "ayat": 5
     },
     {
+      "id_qa": 130,
       "context": "",
-      "question": "Apakah kriteria yang digunakan untuk menetapkan wisudawan berprestasi?",
-      "answer": "Kriteria prestasi tertinggi secara akumulatif selama menjadi mahasiswa UPN “Veteran” Jawa Timur, sesuai dengan peraturan SKPM.",
+      "question": "Apakah kriteria prestasi yang digunakan untuk menetapkan wisudawan berprestasi?",
+      "answer": "Kriteria prestasi yang digunakan adalah prestasi tertinggi secara akumulatif selama menjadi mahasiswa UPN “Veteran” Jawa Timur, mengacu pada peraturan SKPM.",
       "pasal": 48,
       "ayat": 6
     },
     {
+      "id_qa": 131,
       "context": "",
-      "question": "Apa yang terjadi pada urutan ayat dalam suatu teks ketika ada perubahan?",
-      "answer": "Ketika ada perubahan, urutan ayat akan berubah sehingga ayat (5) menjadi ayat (4), ayat (6) menjadi ayat (5) dan diubah, ayat (7) menjadi ayat (6), ayat (8) menjadi ayat (7), ayat (9) menjadi ayat (8), ayat (10) menjadi ayat (9), dan ayat (11) menjadi ayat (10).",
+      "question": "Apa bidang-bidang yang diperhatikan dalam menentukan prestasi wisudawan berprestasi?",
+      "answer": "Bidang-bidang ilmu pengetahuan, teknologi, hukum, humaniora, olahraga, dan seni budaya di tingkat nasional/internasional.",
+      "pasal": 48,
+      "ayat": 6
+    },
+    {
+      "id_qa": 132,
+      "context": "",
+      "question": "Apa yang terjadi pada urutan ayat-ayat dalam kitab suci setelah perubahan?",
+      "answer": "Ayat (5) menjadi ayat (4), ayat (6) menjadi ayat (5) dan diubah, ayat (7) menjadi ayat (6), ayat (8) menjadi ayat (7), ayat (9) menjadi ayat (8), ayat (10) menjadi ayat (9), dan ayat (11) menjadi ayat (10).",
       "pasal": null,
       "ayat": 4
     },
     {
+      "id_qa": 133,
       "context": "",
-      "question": "Apa yang dimaksud dengan ijazah dalam konteks ini?",
-      "answer": "Ijazah diberikan kepada Mahasiswa yang telah dinyatakan lulus dari suatu Program Studi.",
+      "question": "Apa yang diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi?",
+      "answer": "Ijazah diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi.",
       "pasal": 52,
       "ayat": 1
     },
     {
+      "id_qa": 134,
       "context": "",
-      "question": "Apakah informasi apa saja yang terdapat dalam sebuah ijazah?",
-      "answer": "Informasi yang terdapat dalam sebuah ijazah antara lain nomor ijazah nasional, logo Universitas Pembangunan Nasional \"Veteran\" Jawa Timur, nama universitas, nomor pokok universitas, program pendidikan tinggi, nama Program Studi, nama lengkap pemilik ijazah, nomor induk mahasiswa, tempat dan tanggal lahir pemilik ijazah, gelar akademik/sebutan yang diberikan beserta singkatannya, tanggal, bulan, dan tahun kelulusan, tempat, tanggal, bulan dan tahun penerbitan ijazah, nama, jabatan, nomor induk pegawai, dan tanda tangan Rektor dan Dekan.",
+      "question": "Bagaimana proses penetapan kelulusan dilakukan terhadap mahasiswa?",
+      "answer": "Proses penetapan kelulusan dilakukan setelah diputuskan pada pelaksanaan penetapan kelulusan.",
+      "pasal": 52,
+      "ayat": 1
+    },
+    {
+      "id_qa": 135,
+      "context": "",
+      "question": "Apakah informasi yang terkandung dalam ijazah UPN \"Veteran\" Jawa Timur?",
+      "answer": "Ijazah memuat informasi tentang nomor ijazah nasional, logo UPN \"Veteran\" Jawa Timur, nama Universitas Pembangunan Nasional \"Veteran\" Jawa Timur, nomor pokok UPN \"Veteran\" Jawa Timur, program pendidikan tinggi, nama Program Studi, nama lengkap pemilik ijazah, nomor induk mahasiswa, tempat dan tanggal lahir pemilik ijazah, gelar akademik/sebutan yang diberikan beserta singkatannya, tanggal, bulan, dan tahun kelulusan, tempat, tanggal, bulan dan tahun penerbitan ijazah, nama, jabatan, nomor induk pegawai, dan tanda tangan Rektor dan Dekan, stempel UPN \"Veteran\" Jawa Timur, foto pemilik ijazah berwarna ukuran 3 x 4 sentimeter, dan kode batang atau barcode atau codecert sebagai identifikasi khusus ijazah.",
       "pasal": 52,
       "ayat": 2
     },
     {
+      "id_qa": 136,
       "context": "",
-      "question": "Apa bentuk huruf yang digunakan untuk menulis ijazah?",
-      "answer": "Ijazah ditulis dengan bentuk huruf yang dibakukan oleh UPN “Veteran” Jawa Timur.",
+      "question": "Apakah ada kode unik dalam ijazah UPN \"Veteran\" Jawa Timur?",
+      "answer": "Ijazah UPN \"Veteran\" Jawa Timur memiliki kode batang atau barcode atau codecert sebagai identifikasi khusus ijazah.",
+      "pasal": 52,
+      "ayat": 2
+    },
+    {
+      "id_qa": 137,
+      "context": "",
+      "question": "Apa bentuk huruf yang digunakan untuk menulis ijazah di Universitas Negeri \"Veteran\" Jawa Timur?",
+      "answer": "Hurufnya dibakukan oleh UPN “Veteran” Jawa Timur.",
       "pasal": 52,
       "ayat": 3
     },
     {
+      "id_qa": 138,
       "context": "",
       "question": "Siapa yang menandatangani ijazah?",
       "answer": "Rektor dan Dekan.",
@@ -751,92 +1112,137 @@
       "ayat": 4
     },
     {
+      "id_qa": 139,
       "context": "",
       "question": "Apakah bahasa yang digunakan untuk menerbitkan ijazah?",
-      "answer": "Bahasa Indonesia.",
+      "answer": "Ijazah diterbitkan menggunakan Bahasa Indonesia.",
       "pasal": 52,
       "ayat": 5
     },
     {
+      "id_qa": 140,
       "context": "",
-      "question": "Apakah prosedur penerbitan ijazah bagi setiap lulusan?",
+      "question": "Apakah kebijakan mengenai penerbitan ijazah bagi siswa?",
       "answer": "Ijazah diterbitkan satu kali bagi setiap lulusan.",
       "pasal": 52,
       "ayat": 6
     },
     {
+      "id_qa": 141,
       "context": "",
-      "question": "Apakah Keputusan Rektor UPN “Veteran” Jawa Timur mengatur prosedur penerbitan ijazah dan surat keterangan pengganti ijazah?",
-      "answer": "Ya, Keputusan Rektor UPN “Veteran” Jawa Timur mengatur prosedur penerbitan ijazah dan surat keterangan pengganti ijazah.",
+      "question": "Bagaimana prosedur jika ijazah seseorang hilang atau rusak?",
+      "answer": "Pemilik ijazah dapat meminta surat keterangan pengganti ijazah.",
+      "pasal": 52,
+      "ayat": 7
+    },
+    {
+      "id_qa": 142,
+      "context": "",
+      "question": "Apa yang dapat dilakukan oleh pemilik ijazah jika ijazahnya tidak dapat digunakan lagi?",
+      "answer": "Mereka dapat meminta surat keterangan pengganti ijazah sebagai gantinya.",
+      "pasal": 52,
+      "ayat": 7
+    },
+    {
+      "id_qa": 143,
+      "context": "",
+      "question": "Apa yang mengatur prosedur penerbitan ijazah dan surat keterangan pengganti ijazah di UPN “Veteran” Jawa Timur?",
+      "answer": "Prosedur tersebut diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur.",
       "pasal": 52,
       "ayat": 8
     },
     {
+      "id_qa": 144,
       "context": "",
-      "question": "Siapa yang menandatangani legalisasi fotokopi atau salinan ijazah?",
+      "question": "Apakah ada keputusan yang mengatur prosedur penerbitan ijazah dan surat keterangan pengganti ijazah di UPN “Veteran” Jawa Timur?",
+      "answer": "Ya, ada Keputusan Rektor UPN “Veteran” Jawa Timur yang mengatur tentang hal tersebut.",
+      "pasal": 52,
+      "ayat": 8
+    },
+    {
+      "id_qa": 145,
+      "context": "",
+      "question": "Siapa yang dapat menandatangani legalisasi fotokopi atau salinan ijazah?",
       "answer": "Wakil Rektor bidang akademik dan/atau Dekan, atas nama Rektor.",
       "pasal": 52,
       "ayat": 9
     },
     {
+      "id_qa": 146,
       "context": "",
-      "question": "Apa yang harus dipenuhi oleh mahasiswa untuk menerima ijazah?",
+      "question": "Apakah syarat-syarat apa yang harus dipenuhi oleh mahasiswa untuk menerima ijazah?",
       "answer": "Mahasiswa harus memenuhi semua persyaratan administrasi di tingkat Fakultas dan/ atau di tingkat universitas.",
       "pasal": 52,
       "ayat": 10
     },
     {
+      "id_qa": 147,
       "context": "",
-      "question": "Apa yang dilakukan terhadap mahasiswa yang telah dinyatakan lulus dari suatu Program Studi?",
-      "answer": "Transkrip akademik diberikan kepada mereka.",
+      "question": "Apakah dokumen yang diberikan kepada mahasiswa yang telah lulus?",
+      "answer": "Transkrip akademik.",
       "pasal": 53,
       "ayat": 1
     },
     {
+      "id_qa": 148,
       "context": "",
       "question": "Apa saja informasi yang terdapat dalam transkrip akademik?",
-      "answer": "Transkrip akademik memuat informasi tentang logo UPN “Veteran” Jawa Timur, nama Universitas Pembangunan Nasional “Veteran” Jawa Timur, nomor pokok UPN “Veteran” Jawa Timur, nomor transkrip akademik, homor ijazah nasional, program pendidikan tinggi, hama program studi, nomor pokok program studi, nama lengkap pemilik transkrip akademik, tempat dan tanggal lahir pemilik transkrip akademik, nomor induk mahasiswa, tanggal, bulan, dan tahun kelulusan, tempat, tanggal, bulan dan tahun penerbitan transkrip akademik, nama, jabatan, nomor induk pegawai dan tanda tangan Dekan, stempel UPN “Veteran” Jawa Timur, daftar semua nama mata kuliah yang ditempuh dan lulus, bobot SKS, dan nilai yang telah diperoleh mulai semester pertama sampai dengan semester akhir, serta IPK dan predikat kelulusan.",
+      "answer": "Transkrip akademik memuat informasi tentang logo UPN “Veteran” Jawa Timur, nama Universitas Pembangunan Nasional “Veteran” Jawa Timur, nomor pokok UPN “Veteran” Jawa Timur, nomor transkrip akademik, homor ijazah nasional, program pendidikan tinggi, nama lengkap pemilik transkrip akademik, tempat dan tanggal lahir pemilik transkrip akademik, nomor induk mahasiswa, tanggal, bulan, dan tahun kelulusan, tempat, tanggal, bulan dan tahun penerbitan transkrip akademik, nama, jabatan, nomor induk pegawai dan tanda tangan Dekan, stempel UPN “Veteran” Jawa Timur, daftar semua nama mata kuliah yang ditempuh dan lulus, bobot SKS, nilai yang telah diperoleh mulai semester pertama sampai dengan semester akhir, IPK, dan predikat kelulusan.",
       "pasal": 53,
       "ayat": 2
     },
     {
+      "id_qa": 149,
       "context": "",
       "question": "Apakah semua mata kuliah yang ditempuh oleh mahasiswa dicantumkan dalam transkrip akademik?",
-      "answer": "Ya, termasuk yang mengulang dan yang diperoleh melalui transfer kredit (credit transfer) dan/atau perolehan kredit (credit earning).",
+      "answer": "Ya, semua mata kuliah yang ditempuh oleh mahasiswa, termasuk yang mengulang dan yang diperoleh melalui transfer kredit (credit transfer) dan/atau perolehan kredit (credit earning), dicantumkan dalam transkrip akademik.",
       "pasal": 53,
       "ayat": 3
     },
     {
+      "id_qa": 150,
       "context": "",
-      "question": "Apakah transkrip akademik harus diterbitkan dalam bahasa apa?",
-      "answer": "Transkrip akademik harus diterbitkan menggunakan Bahasa Indonesia.",
+      "question": "Apakah bahasa apa yang digunakan untuk menerbitkan transkrip akademik?",
+      "answer": "Transkrip akademik diterbitkan menggunakan Bahasa Indonesia.",
       "pasal": 53,
       "ayat": 4
     },
     {
+      "id_qa": 151,
       "context": "",
-      "question": "Apakah yang dimaksud dengan transkrip akademik?",
-      "answer": "Transkrip akademik adalah dokumen resmi yang memuat catatan kegiatan akademik seseorang, seperti nilai dan kredit kuliah yang telah ditempuh.",
+      "question": "Apa yang dimaksud dengan transkrip akademik?",
+      "answer": "Transkrip akademik adalah dokumen resmi yang memuat catatan akademik seseorang, termasuk nilai-nilai dan kredit kuliah.",
       "pasal": 53,
       "ayat": 5
     },
     {
+      "id_qa": 152,
       "context": "",
-      "question": "Apa yang mengatur prosedur penerbitan transkrip akademik di UPN \"Veteran\" Jawa Timur?",
-      "answer": "Keputusan Rektor UPN “Veteran” Jawa Timur mengatur prosedur penerbitan transkrip akademik.",
+      "question": "Siapa yang bertanggung jawab untuk menandatangani transkrip akademik?",
+      "answer": "Dekan adalah yang bertanggung jawab untuk menandatangani transkrip akademik.",
+      "pasal": 53,
+      "ayat": 5
+    },
+    {
+      "id_qa": 153,
+      "context": "",
+      "question": "Apa yang mengatur prosedur penerbitan transkrip akademik di Universitas Pembangunan Nasional (UPN) \"Veteran\" Jawa Timur?",
+      "answer": "Prosedur penerbitan transkrip akademik diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur.",
       "pasal": 53,
       "ayat": 6
     },
     {
+      "id_qa": 154,
       "context": "",
-      "question": "Siapa yang bertindak sebagai perwakilan Rektor untuk menandatangani legalisasi fotokopi atau salinan transkrip akademik?",
-      "answer": "Wakil Rektor bidang akademik dan/atau Dekan.",
+      "question": "Siapa yang menandatangani legalisasi fotokopi atau salinan transkrip akademik?",
+      "answer": "Wakil Rektor bidang akademik dan/atau Dekan, atas nama Rektor.",
       "pasal": 53,
       "ayat": 7
     },
     {
+      "id_qa": 155,
       "context": "",
-      "question": "Apakah syarat-syarat apa yang harus dipenuhi oleh mahasiswa sebelum menyampaikan transkrip akademik?",
+      "question": "Apa syarat yang harus dipenuhi mahasiswa sebelum dapat menerima transkrip akademik?",
       "answer": "Mahasiswa harus memenuhi semua persyaratan administrasi di tingkat Fakultas dan/atau di tingkat Universitas.",
       "pasal": 53,
       "ayat": 8
